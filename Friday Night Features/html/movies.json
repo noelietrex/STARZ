@@ -1,0 +1,497 @@
+{
+	"movies":[
+		{
+			"title":"Elysium",
+			"date":"August 1, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_elysium.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Elysium © 2013 Tristar Pictures, Inc. All Rights Reserved."
+		},
+		{
+			"title":"American Hustle",
+			"date":"August 8, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_americanHustle.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"American Hustle © 2013 Columbia Pictures Industries, Inc. All Rights Reserved."
+		},
+		{
+			"title":"At Middleton",
+			"date":"August 15, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_atMiddleton.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"At Middleton © 2012 Bach’s Hands, LLC."
+		},
+		{
+			"title":"Kill Your Darlings",
+			"date":"August 22, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_killYourDarlings.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Kill Your Darlings ©."
+		},
+		{
+			"title":"Saving Mr. Banks",
+			"date":"September 5, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_savingMrBanks.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Saving Mr. Banks © Disney Enterprises, Inc. All Rights Reserved."
+		},
+		{
+			"title":"A Birder's Guide to Everything",
+			"date":"September 12, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_birdersGuide.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"A Birder’s Guide to Everything © 2013 Labrador Duck Productions LLC."
+		},
+		{
+			"title":"Thor: The Dark World",
+			"date":"September 19, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_thorTheDarkWorld.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Thor: The Dark World © Marvel. All Right Reserved."
+		},
+		{
+			"title":"A.C.O.D.",
+			"date":"September 26, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_acod.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"A.C.O.D. ©."
+		},
+		{
+			"title":"About Last Night",
+			"date":"October 3, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_aboutLastNight.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"About Last Night © 2014 Screen Gems, Inc. All Right Reserved."
+		},
+		{
+			"title":"A Single Shot",
+			"date":"October 10, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_singleShot.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"A Single Shot © 2013 A Single Shot Movie, LLLP."
+		},
+		{
+			"title":"The Monuments Men",
+			"date":"October 17, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_monumentsMen.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"The Monuments Men © 2013 Columbia Pictures Industries, Inc. All Rights Reserved."
+		},
+		{
+			"title":"Reasonable Doubt",
+			"date":"October 31, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_reasonableDoubt.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Reasonable Doubt ©."
+		},
+		{
+			"title":"Pompeii",
+			"date":"November 7, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_pompeii.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Pompeii © 2014 Sony Pictures Classics."
+		},
+		{
+			"title":"Small Time",
+			"date":"November 14, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_smallTime.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Small Time © 2014 Anchor Bay."
+		},
+		{
+			"title":"Heaven is for Real",
+			"date":"November 21, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_heavenIsForReal.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Heaven Is For Real © 2014 Tristar Pictures, Inc."
+		},
+		{
+			"title":"Anna",
+			"date":"November 28, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_anna.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Anna © 2013 Vertical Entertainment."
+		},
+		{
+			"title":"The Amazing Spider-Man 2",
+			"date":"December 5, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_amazingSpiderman2.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"The Amazing Spider-Man 2 © 2014 CPII and LSC. Spider-Man and related characters and elements: TM © 2014 Marvel. All Rights Reserved."
+		},
+		{
+			"title":"Trust Me",
+			"date":"December 12, 2014 21:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_trustMe.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Trust Me © 2013 TMF Productions, LLC. All Rights Reserved."
+		},
+		{
+			"title":"Muppets Most Wanted",
+			"date":"December 19, 2014 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_muppetsMostWanted.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Muppet Most Wanted © Disney. All Rights Reserved."
+		},
+		{
+			"title":"Very Good Girls",
+			"date":"December 26, 2014 23:20:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_veryGoodGirls.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Very Good Girls ©."
+		},
+		{
+			"title":"Mom's Night Out",
+			"date":"January 2, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_momsNightOut.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Mom's Night Out Mom's Night Out © 2014 Night Out, LLC. All Rights Reserved."
+		},
+		{
+			"title":"The Love Punch",
+			"date":"January 9, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_lovePunch.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"The Love Punch ©."
+		},
+		{
+			"title":"Rob the Mob",
+			"date":"January 16, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_robTheMob.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Rob the Mob ©."
+		},
+		{
+			"title":"Captain America: The Winter Soldier",
+			"date":"January 23, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_captainAmerica.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Captain America: The Winter Soldier © Marvel. All Rights Reserved."
+		},
+		{
+			"title":"Think Like a Man Too",
+			"date":"January 30, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_thinkLikeAManToo.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Think Like a Man Too © 2014 Screen Gems, Inc. All Rights Reserved."
+		},
+		{
+			"title":"The Calling",
+			"date":"February 6, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_calling.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"The Calling ©."
+		},
+		{
+			"title":"Million Dollar Arm",
+			"date":"February 13, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_millionDollarArm.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":"Million Dollar Arm © Disney Enterprises, Inc."
+		},
+		{
+			"title":"The Amazing Spider-Man 2",
+			"date":"February 20, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_amazingSpiderman2.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":""
+		},
+		{
+			"title":"Deliver Us From Evil",
+			"date":"February 27, 2015 20:00:00",
+			"playStart":"July 1, 2014",
+			"playEnd":"July 1, 2017",
+			"link":"",
+			"playLink":"",
+			"headerPhoto":"header_deliverUsFromEvil.jpg",
+			"mobileHeader":"",
+			"galleryPhotos":[
+				"galleryPhoto":"photo1.jpg",
+				"galleryPhoto":"photo2.jpg",
+				"galleryPhoto":"photo3.jpg",
+				"galleryPhoto":"photo4.jpg"
+			],
+			"copyright":""
+		}
+	]
+}
