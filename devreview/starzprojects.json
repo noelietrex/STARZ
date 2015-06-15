@@ -1,0 +1,1474 @@
+{
+	"name": "STARZ Projects",
+	"clientJobs": [{
+		"number": "NCT4903-15-A",
+		"title": "Banners",
+		"description": "",
+		"manager": "Britta Kuybus",
+		"designer": "Noel",
+		"delivery": "",
+		"imageCollection": [{
+			"imageName": "NCT4903-15-A_800x304.jpg",
+			"imageWidth": 800,
+			"imageHeight": 304,
+			"imageDescription": "Half Off 6 months and $25 cash back"
+		},{
+			"imageName": "NCT4903-15-A_800x400.jpg",
+			"imageWidth": 800,
+			"imageHeight": 400,
+			"imageDescription": "Half Off 6 months and $25 cash back"
+		},{
+			"imageName": "NCT4903-15-A_1200x600.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Half Off 6 months and $25 cash back"
+		}]
+	},{
+		"number": "NCT4903-15-B",
+		"title": "Banners",
+		"description": "",
+		"manager": "Britta Kuybus",
+		"designer": "Noel",
+		"delivery": "",
+		"imageCollection": [{
+			"imageName": "NCT4903-15-B_851x315.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook cover photo dimensions with consideration for mobile cut off"
+		},{
+			"imageName": "NCT4903-15-B_1200x400.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 400,
+			"imageDescription": "Facebook 1/2 off and $25 back requested size"
+		},{
+			"imageName": "NCT4903-15-B_1200x628.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 628,
+			"imageDescription": "Facebook 1/2 off and $25 back size that fits desktop"
+		}]
+	},{
+		"number": "NCT4903-15-C",
+		"title": "Banners",
+		"description": "",
+		"manager": "Britta Kuybus",
+		"designer": "Noel",
+		"delivery": "",
+		"imageCollection": [{
+			"imageName": "NCT4903-15-C_1400x400.jpg",
+			"imageWidth": 1400,
+			"imageHeight": 400,
+			"imageDescription": "Half Off 6 months and $25 cash back"
+		}]
+	},{
+		"number": "WEB4450-14-AH",
+		"title": "What To Watch On Demand and STARZ Play",
+		"description": "",
+		"manager": "Meghan Calzaretta",
+		"designer": "Noel",
+		"delivery": "",
+		"imageCollection": [{
+			"imageName": "WEB4450-14-AH_320x340_OD.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "Small What to Watch On Demand"
+		},{
+			"imageName": "WEB4450-14-AH_320x340_PLAY.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "Small What to Watch STARZ Play"
+		},{
+			"imageName": "WEB4450-14-AH_1025x651_OD.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "Medium What to Watch On Demand"
+		},{
+			"imageName": "WEB4450-14-AH_1025x651_PLAY.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "Medium What to Watch STARZ Play"
+		},{
+			"imageName": "WEB4450-14-AH_1440x651_OD.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "Large What to Watch On Demand"
+		},{
+			"imageName": "WEB4450-14-AH_1440x651_PLAY.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "Large What to Watch STARZ Play"
+		}]
+	},{
+		"number": "MAR4060-14-D",
+		"title": "Combo Asset for Survivor's and The Chair",
+		"description": "",
+		"manager": "Robbie Washburn",
+		"designer": "Keith",
+		"delivery": "",
+		"imageCollection": [{
+			"imageName": "MAR4060_14D_srs1_tcs1_combo_fb_1200x900_A.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Normal Tune-In - 1200x900"
+		},{
+			"imageName": "MAR4060_14D_srs1_tcs1_combo_tw_1200x600_A.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Normal Tune-In - 1200x600"
+		},{
+			"imageName": "MAR4060_14D_srs1_tcs1_combo_fb_1200x900_B.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Finale Tune-In - 1200x900"
+		},{
+			"imageName": "MAR4060_14D_srs1_tcs1_combo_tw_1200x600_B.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Finale Tune-In - 1200x600"
+		}]
+	},{
+		"number": "WEB4420-13-L",
+		"title": "Updated Facebook Cover Photo - DVD S2",
+		"description": "",
+		"manager": "Meghan Calzaretta",
+		"designer": "Michael",
+		"delivery": "",
+		"imageCollection": [{
+			"imageName": "fb_coverIMG_851x315.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Premiere"
+		},{
+			"imageName": "fb_coverIMG_851x315_r2.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Post-Premiere"
+		}]
+	},{
+		"number":"BrandFB",
+		"title":"Brand Update for Facebook",
+		"description":"",
+		"manager":"Cara Finkbeiner",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName":"OriginalsTab_v2a.jpg",
+			"imageWidth":405,
+			"imageHeight":430,
+			"imageDescription":"Originals Tab v2A - minimal text + smaller type size, *click image to enlarge"
+		},{
+			"imageName":"OriginalsTab_v2b.jpg",
+			"imageWidth":405,
+			"imageHeight":430,
+			"imageDescription":"OriginalsTab v2B - key art only + CTA Button, *click image to enlarge"
+		},{
+			"imageName":"STARZ_FBMockup_v3.jpg",
+			"imageWidth":538,
+			"imageHeight":557,
+			"imageDescription":"Facebook Coverphoto Mockup v3 - layout creative to be more &quotcentered&quot + new Main Da Vinci image *click image to enlarge"
+		}]
+	},{
+		"number":"EXE4169-14-A",
+		"title":"Banner Update Reed MIDEM",
+		"description":"",
+		"manager":"Cyndi Blanchette",
+		"designer":"Michael",
+		"swf": [{
+    		"name":"Reed MIDEM 1000x100",
+        	"file":"PWS1_ReedMIDEM_1000x100.swf",
+        	"height":100,
+        	"width":1000
+    	},{
+			"name":"Reed MIDEM 300x250",
+			"file":"PWS1_ReedMIDEM_300x250.swf",
+			"height":300,
+			"width":250
+		}]
+	},{
+    "number": "NCT4838-14-A",
+    "title": "2014 NCT WEHCO Apr - Jun Retail Rate Campaign - Banner",
+    "description": "- delete affiliate logo & disclaimer - offer: Order STARZ + ENCORE today and get $50 cash back. 962x306 gif. Pickup activity number - OTS4289-13-D",
+    "manager": "Britta",
+    "designer": "Rick",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "NCT4838-14-A_962x306_banner.gif",
+            "imageWidth": 926,
+            "imageHeight": 306,
+            "imageDescription": "926x306"
+        }]
+},{
+	"number": "WEB4432-14-G",
+	"title": "Update Get STARZ Page Assets",
+	"description": "We want to refresh the Get STARZ Page by updting the hard coded assets. We will need a new hero assets (3 responsive sizes), titles listed below. Assets will need to be deliverered to Dev.<br>Also, we will want update the Origianls featured in the TVs for the On Demand section. Update with new images for Da Vinci's Demons (S2), Black Sails and Power.<br><br>Titles to include in the hero assets (left to right);<br>Frozen, Thor: The Dark World, Captain Phillips, Outlander, Elysium, American Hustle<br><br>All images will need the title & copyright included on their respecitve image.",
+	"manager": "Meghan Calzaretta",
+	"designer": "Michael",
+	"imageCollection": [
+	{
+		"imageName": "Starz_GetStarz_v2.jpg",
+		"imageWidth": 770,
+		"imageHeight": 2250,
+		"imageDescription": "Desktop"
+	},{
+		"imageName": "Starz_GetStarz_Tablet_Mockup_v2.jpg",
+		"imageWidth": 385,
+		"imageHeight": 1941,
+		"imageDescription": "Tablet"
+	},{
+		"imageName": "Starz_GetStarz_Mobile_Mockup_v2.jpg",
+		"imageWidth": 160,
+		"imageHeight": 1232,
+		"imageDescription": "Mobile"
+	}]
+},{
+    "number": "OTS4340-14-H",
+    "title": "Party Down Social image Ep. 3",
+    "description": "We need to create an image for Facebook and Twitter for Party Down. Sizes are 1200x600 and 1200x900.<br>Please find a picture of Roman that will go with the quote: &quot;The only way I'm googling you in ten years is if you get very creative in the way that you kill yourself.&quot;-Roman. Please put the quote on the image.<br>Image also needs to include:<br>*Party Down title art that matches quote<br>*Monday August 28 at 10pm ET/PT<br>*Starz logo<br>*PARTY DOWN © 2009 STARZ ENTERTAINMENT LLC",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-H_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-H_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+	"number": "WEB4420-13-Z",
+	"title": "Revise Brand Facebook YouTube Cover Photos",
+	"description": "Need to revise the Starz Brand FB and YT cover photos to replace Black Sails with The Chair.",
+	"manager": "Cara Finkbeiner",
+	"designer": "Michael",
+	"imageCollection": [
+	{
+		"imageName": "starz_brand_fb_0714_851x315.jpg",
+		"imageWidth": 851,
+		"imageHeight": 315,
+		"imageDescription": "Facebook"
+	},{
+		"imageName": "starz_brand_yt_0714_.jpg",
+		"imageWidth": 640,
+		"imageHeight": 360,
+		"imageDescription": "YouTube"
+	}]
+},{
+	"number": "TEL4089-14-A",
+	"title": "Google Fiber OD category images",
+	"description": "To create basic category images for SOD, EOD and MOD on Google Fiber.<br>These images should be logo and text only. They will be used to identify the various categories across our On Demand channels.<br>I've attached screenshots of where they will live on the user interface.<br>Basically looking for the network logo combined with the category name in the respetive brand font.<br><br>Images need for STARZ:<br>All Movies<br>Starz Comedy<br>Starz Originals<br>Starz Kids<br>Starz Action<br>Starz Top Hits<br><br>Images needed for ENCORE:<br>All Movies<br>Encore Westerns<br>Mini-Series<br>Comedy<br>Encore Kids<br>Action<br>Top Hits<br>Sci-Fi & Horror<br>Classic TV Series<br><br>Images needed for MoviePlex<br>Westerns<br>All Movies<br>Drama<br>Action<br>Comedy<br>Top Hits",
+	"manager": "Nic Porter",
+	"designer": "Michael",
+	"imageCollection": [
+	{
+		"imageName": "TEL4089-14-A_STZ_AllMovies_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "STARZ All Movies"
+	},{
+		"imageName": "TEL4089-14-A_STZ_Comedy_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "STARZ Comedy"
+	},{
+		"imageName": "TEL4089-14-A_STZ_Originals_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "STARZ Originals"
+	},{
+		"imageName": "TEL4089-14-A_STZ_Kids_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "STARZ Kids"
+	},{
+		"imageName": "TEL4089-14-A_STZ_Action_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "STARZ Action"
+	},{
+		"imageName": "TEL4089-14-A_STZ_TopHits_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "STARZ Top Hits"
+	},{
+		"imageName": "TEL4089-14-A_EN_AllMovies_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore All Movies"
+	},{
+		"imageName": "TEL4089-14-A_EN_Westerns_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore Westerns"
+	},{
+		"imageName": "TEL4089-14-A_EN_MiniSeries_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore Mini-Series"
+	},{
+		"imageName": "TEL4089-14-A_EN_Comedy_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore Comedy"
+	},{
+		"imageName": "TEL4089-14-A_EN_Kids_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore Kids"
+	},{
+		"imageName": "TEL4089-14-A_EN_Action_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore Action"
+	},{
+		"imageName": "TEL4089-14-A_EN_TopHits_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore Top Hits"
+	},{
+		"imageName": "TEL4089-14-A_EN_SciFiHorror_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore Sci-Fi &amp; Horror"
+	},{
+		"imageName": "TEL4089-14-A_EN_TVSeries_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "Encore Classic TV Series"
+	},{
+		"imageName": "TEL4089-14-A_MP_Westerns_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "MoviePlex Westerns"
+	},{
+		"imageName": "TEL4089-14-A_MP_AllMovies_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "MoviePlex All Movies"
+	},{
+		"imageName": "TEL4089-14-A_MP_Drama_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "MoviePlex Drama"
+	},{
+		"imageName": "TEL4089-14-A_MP_Action_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "MoviePlex Action"
+	},{
+		"imageName": "TEL4089-14-A_MP_Comedy_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "MoviePlex Comedy"
+	},{
+		"imageName": "TEL4089-14-A_MP_AllMovies_740x320.jpg",
+		"imageWidth": 740,
+		"imageHeight": 320,
+		"imageDescription": "MoviePlex All Movies"
+	}]
+},{
+	"number": "DTV_MediaBuy",
+	"title": "DirecTV Mediabuy",
+	"description": "Rich Media banner preview link - <a href=&quot;http://www.google.com/doubleclick/studio/ua/externalpreview#L7upnBi_QNiujlLklgAyog&quot; target=&quot;_blank&quot;>http://www.google.com/doubleclick/studio/ua/externalpreview#L7upnBi_QNiujlLklgAyog</a>",
+	"manager": "",
+	"designer": "Michael",
+	"imageCollection": [
+	{
+		"imageName": "300x60_static.jpg",
+		"imageWidth": 300,
+		"imageHeight": 60,
+		"imageDescription": "300x60 video companion banner"
+	},{
+		"imageName": "320x50_static.jpg",
+		"imageWidth": 320,
+		"imageHeight": 50,
+		"imageDescription": "320x50 mobile banner"
+	},{
+		"imageName": "728x90_static_Outlander.jpg",
+		"imageWidth": 728,
+		"imageHeight": 90,
+		"imageDescription": "728x90 Outlander"
+	},{
+		"imageName": "728x90_static_Power.jpg",
+		"imageWidth": 728,
+		"imageHeight": 90,
+		"imageDescription": "728x90 Power"
+	},{
+		"imageName": "728x90_static_BlackSails.jpg",
+		"imageWidth": 728,
+		"imageHeight": 90,
+		"imageDescription": "728x90 Black Sails"
+	},{
+		"imageName": "728x90_static_AmericanHustle.jpg",
+		"imageWidth": 728,
+		"imageHeight": 90,
+		"imageDescription": "728x90 American Hustle"
+	},{
+		"imageName": "300x250_static_Outlander.jpg",
+		"imageWidth": 300,
+		"imageHeight": 250,
+		"imageDescription": "300x250 Outlander"
+	},{
+		"imageName": "300x250_static_Power.jpg",
+		"imageWidth": 300,
+		"imageHeight": 250,
+		"imageDescription": "300x250 Power"
+	},{
+		"imageName": "300x250_static_BlackSails.jpg",
+		"imageWidth": 300,
+		"imageHeight": 250,
+		"imageDescription": "300x250 Black Sails"
+	},{
+		"imageName": "300x250_static_AmericanHustle.jpg",
+		"imageWidth": 300,
+		"imageHeight": 250,
+		"imageDescription": "300x250 American Hustle"
+	},{
+		"imageName": "160x600_static_Outlander.jpg",
+		"imageWidth": 160,
+		"imageHeight": 600,
+		"imageDescription": "160x600 Outlander"
+	},{
+		"imageName": "160x600_static_Power.jpg",
+		"imageWidth": 160,
+		"imageHeight": 600,
+		"imageDescription": "160x600 Power"
+	},{
+		"imageName": "160x600_static_BlackSails.jpg",
+		"imageWidth": 160,
+		"imageHeight": 600,
+		"imageDescription": "160x600 Black Sails"
+	},{
+		"imageName": "160x600_static_AmericanHustle.jpg",
+		"imageWidth": 160,
+		"imageHeight": 600,
+		"imageDescription": "160x600 American Hustle"
+	}]
+},{
+    "number": "EVT4038-14-C",
+    "title": "NOLA Film Festival Retreat - Registration Website",
+    "description": "",
+    "manager": "Allison",
+    "designer": "Rick",
+    "delivery": "",
+    "links": [
+    	{
+    		"name":"Review Site",
+    		"description":"Review Site",
+			"href":"http://devreview/starzprojects/invite/index.html"
+		}
+    ],
+    "imageCollection": [
+    	{
+            "imageName": "FormComps1.jpg",
+            "imageWidth": 1090,
+            "imageHeight": 1281,
+            "imageDescription": "Form Comps"
+        },{
+            "imageName": "FormComps2.jpg",
+            "imageWidth": 1090,
+            "imageHeight": 1281,
+            "imageDescription": "Form Comps"
+        },{
+            "imageName": "FormComps3.jpg",
+            "imageWidth": 1090,
+            "imageHeight": 1281,
+            "imageDescription": "Form Comps"
+        },{
+            "imageName": "FormComps4.jpg",
+            "imageWidth": 1090,
+            "imageHeight": 1281,
+            "imageDescription": "Form Comps"
+        }]
+},{
+		"number":"WEB4432-14-L",
+		"title":"FNF Marquees - Aug & Sept",
+		"description":"",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4432-14-L_1440x651_v2.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651"
+		}, {
+			"imageName": "WEB4432-14-L_1025x651_v2.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651"
+		}, {
+			"imageName": "WEB4432-14-L_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340"
+		}]
+	},{
+		"number":"WEB4432-14-P",
+		"title":"FNF Vertical Hero",
+		"description":"",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4432-14-P_1440x651_v2.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651"
+		}, {
+			"imageName": "WEB4432-14-P_1025x651_v2.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651"
+		}, {
+			"imageName": "WEB4432-14-P_320x340_v2.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340"
+		}]
+	},{
+		"number":"STE4213-14-A",
+		"title":"Twitter & LinkedIn Profile Images",
+		"description":"These can be the same imge for both. Need a Starz Entertainment lockup in the current Starz world. Can tie into other jobs for cover images<br><br>Profile images for corporate focused social channels<br><br>Starz Entertainment",
+		"manager":"Steven Cedarberg",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName":"STE4213-14-A_FB_Icons_100x60_v2.jpg",
+			"imageWidth":100,
+			"imageHeight":60,
+			"imageDescription":"LinkedIn Profile Pic"
+		},{
+			"imageName":"STE4213-14-A_FB_Icons_400x400_v2.jpg",
+			"imageWidth":200,
+			"imageHeight":200,
+			"imageDescription":"Twitter Profile Pic"
+		}]
+	},{
+		"number":"STE4213-14-B",
+		"title":"Twitter & LinkedIn Cover Photos",
+		"description":"Cover photos for the new HR centric social presences.<br><br>Noodles can be used here.<br><br>We need to update our current banner with a new fresh line about jobs at Starz. Our current line is, &quot;Entertain the thought of a new career. Apply Now.&quot;",
+		"manager":"Steven Cedarberg",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName":"STE4213-14-B_LinkedIn_Home_Mockup_v3.jpg",
+			"imageWidth":1024,
+			"imageHeight":1200,
+			"imageDescription":"LinkedIn Home Mockup"
+		},{
+			"imageName":"STE4213-14-B_LinkedIn_Careers_Mockup_v3.jpg",
+			"imageWidth":1024,
+			"imageHeight":1200,
+			"imageDescription":"LinkedIn Career Mockup"
+		},{
+			"imageName":"STE4213-14-B_Twitter_Mockup_v3.png",
+			"imageWidth":1427,
+			"imageHeight":778,
+			"imageDescription":"Twitter Mockup"
+		}]
+	},{
+		"number":"WEB4420-13-AC",
+		"title":"Starz facebook and YouTube header update",
+		"description":"Replace SR title art with the most recent gold title art. And when black sails key art is released (10/2) please remove Outlander and add BS to the end of the line.",
+		"manager":"Andrea Fehl",
+		"designer":"Boun",
+		"imageCollection":[{
+			"imageName":"WEB4420-13-AC_starz_brand_fb_851x315_v3.jpg",
+			"imageWidth":851,
+			"imageHeight":315,
+			"imageDescription":"Version 3 - Facebook Cover Photo (851x315)"
+		},{
+			"imageName":"WEB4420-13-AC_starz_brand_yt_v3.jpg",
+			"imageWidth":600,
+			"imageHeight":338,
+			"imageDescription":"Version 3 - YouTube Header (2560x1440)"
+		},{
+			"imageName":"WEB4420-13-AC_starz_brand_fb_851x315_v2.jpg",
+			"imageWidth":851,
+			"imageHeight":315,
+			"imageDescription":"Version 2 - Facebook Cover Photo (851x315)"
+		},{
+			"imageName":"WEB4420-13-AC_starz_brand_yt_v2.jpg",
+			"imageWidth":600,
+			"imageHeight":338,
+			"imageDescription":"Version 2 - YouTube Header (2560x1440)"
+		},{
+			"imageName":"WEB4420-13-AC_starz_brand_fb_851x315.jpg",
+			"imageWidth":851,
+			"imageHeight":315,
+			"imageDescription":"Facebook Cover Photo (851x315)"
+		},{
+			"imageName":"WEB4420-13-AC_starz_brand_yt.jpg",
+			"imageWidth":600,
+			"imageHeight":338,
+			"imageDescription":"YouTube Header (2560x1440)"
+		}]
+	},{
+		"number":"MAR4060-14-B",
+		"title":"Survivor's Remorse/The Chair combo asset",
+		"description":"a single social asset (both Twitter and Facebook versions) that combines both Survivor's Remorse and The Chair",
+		"manager":"Robbie Washburn",
+		"designer":"Boun",
+		"imageCollection":[{
+			"imageName":"mar4060_14b_ols1_tcs1_combo_fb_1200x900.jpg",
+			"imageWidth":600,
+			"imageHeight":450,
+			"imageDescription":"Facebook (1200x900)"
+		},{
+			"imageName":"mar4060_14b_ols1_tcs1_combo_tw_1200x600.jpg",
+			"imageWidth":600,
+			"imageHeight":300,
+			"imageDescription":"Twitter (1200x600)"
+		}]
+	},{
+		"number":"MAR4060-14-C",
+		"title":"Survivor's Remorse - The Chair Combo Piece",
+		"description":"I need 2 more versions of the asset from job MAR4060-14-B.  Would just like to use adifferent visual for each show each week.",
+		"manager":"Robbie Washburn",
+		"designer":"Boun",
+		"imageCollection":[{
+			"imageName":"MAR4060_14C_srs1_tcs1_combo_fb_1200x900.jpg",
+			"imageWidth":600,
+			"imageHeight":450,
+			"imageDescription":"Version 1 - Facebook (1200x900)"
+		},{
+			"imageName":"MAR4060_14C_srs1_tcs1_combo_tw_1200x600.jpg",
+			"imageWidth":600,
+			"imageHeight":300,
+			"imageDescription":"Version 1 - Twitter (1200x600)"
+		},{
+			"imageName":"MAR4060_14C_srs1_tcs1_combo_fb_1200x900_v2.jpg",
+			"imageWidth":600,
+			"imageHeight":450,
+			"imageDescription":"Version 2 - Facebook (1200x900)"
+		},{
+			"imageName":"MAR4060_14C_srs1_tcs1_combo_tw_1200x600_v2.jpg",
+			"imageWidth":600,
+			"imageHeight":300,
+			"imageDescription":"Version 2 - Twitter (1200x600)"
+		},{
+			"imageName":"MAR4060_14C_srs1_tcs1_combo_fb_1200x900_v3.jpg",
+			"imageWidth":600,
+			"imageHeight":450,
+			"imageDescription":"Version 3 - Facebook (1200x900)"
+		},{
+			"imageName":"MAR4060_14C_srs1_tcs1_combo_tw_1200x600_v3.jpg",
+			"imageWidth":600,
+			"imageHeight":300,
+			"imageDescription":"Version 3 - Twitter (1200x600)"
+		}]
+	},{
+		"number":"WEB4432-14-S",
+		"title":"FNF Hero - Nov & Dec Titles",
+		"description":"",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4432-14-S_Set1_1440x651_v3.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651"
+		},{
+			"imageName": "WEB4432-14-S_Set1_1025x651_v3.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651"
+		},{
+			"imageName": "WEB4432-14-S_Set1_320x340_v2.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340"
+		},{
+			"imageName": "WEB4432-14-S_Set2_1440x651_v2.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651"
+		},{
+			"imageName": "WEB4432-14-S_Set2_1025x651_v2.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651"
+		},{
+			"imageName": "WEB4432-14-S_Set2_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340"
+		}]
+	},{
+		"number":"NAT4204-14-A",
+		"title":"2014 NAT Northland Nov-Dec Campaign - Email",
+		"description":"",
+		"manager":"Britta Kuybus",
+		"designer":"Boun",
+		"imageCollection":[{
+			"imageName": "NAT4204_14A_Northland_novDec_email_600x600.png",
+			"imageWidth": 600,
+			"imageHeight": 600,
+			"imageDescription": "600x600 .png email image"
+		}]
+	},{
+		"number":"TRN4171-14-F_holidayCard",
+		"title":"starzprojects holiday e card",
+		"description":"",
+		"manager":"Maria Cole",
+		"designer":"hyung",
+		"imageCollection":[{
+			"imageName": "TRN4171-14-F_holidayCard.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 576,
+			"imageDescription": "emailer"
+		}],
+        "swf": [{
+    		"name":"interactive e card",
+        	"file":"gingerBread_theater_starz",
+        	"height":576,
+        	"width":1024
+    	}]
+	},{
+		"number":"ORG7493-14-A",
+		"title":"Ebony Banner Ads",
+		"description":"Using the same look and feel from the Ebony Print Ad (see attached and work with Thomas Pepesca) to create branded banner ads for the following sizes:<br>300x250<br>160x600<br>728x90<br>180x150<br>Have banner link back to the starzprojects.com website",
+		"manager":"Kia Milan",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName":"ORG7493-14-A_300x250.jpg",
+			"imageWidth":300,
+			"imageHeight":250,
+			"imageDescription":"300x250"
+		},{
+			"imageName":"ORG7493-14-A_300x600.jpg",
+			"imageWidth":300,
+			"imageHeight":600,
+			"imageDescription":"300x600"
+		},{
+			"imageName":"ORG7493-14-A_728x90.jpg",
+			"imageWidth":728,
+			"imageHeight":90,
+			"imageDescription":"728x90"
+		},{
+			"imageName":"ORG7493-14-A_160x600.jpg",
+			"imageWidth":160,
+			"imageHeight":600,
+			"imageDescription":"160x600"
+		},{
+			"imageName":"ORG7493-14-A_180x150.jpg",
+			"imageWidth":180,
+			"imageHeight":150,
+			"imageDescription":"180x150"
+		}]
+	},{
+		"number":"COM4846-14-A",
+		"title":"2014 Com STARZ Xfinity TVGO Web Banner",
+		"description":"",
+		"manager":"Debbie Whitaker",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "COM4846-14-A_300x250.jpg",
+			"imageWidth": 300,
+			"imageHeight": 250,
+			"imageDescription": "Backup JPEG"
+		}],
+        "swf": [{
+    		"name":"Xfinity TVGO Web Banner",
+        	"file":"COM4846-14-A_300x250",
+        	"height":250,
+        	"width":300
+    	}]
+	},{
+		"number":"WEB4432-14-X",
+		"title":"Marquees for Original Series Binge Weekend",
+		"description":"dotCom marquees and social assets for 'Tis The Season Stunt",
+		"manager":"Meghan Calzaretta",
+		"designer":"Boun",
+		"imageCollection":[{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_1440x651_wOverlay.jpg",
+			"imageWidth":600,
+			"imageHeight":271,
+			"imageDescription":"dotCom - 1440x651 (With Overlay)"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_1440x651.jpg",
+			"imageWidth":600,
+			"imageHeight":271,
+			"imageDescription":"dotCom - 1440x651"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_1440x651_v2.jpg",
+			"imageWidth":600,
+			"imageHeight":271,
+			"imageDescription":"dotCom - 1440x651 (version 2)"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_1025x651_wOverlay.jpg",
+			"imageWidth":600,
+			"imageHeight":381,
+			"imageDescription":"dotCom - 1025x651 (With Overlay)"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_1025x651.jpg",
+			"imageWidth":600,
+			"imageHeight":381,
+			"imageDescription":"dotCom - 1025x651"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_1025x651_v2.jpg",
+			"imageWidth":600,
+			"imageHeight":381,
+			"imageDescription":"dotCom - 1025x651 (version 2)"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_320x340_wOverlay.jpg",
+			"imageWidth":320,
+			"imageHeight":340,
+			"imageDescription":"dotCom - 320x340 (With Overlay)"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_320x340.jpg",
+			"imageWidth":320,
+			"imageHeight":340,
+			"imageDescription":"dotCom - 320x340"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_320x340_v2.jpg",
+			"imageWidth":320,
+			"imageHeight":340,
+			"imageDescription":"dotCom - 320x340 (version 2)"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_videoSpot_900x506_wOverlay.jpg",
+			"imageWidth":600,
+			"imageHeight":337,
+			"imageDescription":"dotCom Video Spot - 900x506 (With Overlay - Play Button from CMS)"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_videoSpot_900x506.jpg",
+			"imageWidth":600,
+			"imageHeight":337,
+			"imageDescription":"dotCom Video Spot - 900x506"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_dotCom_videoSpot_310x155.jpg",
+			"imageWidth":310,
+			"imageHeight":155,
+			"imageDescription":"dotCom Video Spot - 310x155"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_fb_1200x900.jpg",
+			"imageWidth":600,
+			"imageHeight":400,
+			"imageDescription":"social for Facebook - 1200x900"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_fb_1200x627.jpg",
+			"imageWidth":600,
+			"imageHeight":314,
+			"imageDescription":"social for Facebook - 1200x627"
+		},{
+			"imageName":"WEB4432_14X_orig_tis_the_season_tw_1200x600.jpg",
+			"imageWidth":600,
+			"imageHeight":300,
+			"imageDescription":"social for Twitter - 1200x600"
+		}]
+	},{
+		"number":"WEB4432-14-V",
+		"title":"ChromeCast Hero assets",
+		"description":"We will need a hero assets (3 sizes for responsive - 1440x651, 1025x651 & 320x340) to promote ChromeCast.Repurpose the device assets created for the Play page on .com (currently on stage: http://origin-stage-starz2-web.cloudapp.net/starzplay). Work in Starz branded ribbons. We want 2 versions created - one with CMS copy so accomodate for this with the safe zones. Another as a clickable image with a CTA included. For the clickable image - use the headline &quot;Now available with Chromecast™&quot; (the &quot;TM&quot; symbol will need to be next to Chromecast). Include the STARZ Play logo & the Google Cast badge in the clickable image asset. For the CMS copy asset, include the Starz Play logo but not the GoogleChrome badge (since this will look clickable but will not be).",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4432-14-V_1440x651.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651"
+		},{
+			"imageName": "WEB4432-14-V_1440x651_2.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651 Version 2"
+		},{
+			"imageName": "WEB4432-14-V_1025x651.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651"
+		},{
+			"imageName": "WEB4432-14-V_1025x651_2.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651 Version 2"
+		},{
+			"imageName": "WEB4432-14-V_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340"
+		},{
+			"imageName": "WEB4432-14-V_320x340_2.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340 Version 2"
+		},{
+			"imageName": "WEB4432-14-V_EP_1440x651.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651"
+		},{
+			"imageName": "WEB4432-14-V_EP_1440x651_2.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651 Version 2"
+		},{
+			"imageName": "WEB4432-14-V_EP_1025x651.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651"
+		},{
+			"imageName": "WEB4432-14-V_EP_1025x651_2.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651 Version 2"
+		},{
+			"imageName": "WEB4432-14-V_EP_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340"
+		},{
+			"imageName": "WEB4432-14-V_EP_320x340_2.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340 Version 2"
+		}]
+	},{
+	"number": "WEB4420-13-AH",
+	"title": "Updated Social Cover Photos - 11.12.14",
+	"description": "Updated social cover photos for Facebook and YouTube to reflect current and upcoming shows. Incorporate noodles that are in the current design, just tweak the layout to have 3 shows:<br>The Missing<br>Black Sails<br>Outlander",
+	"manager": "Alex Seguin",
+	"designer": "Michael",
+	"imageCollection": [
+	{
+		"imageName": "WEB4420-13-AH_Facebook.jpg",
+		"imageWidth": 851,
+		"imageHeight": 315,
+		"imageDescription": "Facebook"
+	},{
+		"imageName": "WEB4420-13-AH_YouTube.jpg",
+		"imageWidth": 640,
+		"imageHeight": 360,
+		"imageDescription": "YouTube"
+	}]
+},{
+		"number":"WEB4432-14-Z",
+		"title":"What to Watch Assets - Dec",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4432-14-Z_SP_1440x651.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "StarzPlay 1440x651"
+		},{
+			"imageName": "WEB4432-14-Z_OD_1440x651.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "OnDemand 1440x651"
+		},{
+			"imageName": "WEB4432-14-Z_SP_1025x651.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "StarzPlay 1025x651"
+		},{
+			"imageName": "WEB4432-14-Z_OD_1025x651.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "OnDemand 1025x651"
+		},{
+			"imageName": "WEB4432-14-Z_SP_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "StarzPlay 320x340"
+		},{
+			"imageName": "WEB4432-14-Z_OD_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "OnDemand 320x340"
+		},{
+			"imageName": "WEB4432-14-Z_900x506.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506"
+		}]
+	},{
+		"number":"WEB4420-13-AJ",
+		"title":"STARZ Newsletter Sign up on Facebook",
+		"manager":"Meghan Calzaretta",
+		"designer":"Brett",
+		"imageCollection":[{
+			"imageName": "WEB4420-13-AJ_signup.jpg",
+			"imageWidth": 810,
+			"imageHeight": 750,
+			"imageDescription": "SIGNUP PAGE"
+		},{
+			"imageName": "WEB4420-13-AJ_thankyou.jpg",
+			"imageWidth": 810,
+			"imageHeight": 750,
+			"imageDescription": "THANK YOU PAGE"
+		}]
+	},{
+		"number":"STE4198-14-AF",
+		"title":"Save The Date - 2014 TCA Dinner",
+		"manager":"Julianne Wilson",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "STE4198-14-AF_600x800.jpg",
+			"imageWidth": 300,
+			"imageHeight": 400,
+			"imageDescription": "Email"
+		}]
+	},{
+		"number":"WEB4450-14-A",
+		"title":"FNF Hero Assets - Jan",
+		"description":"",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4450-14-A_1440x651.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651"
+		}, {
+			"imageName": "WEB4450-14-A_1025x651.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651"
+		}, {
+			"imageName": "WEB4450-14-A_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340"
+		}]
+	},{
+		"number":"WEB4450-14-D",
+		"title":"SOD Black History Month",
+		"description":"",
+		"manager":"Meghan Calzaretta",
+		"designer":"Brett",
+		"imageCollection":[{
+			"imageName": "WEB4450-14-D_1200x900_1-2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900 - Image 1"
+		},{
+			"imageName": "WEB4450-14-D_1200x900_2-2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900 - Image 2"
+		},{
+			"imageName": "WEB4450-14-D_1200x627_1-2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "1200x627 - Image 1"
+		},{
+			"imageName": "WEB4450-14-D_1200x627_2-2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "1200x627 - Image 2"
+		},{
+			"imageName": "WEB4450-14-D_1200x600_1-2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600 - Image 1"
+		},{
+			"imageName": "WEB4450-14-D_1200x600_2-2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600 - Image 2"
+		},{
+			"imageName": "WEB4450-14-D_900x506_1.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506 - Option 1"
+		},{
+			"imageName": "WEB4450-14-D_900x506_2.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506 - Option 2"
+		},{
+			"imageName": "WEB4450-14-D_900x506_3.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506 - Option 3"
+		},{
+			"imageName": "WEB4450-14-D_900x506_4.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506 - Option 4"
+		},{
+			"imageName": "WEB4450-14-D_310x155_1.jpg",
+			"imageWidth": 310,
+			"imageHeight": 155,
+			"imageDescription": "310x155"
+		}]
+	},{
+		"number":"WEB4432-14-O",
+		"title":"Get STARZ Marquees",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4432-14-O_1267x624.png",
+			"imageWidth": 1267,
+			"imageHeight": 624,
+			"imageDescription": "Desktop Marquee"
+		},{
+			"imageName": "WEB4432-14-O_1267x624_mock.png",
+			"imageWidth": 1267,
+			"imageHeight": 624,
+			"imageDescription": "Desktop Marquee Mockup"
+		},{
+			"imageName": "WEB4432-14-O_697x355.png",
+			"imageWidth": 697,
+			"imageHeight": 355,
+			"imageDescription": "Tablet Marquee"
+		},{
+			"imageName": "WEB4432-14-O_697x355_mock.png",
+			"imageWidth": 697,
+			"imageHeight": 355,
+			"imageDescription": "Tablet Marquee Mockup"
+		},{
+			"imageName": "WEB4432-14-O_306x115.png",
+			"imageWidth": 306,
+			"imageHeight": 115,
+			"imageDescription": "Mobile Marquee"
+		},{
+			"imageName": "WEB4432-14-O_1370x373.png",
+			"imageWidth": 1370,
+			"imageHeight": 373,
+			"imageDescription": "Desktop Bottom Marquee"
+		},{
+			"imageName": "WEB4432-14-O_474x383.png",
+			"imageWidth": 474,
+			"imageHeight": 381,
+			"imageDescription": "Tablet Bottom Marquee"
+		},{
+			"imageName": "WEB4432-14-O_268x207.png",
+			"imageWidth": 268,
+			"imageHeight": 207,
+			"imageDescription": "Mobile Bottom Marquee"
+		}]
+	},{
+		"number":"COM4933-15",
+		"title":"comcast watchathon",
+		"manager":"Cynde Hennegan",
+		"designer":"Hyung",
+		"imageCollection":[{
+			"imageName": "Watchathon_BKS2.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 2048,
+			"imageDescription": "watchathon blacksails"
+		},{
+			"imageName": "Watchathon_OLS1B.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2048,
+			"imageDescription": "watchathon outlander"
+		}]
+	},{
+		"number":"WEB4450-14-I",
+		"title":"SOD Comic Crimes",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4450-14-I_1200x900_01.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900 Starz Play"
+		},{
+			"imageName": "WEB4450-14-I_1200x600_01.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600 Starz Play"
+		},{
+			"imageName": "WEB4450-14-I_1200x627_01.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "1200x627 Starz Play"
+		},{
+			"imageName": "WEB4450-14-I_900x506_01.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506 Starz Play"
+		},{
+			"imageName": "WEB4450-14-I_1200x900_02.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900 Starz OnDemand"
+		},{
+			"imageName": "WEB4450-14-I_1200x600_02.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600 Starz OnDemand"
+		},{
+			"imageName": "WEB4450-14-I_1200x627_02.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "1200x627 Starz OnDemand"
+		},{
+			"imageName": "WEB4450-14-I_900x506_02.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "900x506 Starz OnDemand"
+		},{
+			"imageName": "WEB4450-14-I_310x155.jpg",
+			"imageWidth": 310,
+			"imageHeight": 155,
+			"imageDescription": "310x155"
+		}]
+	},{
+		"number":"WEB4432-14-OO",
+		"title":"STARZ Free Preview",
+		"manager":"Loren Husson",
+		"designer":"Boun",
+		"imageCollection":[
+		{
+			"imageName": "freePreview_social_1200x627_grid.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "1200x627 (20% grid)"
+		},{
+			"imageName": "freePreview_social_1200x627.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "1200x627"
+		},{
+			"imageName": "freePreview_desktop_1267x624.png",
+			"imageWidth": 1267,
+			"imageHeight": 624,
+			"imageDescription": "Desktop - 1267x624"
+		},{
+			"imageName": "freePreview_tablet_697x355.png",
+			"imageWidth": 697,
+			"imageHeight": 355,
+			"imageDescription": "Tablet - 697x355"
+		},{
+			"imageName": "freePreview_mobile_306x115.png",
+			"imageWidth": 306,
+			"imageHeight": 115,
+			"imageDescription": "Mobile - 306x115"
+		}]
+	},{
+		"number":"WEB4450-14-M",
+		"title":"What to Watch Assets - Dec",
+		"manager":"Meghan Calzaretta",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "WEB4450-14-M_1440x651.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "StarzPlay 1440x651"
+		},{
+			"imageName": "WEB4450-14-M_1440x651_2.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "OnDemand 1440x651"
+		},{
+			"imageName": "WEB4450-14-M_1025x651.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "StarzPlay 1025x651"
+		},{
+			"imageName": "WEB4450-14-M_1025x651_2.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "OnDemand 1025x651"
+		},{
+			"imageName": "WEB4450-14-M_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "StarzPlay 320x340"
+		},{
+			"imageName": "WEB4450-14-M_320x340_2.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "OnDemand 320x340"
+		},{
+			"imageName": "WEB4450-14-M_900x506.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506"
+		}]
+	},{
+		"number":"ORG7746-15-A",
+		"title":"Party Down on starz.com",
+		"manager":"Katarina Wright",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "ORG7746-15-A_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"
+		},{
+			"imageName": "ORG7746-15-A_2560x1440_2.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440 v2"
+		},{
+			"imageName": "ORG7746-15-A_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"
+		},{
+			"imageName": "ORG7746-15-A_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"
+		},{
+			"imageName": "ORG7746-15-A_182x270.jpg",
+			"imageWidth": 182,
+			"imageHeight": 270,
+			"imageDescription": "182x270"
+		},{
+			"imageName": "ORG7746-15-A_205x273.jpg",
+			"imageWidth": 205,
+			"imageHeight": 273,
+			"imageDescription": "205x273"
+		}]
+	},{
+		"number":"ORG7746-15-B",
+		"title":"Pillars of the Earth on starz.com",
+		"manager":"Katarina Wright",
+		"designer":"Michael",
+		"imageCollection":[{
+			"imageName": "ORG7746-15-B_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"
+		},{
+			"imageName": "ORG7746-15-B_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"
+		},{
+			"imageName": "ORG7746-15-B_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"
+		},{
+			"imageName": "ORG7746-15-B_205x273.jpg",
+			"imageWidth": 205,
+			"imageHeight": 273,
+			"imageDescription": "205x273"
+		},{
+			"imageName": "ORG7746-15-B_182x270.jpg",
+			"imageWidth": 182,
+			"imageHeight": 270,
+			"imageDescription": "182x270"
+		}]
+	},{
+		"number":"TRN4180-15-A",
+		"title":"OnlineTraining-comcast",
+		"manager":"Maria Cole",
+		"designer":"Hyung",
+		"imageCollection":[{
+			"imageName": "layout_intro.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 720,
+			"imageDescription": "landing page"
+		},{
+			"imageName": "layout_original_series.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 720,
+			"imageDescription": "original series section"
+		},{
+			"imageName": "layout_starz_package.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 720,
+			"imageDescription": "starz package section"
+		},{
+			"imageName": "layout_starz_multipleways.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 720,
+			"imageDescription": "starz multipleways to watch"
+		},{
+			"imageName": "layout_starz_multipleways_02.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 720,
+			"imageDescription": "starz multipleways to watch"
+		},{
+			"imageName": "layout_starz_multipleways_03.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 720,
+			"imageDescription": "starz multipleways to watch"
+		}]
+	},{
+		"number":"STE4233-15",
+		"title":"starz brand update",
+		"manager":"Anne White",
+		"designer":"Hyung",
+		"imageCollection":[{
+			"imageName": "STE4233-15_website_brandupdate.jpg",
+			"imageWidth": 2768,
+			"imageHeight": 1624,
+			"imageDescription": "website brand update"
+		},{
+			"imageName": "STE4233-15_website_brandupdate02.jpg",
+			"imageWidth": 2768,
+			"imageHeight": 1624,
+			"imageDescription": "website brand update"
+		}]
+	},{
+		"number":"ORG7854-15-F",
+		"title":"evil dead carrousel",
+		"manager":"Alex Seguin",
+		"designer":"Hyung",
+		"imageCollection":[{
+			"imageName": "ORG7854-15-F_1536x2650.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2650,
+			"imageDescription": "1536x2650"
+		},{
+			"imageName": "ORG7854-15-F_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"
+		},{
+			"imageName": "ORG7854-15-F_388x218.jpg",
+			"imageWidth": 233,
+			"imageHeight": 218,
+			"imageDescription": "388x218"
+		}]
+	},{
+		"number":"WEB4450-14-N",
+		"title":"SOD World War Tales",
+		"manager":"Meghan Calzaretta",
+		"designer":"Brett",
+		"imageCollection":[{
+			"imageName": "SODWordWarIITales_1200x900_play.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900 Starz Play"
+		},{
+			"imageName": "SODWordWarIITales_1200x627_play.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600 Starz Play"
+		},{
+			"imageName": "SODWordWarIITales_1200x600_play.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "1200x627 Starz Play"
+		},{
+			"imageName": "SODWordWarIITales_900x506_play.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506 Starz Play"
+		},{
+			"imageName": "SODWordWarIITales_310x155.jpg",
+			"imageWidth": 310,
+			"imageHeight": 155,
+			"imageDescription": "310x155  Starz On Demand"
+		},{
+			"imageName": "SODWordWarIITales_1200x900.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900 Starz On Demand"
+		},{
+			"imageName": "SODWordWarIITales_1200x627.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600 Starz On Demand"
+		},{
+			"imageName": "SODWordWarIITales_1200x600.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "1200x627 Starz On Demand"
+		},{
+			"imageName": "SODWordWarIITales_900x506.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506 Starz On Demand"
+		}]
+	}]
+}

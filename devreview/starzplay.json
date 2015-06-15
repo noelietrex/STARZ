@@ -1,0 +1,3080 @@
+{
+    "name": "STARZ Play",
+    "clientJobs": [
+        {
+            "number": "PLY4168-14-D",
+            "title": "Q3 '15 STARZ Play updated with POWER S2",
+            "description": "",
+            "manager": "Ashleigh Moshier",
+            "designer": "Noel",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "/PLY4168-14-D/IMG_Android_718x408.png",
+                    "imageWidth": 718,
+                    "imageHeight": 408,
+                    "imageDescription": "Android Combo"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_Android_Mobile_106x257.png",
+                    "imageWidth": 106,
+                    "imageHeight": 257,
+                    "imageDescription": "Android Phone"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_Computer_580x378.png",
+                    "imageWidth": 580,
+                    "imageHeight": 378,
+                    "imageDescription": "Computer"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_Computer_Mobile_306x200.png",
+                    "imageWidth": 306,
+                    "imageHeight": 200,
+                    "imageDescription": "Computer Mobile"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_iOS_Desktop_855x416.png",
+                    "imageWidth": 855,
+                    "imageHeight": 416,
+                    "imageDescription": "iOS Desktop All Devices"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_iOS_Mobile_295x279.png",
+                    "imageWidth": 295,
+                    "imageHeight": 279,
+                    "imageDescription": "iOS Mobile Tablet"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_iOS_Tablet_688x337.png",
+                    "imageWidth": 688,
+                    "imageHeight": 337,
+                    "imageDescription": "iOS Tablet All Devices"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_Kindle_687x451.png",
+                    "imageWidth": 687,
+                    "imageHeight": 451,
+                    "imageDescription": "Kindle Landscape and Portrait"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_Kindle_Mobile_305x274.png",
+                    "imageWidth": 305,
+                    "imageHeight": 274,
+                    "imageDescription": "Kindle Mobile Landscape"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_Nook_727x468.png",
+                    "imageWidth": 727,
+                    "imageHeight": 468,
+                    "imageDescription": "Nook Landscape and Portrait"
+                },{
+                    "imageName": "/PLY4168-14-D/IMG_Nook_Mobile_160x262.png",
+                    "imageWidth": 160,
+                    "imageHeight": 262,
+                    "imageDescription": "Nook Mobile Portrait"
+                },{
+                    "imageName": "/PLY4168-14-D/SP_Desktop_Chromecast_794x432.png",
+                    "imageWidth": 794,
+                    "imageHeight": 432,
+                    "imageDescription": "Desktop Chromecast Monitor and Tablet"
+                },{
+                    "imageName": "/PLY4168-14-D/SP_Tablet_Chromecast_682x352.png",
+                    "imageWidth": 682,
+                    "imageHeight": 352,
+                    "imageDescription": "Tablet Chromecast Monitor and Tablet"
+                },{
+                    "imageName": "/PLY4168-14-D/StarzPlay_devices_Desktop_1182x424.png",
+                    "imageWidth": 1182,
+                    "imageHeight": 424,
+                    "imageDescription": "Desktop All Devices"
+                },{
+                    "imageName": "/PLY4168-14-D/StarzPlay_devices_Mobile_237x197.png",
+                    "imageWidth": 237,
+                    "imageHeight": 197,
+                    "imageDescription": "Mobile All Devices"
+                },{
+                    "imageName": "/PLY4168-14-D/StarzPlay_devices_Tablet_732x253.png",
+                    "imageWidth": 732,
+                    "imageHeight": 253,
+                    "imageDescription": "Tablet All Devices"
+                }]
+            },{
+            "number": "PLY4168-14-E",
+            "title": "Q3 '15 ENCORE & MOVIEPLEX Play Dot Com",
+            "description": "",
+            "manager": "Ashleigh Moshier",
+            "designer": "Noel",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_Android_718x408.png",
+                    "imageWidth": 718,
+                    "imageHeight": 408,
+                    "imageDescription": "Android Device Combo"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_Android_Mobile_106x257.png",
+                    "imageWidth": 106,
+                    "imageHeight": 257,
+                    "imageDescription": "Android Mobile"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_Computer_580x378.png",
+                    "imageWidth": 580,
+                    "imageHeight": 378,
+                    "imageDescription": "Computer"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_Computer_Mobile_306x200.png",
+                    "imageWidth": 306,
+                    "imageHeight": 200,
+                    "imageDescription": "Computer Mobile"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_iOS_Desktop_855x416.png",
+                    "imageWidth": 855,
+                    "imageHeight": 416,
+                    "imageDescription": "iOS Desktop All Devices"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_iOS_Mobile_295x279.png",
+                    "imageWidth": 295,
+                    "imageHeight": 279,
+                    "imageDescription": "iOS Mobile Tablet"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_iOS_Tablet_688x337.png",
+                    "imageWidth": 688,
+                    "imageHeight": 337,
+                    "imageDescription": "iOS Tablet All Devices"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_Kindle_687x451.png",
+                    "imageWidth": 687,
+                    "imageHeight": 451,
+                    "imageDescription": "Kindle Landscape and Portrait"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_Kindle_Mobile_305x274.png",
+                    "imageWidth": 305,
+                    "imageHeight": 274,
+                    "imageDescription": "Mobile Kindle Landscape"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_Nook_727x468.png",
+                    "imageWidth": 727,
+                    "imageHeight": 468,
+                    "imageDescription": "Nook Landscape and Portrait"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_MoviePlexPlay_Nook_Mobile_160x262.png",
+                    "imageWidth": 160,
+                    "imageHeight": 262,
+                    "imageDescription": "Nook Mobile Portrait"
+                },{
+                    "imageName": "/PLY4168-14-E/MoviePlexPlay_devices_Desktop_1182x424.png",
+                    "imageWidth": 1182,
+                    "imageHeight": 424,
+                    "imageDescription": "Desktop All Devices"
+                },{
+                    "imageName": "/PLY4168-14-E/MoviePlexPlay_devices_Mobile_237x197.png",
+                    "imageWidth": 237,
+                    "imageHeight": 197,
+                    "imageDescription": "Mobile Tablet and Phone"
+                },{
+                    "imageName": "/PLY4168-14-E/MoviePlexPlay_devices_Tablet_732x253.png",
+                    "imageWidth": 732,
+                    "imageHeight": 253,
+                    "imageDescription": "Tablet All Devices"
+                },{
+                    "imageName": "/PLY4168-14-E/MP_XBOXOne_Desktop_1036x362.png",
+                    "imageWidth": 1036,
+                    "imageHeight": 362,
+                    "imageDescription": "XBOX One Desktop"
+                },{
+                    "imageName": "/PLY4168-14-E/MP_XBOXOne_Tablet_829x290.png",
+                    "imageWidth": 829,
+                    "imageHeight": 290,
+                    "imageDescription": "XBOX One Tablet"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_Android_718x408.png",
+                    "imageWidth": 718,
+                    "imageHeight": 408,
+                    "imageDescription": "Android Device Combo"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_Android_Mobile_106x257.png",
+                    "imageWidth": 106,
+                    "imageHeight": 257,
+                    "imageDescription": "Android Mobile"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_Computer_580x378.png",
+                    "imageWidth": 580,
+                    "imageHeight": 378,
+                    "imageDescription": "Computer"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_Computer_Mobile_306x200.png",
+                    "imageWidth": 306,
+                    "imageHeight": 200,
+                    "imageDescription": "Computer Mobile"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_iOS_Desktop_855x416.png",
+                    "imageWidth": 855,
+                    "imageHeight": 416,
+                    "imageDescription": "iOS Desktop All Devices"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_iOS_Mobile_295x279.png",
+                    "imageWidth": 295,
+                    "imageHeight": 279,
+                    "imageDescription": "iOS Mobile Tablet"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_iOS_Tablet_688x337.png",
+                    "imageWidth": 688,
+                    "imageHeight": 337,
+                    "imageDescription": "iOS Tablet All Devices"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_Kindle_687x451.png",
+                    "imageWidth": 687,
+                    "imageHeight": 451,
+                    "imageDescription": "Kindle Landscape and Portrait"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_Kindle_Mobile_305x274.png",
+                    "imageWidth": 305,
+                    "imageHeight": 274,
+                    "imageDescription": "Mobile Kindle Landscape"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_Nook_727x468.png",
+                    "imageWidth": 727,
+                    "imageHeight": 468,
+                    "imageDescription": "Nook Landscape and Portrait"
+                },{
+                    "imageName": "/PLY4168-14-E/IMG_EncorePlay_Nook_Mobile_160x262.png",
+                    "imageWidth": 160,
+                    "imageHeight": 262,
+                    "imageDescription": "Nook Mobile Portrait"
+                },{
+                    "imageName": "/PLY4168-14-E/EncorePlay_devices_Desktop_1182x424.png",
+                    "imageWidth": 1182,
+                    "imageHeight": 424,
+                    "imageDescription": "Desktop All Devices"
+                },{
+                    "imageName": "/PLY4168-14-E/EncorePlay_devices_Mobile_237x197.png",
+                    "imageWidth": 237,
+                    "imageHeight": 197,
+                    "imageDescription": "Mobile Tablet and Phone"
+                },{
+                    "imageName": "/PLY4168-14-E/EncorePlay_devices_Tablet_732x253.png",
+                    "imageWidth": 732,
+                    "imageHeight": 253,
+                    "imageDescription": "Tablet All Devices"
+                },{
+                    "imageName": "/PLY4168-14-E/EncorePlay_Mobile_Chromecast_272x174.png",
+                    "imageWidth": 272,
+                    "imageHeight": 174,
+                    "imageDescription": "Mobile Chromecast TV and Tablet"
+                },{
+                    "imageName": "/PLY4168-14-E/EP_Desktop_Chromecast_794x432.png",
+                    "imageWidth": 794,
+                    "imageHeight": 432,
+                    "imageDescription": "Desktop Chromecast TV and Tablet"
+                },{
+                    "imageName": "/PLY4168-14-E/EP_Tablet_Chromecast_682x352.png",
+                    "imageWidth": 682,
+                    "imageHeight": 352,
+                    "imageDescription": "Tablet Chromecast TV and Tablet"
+                },{
+                    "imageName": "/PLY4168-14-E/EP_XBOXOne_Desktop_1036x362.png",
+                    "imageWidth": 1036,
+                    "imageHeight": 362,
+                    "imageDescription": "XBOX One Desktop"
+                },{
+                    "imageName": "/PLY4168-14-E/EP_XBOXOne_Tablet_829x290.png",
+                    "imageWidth": 829,
+                    "imageHeight": 290,
+                    "imageDescription": "XBOX One Tablet"
+                }]
+            },{
+            "number": "PLY4171-14-P",
+            "title": "STARZ Play - Power S2 iAD Ads",
+            "description": "",
+            "manager": "Loren Husson",
+            "designer": "Keith",
+            "delivery": "",
+            "imageCollection": [
+               {
+                    "imageName": "PLY4171-14-P_640x960.jpg",
+                    "imageWidth": 640,
+                    "imageHeight": 960,
+                    "imageDescription": "640x960"
+                },
+				 {
+                    "imageName": "PLY4171-14-P_640x1136.jpg",
+                    "imageWidth": 640,
+                    "imageHeight": 1136,
+                    "imageDescription": "640x1136"
+               },
+				 {
+                    "imageName": "PLY4171-14-P_750x1334.jpg",
+                    "imageWidth": 750,
+                    "imageHeight": 1334,
+                    "imageDescription": "750x1334"
+                },
+				{
+                    "imageName": "PLY4171-14-P_960x640.jpg",
+                    "imageWidth": 960,
+                    "imageHeight": 640,
+                    "imageDescription": "960x640"
+                },
+				{
+                    "imageName": "PLY4171-14-P_1136x640.jpg",
+                    "imageWidth": 1136,
+                    "imageHeight": 640,
+                    "imageDescription": "1136x640"
+                },
+				{
+                    "imageName": "PLY4171-14-P_1242x2208.jpg",
+                    "imageWidth": 1242,
+                    "imageHeight": 2208,
+                    "imageDescription": "1242x2208"
+                },
+				{
+                    "imageName": "PLY4171-14-P_1334x750.jpg",
+                    "imageWidth": 1334,
+                    "imageHeight": 750,
+                    "imageDescription": "1334x750"
+                },
+				{
+                    "imageName": "PLY4171-14-P_1536x2048.jpg",
+                    "imageWidth": 1536,
+                    "imageHeight": 2048,
+                    "imageDescription": "1536x2048"
+                },
+				{
+                    "imageName": "PLY4171-14-P_2048x1536.jpg",
+                    "imageWidth": 2048,
+                    "imageHeight": 1536,
+                    "imageDescription": "2048x1536"
+                },
+				{
+                    "imageName": "PLY4171-14-P_2208x1242.jpg",
+                    "imageWidth": 2208,
+                    "imageHeight": 1242,
+                    "imageDescription": "2208x1242"
+                },
+				{
+                    "imageName": "PLY4171-14-P_640x100.gif",
+                    "imageWidth": 640,
+                    "imageHeight": 100,
+                    "imageDescription": "640x100"
+                },
+				{
+                    "imageName": "PLY4171-14-P_750x100.gif",
+                    "imageWidth": 750,
+                    "imageHeight": 100,
+                    "imageDescription": "750x100"
+                },
+				{
+                    "imageName": "PLY4171-14-P_960x64.jpg",
+                    "imageWidth": 960,
+                    "imageHeight": 64,
+                    "imageDescription": "960x64"
+                },
+				{
+                    "imageName": "PLY4171-14-P_1136x64.jpg",
+                    "imageWidth": 1136,
+                    "imageHeight": 64,
+                    "imageDescription": "1136x64"
+                },
+				{
+                    "imageName": "PLY4171-14-P_1242x150.gif",
+                    "imageWidth": 1242,
+                    "imageHeight": 150,
+                    "imageDescription": "1242x150"
+                },
+				{
+                    "imageName": "PLY4171-14-P_1334x64.jpg",
+                    "imageWidth": 1334,
+                    "imageHeight": 64,
+                    "imageDescription": "1334x64"
+                },
+				{
+                    "imageName": "PLY4171-14-P_1536x132.jpg",
+                    "imageWidth": 1536,
+                    "imageHeight": 132,
+                    "imageDescription": "1536x132"
+                },
+				{
+                    "imageName": "PLY4171-14-P_2048x132.jpg",
+                    "imageWidth": 2048,
+                    "imageHeight": 132,
+                    "imageDescription": "2048x132"
+                },
+				{
+                    "imageName": "PLY4171-14-P_2208x96.jpg",
+                    "imageWidth": 2208,
+                    "imageHeight": 96,
+                    "imageDescription": "2208x96"
+                }
+
+            ]
+        },{
+            "number": "PLY4171-14-O",
+            "title": "STARZ Play - Power S2 Twitter ads",
+            "description": "",
+            "manager": "Loren Husson",
+            "designer": "Keith",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "PLY4171-14-O_post1.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 320,
+                    "imageDescription": "Post 1"
+                },
+                {
+                    "imageName": "PLY4171-14-O_post2.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 320,
+                    "imageDescription": "Post 2"
+                },
+				{
+                    "imageName": "PLY4171-14-O_post3.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 320,
+                    "imageDescription": "Post 3"
+                },
+				{
+                    "imageName": "PLY4171-14-O_post4.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 320,
+                    "imageDescription": "Post 4"
+                }
+
+            ]
+        },{
+            "number": "PLY4171-14-N",
+            "title": "STARZ Play - Power S2 Facebook Download Ads",
+            "description": "",
+            "manager": "Loren Husson",
+            "designer": "Keith",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "PLY4171-14-N_post1.jpg",
+                    "imageWidth": 1200,
+                    "imageHeight": 628,
+                    "imageDescription": "Post 1"
+                },
+                {
+                    "imageName": "PLY4171-14-N_post2.jpg",
+                    "imageWidth": 1200,
+                    "imageHeight": 628,
+                    "imageDescription": "Post 2"
+                },
+				{
+                    "imageName": "PLY4171-14-N_post3.jpg",
+                    "imageWidth": 1200,
+                    "imageHeight": 628,
+                    "imageDescription": "Post 3"
+                },
+				{
+                    "imageName": "PLY4171-14-N_post4.jpg",
+                    "imageWidth": 1200,
+                    "imageHeight": 628,
+                    "imageDescription": "Post 4"
+                }
+
+            ]
+        },{
+            "number": "PLY4122-13-AC",
+            "title": "Play - BSS2 Featured Images",
+            "description": "",
+            "manager": "Jeremy",
+            "designer": "Keith",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "BKS2_Play_620x310_tunein.jpg",
+                    "imageWidth": 620,
+                    "imageHeight": 310,
+                    "imageDescription": "620x310 w/ Tune-in"
+                },
+                {
+                    "imageName": "BKS2_Play_620x310.jpg",
+                    "imageWidth": 620,
+                    "imageHeight": 310,
+                    "imageDescription": "620x310"
+                },
+                {
+                    "imageName": "BKS2_Play_884x442_tunein.jpg",
+                    "imageWidth": 884,
+                    "imageHeight": 442,
+                    "imageDescription": "884x442 w/ Tune-in"
+                },
+                {
+                    "imageName": "BKS2_Play_884x442.jpg",
+                    "imageWidth": 884,
+                    "imageHeight": 442,
+                    "imageDescription": "884x442"
+                },
+                {
+                    "imageName": "BKS2_Play_984x492_tunein.jpg",
+                    "imageWidth": 984,
+                    "imageHeight": 492,
+                    "imageDescription": "984x492 w/ Tune-in"
+                },
+                {
+                    "imageName": "BKS2_Play_984x492.jpg",
+                    "imageWidth": 984,
+                    "imageHeight": 492,
+                    "imageDescription": "984x492"
+                },
+				  {
+                    "imageName": "BKS2_Play_1280x350_tunein.jpg",
+                    "imageWidth": 1280,
+                    "imageHeight": 350,
+                    "imageDescription": "1280x350 w/ Tune-in"
+                },
+                {
+                    "imageName": "BKS2_Play_1280x350.jpg",
+                    "imageWidth": 1280,
+                    "imageHeight": 350,
+                    "imageDescription": "1280x350"
+                },
+				  {
+                    "imageName": "BKS2_Play_789x308_tunein.jpg",
+                    "imageWidth": 789,
+                    "imageHeight": 308,
+                    "imageDescription": "789x308 w/ Tune-in"
+                },
+                {
+                    "imageName": "BKS2_Play_789x308.jpg",
+                    "imageWidth": 789,
+                    "imageHeight": 308,
+                    "imageDescription": "789x308"
+                }
+
+            ]
+        },{
+            "number": "PLY4171-14-A",
+            "title": "Black Sails S2 Twitter Posts",
+            "description": "",
+            "manager": "Ashleigh",
+            "designer": "Keith",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "Black-Sails-S2-Twitter-Post1.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 320,
+                    "imageDescription": "Post 1"
+                },
+                {
+                    "imageName": "Black-Sails-S2-Twitter-Post2.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 320,
+                    "imageDescription": "Post 2"
+                },
+				{
+                    "imageName": "Black-Sails-S2-Twitter-Post3.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 320,
+                    "imageDescription": "Post 3"
+                },
+				{
+                    "imageName": "Black-Sails-S2-Twitter-Post4.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 320,
+                    "imageDescription": "Post 4"
+                }
+
+            ]
+        },
+		{
+            "number": "PLY4120-13-C",
+            "title": "Wake Screen - Black Sails",
+            "description": "This activity is to create a Wake Screen image to promote Black Sails on the kindle fire devices. We should be able to utilize the images created for the store picker ads as a base. We will need to deliver both landscape and portrait images sized to the appropriate specifications. The specs vary per device but some of the sizes are the same. We just want to make sure that we supply the image that will look the best on each device.<br><br>Please see the spec/guideline document in the attachment section.<br><br>The final deliverables are JPEGs, and a PNG of the button which appears to be sized the same size as the JPEG but everything is transparent execept for the button which has the call to action on it.<br><br>Here is more information beyond the attached wake guidelines:<br>Deliverables in PSD format:<br>6 Wake Screen images (horizontal and vertical for Kindle Fire, Kindle Fire HD and Kindle Fire HD 8.9)<br>3 View Special Offers (VSO) images (one each for the three devices)<br><br>Additional style guidelines:<br>Use minimal text , no use of trademark symbols<br>Please include a short and descriptive sentence or a tagline on the ad that entices download <br>Separate wake screen assets are needed for landscape and portrait for each of the 3 devices (6 in total). Note that each device will have slightly different asset sizes for each orientation and separate assets for each device per orientation are needed. See section (3) in the style guide.<br>Use of the swipe 'paddle': Please provide images with the paddle included for initial review. The paddle should include a short call to action, such as 'Download now' or 'Get the App now'.",
+            "manager": "Loren",
+            "designer": "Rick",
+            "delivery": "PLY4120-13-C_Final_Amazon_PSD.zip",
+            "imageCollection": [
+                {
+                    "imageName": "KindleFire_Gen5_600x1024.jpg",
+                    "imageWidth": 600,
+                    "imageHeight": 1024,
+                    "imageDescription": "Kindle Fire Gen 5 (600x1024)"
+                },
+                {
+                    "imageName": "KindleFire_Gen5_1024x600.jpg",
+                    "imageWidth": 1024,
+                    "imageHeight": 600,
+                    "imageDescription": "Kindle Fire Gen 5 (1024x600)"
+                },
+                {
+                    "imageName": "KindleFireHD_Gen5_800x1280.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 1280,
+                    "imageDescription": "Kindle Fire HD Gen 5 (800x1280)"
+                },
+                {
+                    "imageName": "KindleFireHD_Gen5_1280x800.jpg",
+                    "imageWidth": 1280,
+                    "imageHeight": 800,
+                    "imageDescription": "Kindle Fire HD Gen 5 (1280x800)"
+                },
+                {
+                    "imageName": "KindleFireHD_8.9_Gen5_1200x1920.jpg",
+                    "imageWidth": 1200,
+                    "imageHeight": 1920,
+                    "imageDescription": "Kindle Fire HD 8.9 Gen 5 (1200x1920)"
+                },
+                {
+                    "imageName": "KindleFireHD_8.9_Gen5_1920x1200.jpg",
+                    "imageWidth": 1920,
+                    "imageHeight": 1200,
+                    "imageDescription": "Kindle Fire HD 8.9 Gen 5 (1920x1200)"
+                },
+                {
+                    "imageName": "KindleFireHD_Gen6_800x1280.jpg",
+                    "imageWidth": 800,
+                    "imageHeight": 1280,
+                    "imageDescription": "Kindle Fire HD Gen 6 (800x1280)"
+                },
+                {
+                    "imageName": "KindleFireHD_Gen6_1280x800.jpg",
+                    "imageWidth": 1280,
+                    "imageHeight": 800,
+                    "imageDescription": "Kindle Fire HD Gen 6 (1280x800)"
+                },
+                {
+                    "imageName": "KindleFireHDX_8.9_Gen6_1200x1920.jpg",
+                    "imageWidth": 1200,
+                    "imageHeight": 1920,
+                    "imageDescription": "Kindle Fire HDX 8.9 Gen 6 (1200x1920)"
+                },
+                {
+                    "imageName": "KindleFireHDX_8.9_Gen6_1920x1200.jpg",
+                    "imageWidth": 1920,
+                    "imageHeight": 1200,
+                    "imageDescription": "Kindle Fire HDX 8.9 Gen 6 (1920x1200)"
+                },
+                {
+                    "imageName": "KindleFireHDX_Gen6_1200x1920.jpg",
+                    "imageWidth": 1200,
+                    "imageHeight": 1920,
+                    "imageDescription": "Kindle Fire HDX Gen 6 (1200x1920)"
+                },
+                {
+                    "imageName": "KindleFireHDX_Gen6_1920x1200.jpg",
+                    "imageWidth": 1920,
+                    "imageHeight": 1200,
+                    "imageDescription": "Kindle Fire HDX Gen 6 (1920x1200)"
+                }
+            ]
+        },
+        {
+            "number": "TEL4076-14",
+            "title": "TEL4076-14 banners",
+            "description": "",
+            "manager": "Terri",
+            "designer": "Hyung",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "TEL4076-14-B_627x300.jpg",
+                    "imageWidth": 627,
+                    "imageHeight": 300,
+                    "imageDescription": "627x300"
+                },
+                {
+                    "imageName": "TEL4076-14-A_300x250.jpg",
+                    "imageWidth": 300,
+                    "imageHeight": 250,
+                    "imageDescription": "300x250"
+                },
+                {
+                    "imageName": "TEL4076-14-A_300x250_v2.jpg",
+                    "imageWidth": 300,
+                    "imageHeight": 250,
+                    "imageDescription": "300x250"
+                }
+
+            ]
+        },
+		{
+			"number":"PLY4136-14-A",
+			"title":"DDS1 Sampling STARZPlay Banner",
+			"description":"We need to create a total of 2 DVDS1 banners to support the STARZ Play media buy. We'll also do 2 DVDS2 banners but I'll put that in another job. The only difference should be the app store badge used (apple vs android).<br>Please pick-up ORG5992-12-E and resize to 320x50.<br>Please remove the tune-in from the banners as that's no longer valid.<br>Specs:<br>320x50, gif/ani-gif, 40K max file size",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"StarzPlay_DDS1_anmtdBNR_320x50_apl_r2.gif",
+				"imageWidth":320,
+				"imageHeight": 50,
+				"imageDescription":"DaVinci's Demons Season One Sampling Banner - Apple 320x50"
+			},{
+				"imageName":"StarzPlay_DDS1_anmtdBNR_320x50_gooPly_r2.gif",
+				"imageWidth":320,
+				"imageHeight":50,
+				"imageDescription":"DaVinci's Demons Season One Sampling Banner - Google Play 320x50"
+			}]
+		},
+        {
+            "number": "PLY4122-13-C",
+            "title": "Xbox - DOTE Background",
+            "description": "XBox background skin.",
+            "manager": "Jeremy",
+            "designer": "Rick",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "XBOX_DOTE.jpg",
+                    "imageWidth": 1280,
+                    "imageHeight": 720,
+                    "imageDescription": "XBox Skin"
+                }]
+        },{
+            "number": "PLY4137-14-A",
+            "title": "STARZ Play FYC Images",
+            "description": "We need to create STARZ Play images highlighting our Original Series that are for consideration for Academy Awards. I have attached images that were created for 2013 consideration. We will need to redesign as we are highlighting 5 series (vs. 3).The following sizes will be needed:<br>* 135x180<br>* 320x240<br>* 375x500<br>* 620x310<br>* 310x155",
+            "manager": "Jeremy",
+            "designer": "Rick",
+            "delivery": "",
+            "imageCollection": [
+                {
+                    "imageName": "emmyfyc_2014_620x310_r2.jpg",
+                    "imageWidth": 620,
+                    "imageHeight": 310,
+                    "imageDescription": "620x310"
+                },
+                {
+                    "imageName": "emmyfyc_2014_790x308_r2.jpg",
+                    "imageWidth": 790,
+                    "imageHeight": 308,
+                    "imageDescription": "790x308"
+                },
+                {
+                    "imageName": "emmyfyc_2014_884x442_r2.jpg",
+                    "imageWidth": 884,
+                    "imageHeight": 442,
+                    "imageDescription": "884x442"
+                },
+                {
+                    "imageName": "emmyfyc_2014_984x492_r2.jpg",
+                    "imageWidth": 984,
+                    "imageHeight": 492,
+                    "imageDescription": "984x492"
+                },
+                {
+                    "imageName": "emmyfyc_2014_1280x350_r2.jpg",
+                    "imageWidth": 1280,
+                    "imageHeight": 350,
+                    "imageDescription": "1280x350"
+                }]
+        },{
+			"number":"PLY4122-13-D",
+			"title":"Xbox One Originals Backgrounds",
+			"description":"This activity is to create the backgrounds for the originals series pages on Xbox One.<br><br>We'd like to have all of the backgrounds through the review process and approved by 4/4.<br><br>Our first task is to finalize a Black Sails background and a Spartacus background so the design agency can show us how the UI would work with a single season vs. multiple season original. Ideally, we'll be able to deliver these by 3/28.<br><br>We will also need backgrounds for the following:<br>Da Vinci's Demons<br>Magic City<br>The White Queen<br>Boss<br>Party Down<br>Camelot<br>Hollywood Residential<br>Head Case<br><br>Jerad has provided the UI PSD file. Please note the only &quotsafe zone&quot is behind the resume image in the lower left of the UI.<br><br> Michael Chuang is working on these. Sizing should be 2048x1024px but Michael can confirm.",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"STARZ_XBOX_BKS1.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Black Sails Key Art"
+			},{
+				"imageName":"STARZ_XBOX_BSS2.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Boss Key Art"
+			},{
+				"imageName":"STARZ_XBOX_CMS1.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Camelot Key Art"
+			},{
+				"imageName":"STARZ_XBOX_DDS2.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Da Vinci's Demons Key Art"
+			},{
+				"imageName":"STARZ_XBOX_HCS2.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Headcase Key Art"
+			},{
+				"imageName":"STARZ_XBOX_HRS1.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Hollywood Residential Key Art"
+			},{
+				"imageName":"STARZ_XBOX_MCS2.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Magic City Key Art"
+			},{
+				"imageName":"STARZ_XBOX_PDS2.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Key Art"
+			},{
+				"imageName":"STARZ_XBOX_SPS3.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Spartacus Key Art"
+			},{
+				"imageName":"STARZ_XBOX_WQS1.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"The White Queen Key Art"
+			}]
+		},{
+			"number":"PLY4122-13-DV1",
+			"title":"Xbox One Originals Backgrounds",
+			"description":"Originals mockups",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"STARZ_XBOX_One_SeriesPages_PartyDown_3a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Unit Option 3"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_PartyDown_3b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Unit Option 3 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_PartyDown_4a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Unit Option 4"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_PartyDown_4b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Unit Option 4 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_PartyDown_5a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Unit Option 5"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_PartyDown_5b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Unit Option 5 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_PartyDown_6a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Unit Option 6"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_PartyDown_6b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Party Down Unit Option 6 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Boss_1a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Boss Unit Option 1"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Boss_1b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Boss Unit Option 1 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Boss_2a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Boss Unit Option 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Boss_2b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Boss Unit Option 2 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Camelot_1a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Camelot Unit Option 1"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Camelot_1b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Camelot Unit Option 1 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Camelot_2a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Camelot Unit Option 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Camelot_2b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Camelot Unit Option 2 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Outlander_1a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Outlander Unit Option 1"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Outlander_1b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Outlander Unit Option 1 View 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Outlander_2a.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Outlander Unit Option 2"
+			},{
+				"imageName":"STARZ_XBOX_One_SeriesPages_Outlander_2b.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Outlander Unit Option 2 View 2"
+			}]
+		},{
+			"number":"PLY4122-13-G",
+			"title":"Power Featured Images",
+			"description":"The programming team would like to have two images created to promote Power on the Play services.<br><br>The image can use the key art and title art. However, we're sending this through as a design request because programming wants to include the linear premiere date as well as the Play premiere date. This will need a designers eye since we've battled over premiere lock-ups in the past and we'll have many eyes on this. Ideally, we'll be creating a lock-up premiere information template that can be used for other original series premieres.<br><br>We'll have two images for each size.<br><br>Image one:<br>Key/TA with a lock up that communicates:<br>Watch it early on STARZ Play May 31<br>Premieres Jun 7 on STARZ<br><br>Image two:<br>Key/TA with a lock up that communicates:<br>Watch it now on STARZ Play<br>Premieres Jun 7 on STARZ<br><br>This is certainly not the final wording but just used to illustrate what we need.<br><br>There are many ways this can be done but the lock up may have to be modified/restructured for the image size.<br><br>Image sizes needed:<br>620x310<br>884x442<br>984x492<br>1280x350<br>789x308",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PWS1_PlayFeatured_Imgs_620x310_final.jpg",
+				"imageWidth":620,
+				"imageHeight":310,
+				"imageDescription":"620x310"
+			},{
+				"imageName":"PWS1_PlayFeatured_Imgs_789x308_final.jpg",
+				"imageWidth":789,
+				"imageHeight":308,
+				"imageDescription":"789x308"
+			},{
+				"imageName":"PWS1_PlayFeatured_Imgs_884x442_final.jpg",
+				"imageWidth":884,
+				"imageHeight":442,
+				"imageDescription":"884x442"
+			},{
+				"imageName":"PWS1_PlayFeatured_Imgs_984x492_final.jpg",
+				"imageWidth":984,
+				"imageHeight":492,
+				"imageDescription":"984x492"
+			},{
+				"imageName":"PWS1_PlayFeatured_Imgs_1280x350_final.jpg",
+				"imageWidth":640,
+				"imageHeight":175,
+				"imageDescription":"1280x350"
+			}]
+		},{
+			"number":"PLY4128-13-G",
+			"title":"2014 Image update - May",
+			"description":"We need to update the Play images for the various stores. Please review the attached grid for titles and spec sizes.",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"androidPhone_encore.jpg",
+				"imageWidth":360,
+				"imageHeight":640,
+				"imageDescription":"Android Phone - EncorePlay"
+			},{
+				"imageName":"androidPhone_mvPlex.jpg",
+				"imageWidth":360,
+				"imageHeight":640,
+				"imageDescription":"Android Phone - MoviePlexPlay"
+			},{
+				"imageName":"androidPhone_starz.jpg",
+				"imageWidth":360,
+				"imageHeight":640,
+				"imageDescription":"Android Phone - StarzPlay"
+			},{
+				"imageName":"AndroidTab_encore.jpg",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Android Tablet - EncorePlay"
+			},{
+				"imageName":"AndroidTab_mvPlex.jpg",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Android Tablet - MoviePlexPlay"
+			},{
+				"imageName":"AndroidTab_starz.jpg",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Android Tablet - StarzPlay"
+			},{
+				"imageName":"iPad_encore.jpg",
+				"imageWidth":512,
+				"imageHeight":384,
+				"imageDescription":"iPad - EncorePlay"
+			},{
+				"imageName":"iPad_mvPlex.jpg",
+				"imageWidth":512,
+				"imageHeight":384,
+				"imageDescription":"iPad - MoviePlexPlay"
+			},{
+				"imageName":"iPad_starz.jpg",
+				"imageWidth":512,
+				"imageHeight":384,
+				"imageDescription":"iPad - StarzPlay"
+			},{
+				"imageName":"iPhone4_encore_640x960.jpg",
+				"imageWidth":320,
+				"imageHeight":480,
+				"imageDescription":"iPhone 4 - EncorePlay"
+			},{
+				"imageName":"iPhone4_mvPlex_640x960.jpg",
+				"imageWidth":320,
+				"imageHeight":480,
+				"imageDescription":"iPhone 4 - MoviePlexPlay"
+			},{
+				"imageName":"iPhone4_starz_640x960.jpg",
+				"imageWidth":320,
+				"imageHeight":480,
+				"imageDescription":"iPhone 4 - StarzPlay"
+			},{
+				"imageName":"iPhone5_encore_640x1136.jpg",
+				"imageWidth":320,
+				"imageHeight":568,
+				"imageDescription":"iPhone 5 - EncorePlay"
+			},{
+				"imageName":"iPhone5_mvPlex_640x1136.jpg",
+				"imageWidth":320,
+				"imageHeight":568,
+				"imageDescription":"iPhone 5 - MoviePlexPlay"
+			},{
+				"imageName":"iPhone5_starz_640x1136.jpg",
+				"imageWidth":320,
+				"imageHeight":568,
+				"imageDescription":"iPhone 5 - StarzPlay"
+			},{
+				"imageName":"kindleFire_encore.jpg",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Kindle HD - EncorePlay"
+			},{
+				"imageName":"kindleFire_mvPlex.jpg",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Kindle HD - MoviePlexPlay"
+			},{													
+				"imageName":"kindleFire_starz.jpg",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Kindle HD - StarzPlay"
+			},{
+				"imageName":"nook_encore.png",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Nook - EncorePlay"
+			},{
+				"imageName":"nook_mvPlex.png",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Nook - MoviePlexPlay"
+			},{											
+				"imageName":"nook_starz.png",
+				"imageWidth":512,
+				"imageHeight":300,
+				"imageDescription":"Nook - StarzPlay"
+			}]
+		},{
+			"number":"PLY4119-13-J",
+			"title":"Q3 ENCORE Play Device Redirect Page",
+			"description":"We need to update the image to use &quotMy Cousin Vinny&quot on the following devices:<br>iPhone<br>iPad<br>Android Phone<br>Android Tablet<br>Kindle<br>Nook<br>Xbox 360<br><br> **Please do not use UI- Only full images. If possible please use different images for each device. Please include the title name on the lower left-hand side of the image **<br><br>**Specs: 980x513px**",
+			"manager":"Ashleigh Moshiser",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"Encore_androidPhone_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Android Phone - EncorePlay"
+			},{
+				"imageName":"Encore_androidTab_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Android Tablet - EncorePlay"
+			},{				
+				"imageName":"Encore_iPad_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"iPad - EncorePlay"
+			},{
+				"imageName":"Encore_iPhone_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"iPhone - EncorePlay"
+			},{
+				"imageName":"Encore_kindleFire_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Kindle HD - EncorePlay"
+			},{
+				"imageName":"Encore_nook_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Nook - EncorePlay"
+			},{
+				"imageName":"Encore_XBOX_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"XBOX - EncorePlay"
+			}]
+		},{
+			"number":"PLY4119-13-K",
+			"title":"Q3 ENCORE Play Supported Devices Page",
+			"description":"We need to update the image to use &quotMy Cousin Vinny&quot on the following devices:<br>iPhone<br>iPad<br>Android Phone<br>Android Tablet<br>Kindle<br>Nook<br>Xbox 360<br><br> **Please do not use UI- Only full images. If possible please use different images for each device. Please include the title name on the lower left-hand side of the image **<br><br>**Specs: 960x500px**",
+			"manager":"Ashleigh Moshiser",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"encore_andPhone_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Android Phone - EncorePlay"
+			},{
+				"imageName":"encore_andTablet_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Android Tablet - EncorePlay"
+			},{
+				"imageName":"encore_computer_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Computer - EncorePlay"
+			},{
+				"imageName":"encore_iPad_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"iPad - EncorePlay"
+			},{
+				"imageName":"encore_iPhone_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"iPhone - EncorePlay"
+			},{
+				"imageName":"encore_kindle_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Kindle - EncorePlay"
+			},{
+				"imageName":"encore_Nook_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Nook - EncorePlay"
+			},{
+				"imageName":"encore_XBOX_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"XBOX - EncorePlay"
+			}]		
+		},{
+			"number":"PLY4119-13-L",
+			"title":"Q3 MOVIEPLEX Play Device Redirect Page",
+			"description":"We need to update the image to use &quotTootsie&quot on the following devices:<br>iPhone<br>iPad<br>Android Phone<br>Android Tablet<br>Kindle<br>Nook<br>Xbox 360<br><br> **Please do not use UI- Only full images. If possible please use different images for each device. Please include the title name on the lower left-hand side of the image **<br><br>**Specs: 980x513px**",
+			"manager":"Ashleigh Moshiser",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"MVPlex_androidPhone_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Android Phone - MoviePlexPlay"
+			},{
+				"imageName":"MVPlex_androidTab_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Android Tablet - MoviePlexPlay"
+			},{				
+				"imageName":"MVPlex_iPad_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"iPad - MoviePlexPlay"
+			},{
+				"imageName":"MVPlex_iPhone_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"iPhone - MoviePlexPlay"
+			},{
+				"imageName":"MVPlex_kindleFire_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Kindle HD - MoviePlexPlay"
+			},{
+				"imageName":"MVPlex_nook_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Nook - MoviePlexPlay"
+			},{
+				"imageName":"MVPlex_XBOX_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"XBOX - MoviePlexPlay"
+			}]
+		},{
+			"number":"PLY4119-13-M",
+			"title":"Q3 MOVIEPLEX Play Supported Devices Page",
+			"description":"We need to update the image to use &quotTootsie&quot on the following devices:<br>iPhone<br>iPad<br>Android Phone<br>Android Tablet<br>Kindle<br>Nook<br>Xbox 360<br><br> **Please do not use UI- Only full images. If possible please use different images for each device. Please include the title name on the lower left-hand side of the image **<br><br>**Specs: 960x500px**",
+			"manager":"Ashleigh Moshiser",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"mvplex_andPhone_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Android Phone - MoviePlexPlay"
+			},{
+				"imageName":"mvplex_andTablet_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Android Tablet - MoviePlexPlay"
+			},{
+				"imageName":"mvplex_computer_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Computer - MoviePlexPlay"
+			},{
+				"imageName":"mvplex_iPad_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"iPad - MoviePlexPlay"
+			},{
+				"imageName":"mvplex_iPhone_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"iPhone - MoviePlexPlay"
+			},{
+				"imageName":"mvplex_kindle_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Kindle - MoviePlexPlay"
+			},{
+				"imageName":"mvplex_Nook_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Nook - MoviePlexPlay"
+			},{
+				"imageName":"mvplex_XBOX_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"XBOX - MoviePlexPlay"
+			}]		
+		},{
+			"number":"PLY4119-13-N",
+			"title":"Q3 STARZ Play Device Redirect Page",
+			"description":"We need to update the image to use Power Key Art on the following devices:<br>iPhone<br>iPad<br>Android Phone<br>Android Tablet<br>Kindle<br>Nook<br>Xbox 360<br><br> **Please do not use UI- Only full images. If possible please use different images for each device. Please include the title name on the lower left-hand side of the image **<br><br>**Specs: 980x513px**",
+			"manager":"Ashleigh Moshiser",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"STARZ_androidPhone_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Android Phone - STARZPlay"
+			},{
+				"imageName":"STARZ_androidTab_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Android Tablet - STARZPlay"
+			},{				
+				"imageName":"STARZ_iPad_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"iPad - STARZPlay"
+			},{
+				"imageName":"STARZ_iPhone_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"iPhone - STARZPlay"
+			},{
+				"imageName":"STARZ_kindleFire_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Kindle HD - STARZPlay"
+			},{
+				"imageName":"STARZ_nook_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"Nook - STARZPlay"
+			},{
+				"imageName":"STARZ_XBOX_header.jpg",
+				"imageWidth":980,
+				"imageHeight":513,
+				"imageDescription":"XBOX - STARZPlay"
+			}]
+		},{
+			"number":"PLY4119-13-O",
+			"title":"Q3 STARZ Play Supported Devices Page",
+			"description":"We need to update the image to use Power Images on the following devices:<br>iPhone<br>iPad<br>Android Phone<br>Android Tablet<br>Kindle<br>Nook<br>Xbox 360<br><br> **Please do not use UI- Only full images. If possible please use different images for each device. Please include the title name on the lower left-hand side of the image **<br><br>**Specs: 960x500px**",
+			"manager":"Ashleigh Moshiser",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"starz_andPhone_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Android Phone - STARZPlay"
+			},{
+				"imageName":"starz_andTablet_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Android Tablet - STARZPlay"
+			},{
+				"imageName":"starz_computer_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Computer - STARZPlay"
+			},{
+				"imageName":"starz_iPad_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"iPad - STARZPlay"
+			},{
+				"imageName":"starz_iPhone_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"iPhone - STARZPlay"
+			},{
+				"imageName":"starz_kindle_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Kindle - STARZPlay"
+			},{
+				"imageName":"starz_Nook_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"Nook - STARZPlay"
+			},{
+				"imageName":"starz_XBOX_supportedDevices.png",
+				"imageWidth":960,
+				"imageHeight":500,
+				"imageDescription":"XBOX - STARZPlay"
+			}]		
+		},{
+			"number":"PLY4134-14-B",
+			"title":"Play Dot Com 3Q Updates 2014",
+			"description":"Please update the Play Dot Com sites with the static images provided for 3Q 2014. Images will be sent via Aspera Faspex to to Michael Chuang. There are no specs for this project, but the previous version can be referenced in job PLY4134-14-A (Michael).<br><br>*The target live date for this is 6/23",
+			"manager":"Ashleigh Moshier",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"StarzPlay_3Q2014_Mockup.jpg",
+				"imageWidth":360,
+				"imageHeight":1443,
+				"imageDescription":"StarzPlay 3Q 2014 Update"
+			},{
+				"imageName":"EncorePlay_3Q2014_Final.jpg",
+				"imageWidth":360,
+				"imageHeight":1443,
+				"imageDescription":"EncorePlay 3Q 2014 Update"
+			},{
+				"imageName":"MoviePlexPlay_3Q2014_Final.jpg",
+				"imageWidth":360,
+				"imageHeight":1443,
+				"imageDescription":"MoviePlexPlay 3Q 2014 Update"
+			}]
+		},{
+			"number":"PLY4136-14-E",
+			"title":"Power - Xfinity versions",
+			"description":"We need to take the banners that we did for PLY4136-C and D and create Xfinity versions.<br><br>This means adding the following:<br>NOW AVAILABLE TO XFINITY CUSTOMERS (Use the Xfinity logo)<br><br>and then add to the copyright XFINITY © Comcast 2014<br><br>Nothing else changes on the banners.<br><br>We'll deliver the same GIF files and PSDs.",
+			"manager":"Loren Husson",
+			"designer":"Boun & Michael",
+			"swf":[{
+				"name":"300x250 swf",
+        		"file":"PWS1_Play300x250.swf",
+        		"height":300,
+        		"width":250
+			}],
+			"imageCollection":[{
+				"imageName":"starzplay_power_banner_300x50_apple.gif",
+				"imageWidth":300,
+				"imageHeight":50,
+				"imageDescription":"300x50 Apple GIF"
+			},{
+				"imageName":"starzplay_power_banner_300x50_google.gif",
+				"imageWidth":300,
+				"imageHeight":50,
+				"imageDescription":"300x50 Google GIF"
+			},{
+				"imageName":"starzplay_power_banner_300x250.gif",
+				"imageWidth":300,
+				"imageHeight":250,
+				"imageDescription":"300x250 GIF"
+			},{
+				"imageName":"starzplay_power_banner_320x50_apple.gif",
+				"imageWidth":320,
+				"imageHeight":50,
+				"imageDescription":"320x50 Apple GIF"
+			},{
+				"imageName":"starzplay_power_banner_320x50_google.gif",
+				"imageWidth":320,
+				"imageHeight":50,
+				"imageDescription":"320x50 Google GIF"
+			}]
+		},{
+			"number":"PLY4122-13-I",
+			"title":"STARZ Play Xbox 360 - Outlander background",
+			"description":"We need a background for the Outlander series page on the Xbox 360.<br><br>This really does act as a wall paper instead of using unit or other imagery.",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"XBOX_OLS1_BGDS_final_mockup.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Outlander Mockup"
+			},{
+				"imageName":"XBOX_OLS1_BGDS_final.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"Outlander Background"
+			}]
+		},{
+    "number": "PLY4154-14-A",
+    "title": "Affiliate Social Media-STARZ Play Launch-Q3",
+    "description": "We will need 5 different assets to create a STARZ Play social media lauch campaign. Every assest will need to come in both Facebook and Twitter sizes:1200x900 and 1200x600.<br>Descriptions of assets:<br>1- A &quot;Coming soon&quot; asset<br>*showing the arrangement of different devices used in the STARZ OTS T3 2013 campaign OTS4243-13<br>*put Power UI in tablet<br>2- A &quot;STARZ Play is here&quot; asset<br>*include the arrangement of devices used in the STARZ OTS T3 2013 campaign. OTS4243-13<br>*put the Power UI in the tablet<br><b>****CANCELLED****</b> 3-Another &quot;STARZ Play is here&quot; asset<br>*include the STARZ Play tour video: starzplay.com under the Help tab<br>4-A &quot;STARZ Play keep watching&quot; asset<br>*Power themed with the image of the man in the suit holding the tablet (from the STARZ Play OTS T2 2014) campaign PLY4126-14<br>5-Another &quot;STARZ Play keep watching&quot; asset<br>*showing different movie titles",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4154-14-A_ComingSoon_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FB Coming Soon Asset"
+        },{
+            "imageName": "PLY4154-14-A_ComingSoon_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Twitter Coming Soon Asset"
+        },{
+            "imageName": "PLY4154-14-A_AvailableNow_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FB Available Now Asset"
+        },{
+            "imageName": "PLY4154-14-A_AvailableNow_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Twitter Available Now Asset"
+        },{
+            "imageName": "PLY4154-14-A_AnytimeAnywhere_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FB Anytime Anywhere Asset"
+        },{
+            "imageName": "PLY4154-14-A_AnytimeAnywhere_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Twitter Anytime Anywhere Asset"
+        },{
+            "imageName": "PLY4154-14-A_AnytimeAnywhere2_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FB Anytime Anywhere 2 Asset"
+        },{
+            "imageName": "PLY4154-14-A_AnytimeAnywhere2_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Twitter Anytime Anywhere 2 Asset"
+        },{
+            "imageName": "PLY4154-14-A_Originals_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FB Watch Premiere Free Asset"
+        },{
+            "imageName": "PLY4154-14-A_Originals_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Twitter Watch Premiere Free Asset"
+        }]
+},{
+    "number": "PLY4154-14-C",
+    "title": "Additional STARZ Play Launch Images (3)",
+    "description": "We will need 3 more images, all in both Facebook and Twitter sizes. All images should be of the three devices, saying &quot;Anytime, Anywhere&quot;<br>Image one:<br>A STARZ Play + Encore Play image<br>include both badges<br>use STARZ UI in iPad<br>Movies you can use: Thor: The Dark World, Frozen, Zero Dark Thirty, Peggy Sue Got Married<br><br>Image two:<br>An ENCORE Play image<br>include ENCORE Play badge<br>Use Encore UI in iPad<br>movies: Zero Dark Thirty, The Aviator, Peggy Sue got Married, The Incredibles<br><br>Third image:<br>A MoviePlex Play image<br>include MoviePlex badge<br>use Movieplex UI in iPad<br>Movies: Stand by Me, Peggy Sue Got Married, Staying Alive, Bird on A Wire",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4154-14-C_StarzEncorePlay_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FB STARZ Play + Encore Play Asset"
+        },{
+            "imageName": "PLY4154-14-C_StarzEncorePlay_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Twitter STARZ Play + Encore Play Asset"
+        },{
+            "imageName": "PLY4154-14-C_EncorePlay_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FB Encore Play Asset"
+        },{
+            "imageName": "PLY4154-14-C_EncorePlay_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Twitter Encore Play Asset"
+        },{
+            "imageName": "PLY4154-14-C_MoviePlexPlay_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FB MoviePlex Play Asset"
+        },{
+            "imageName": "PLY4154-14-C_MoviePlexPlay_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Twitter MoviePlex Play Asset"
+        }]
+},{
+    "number": "OTS4340-14-A",
+    "title": "Postcard #1",
+    "description": "We need to create a new quote postcard for Spartacus to post to both Facebook and Twitter. We will need both sizes 1200x600 and 1200x900.<br>Attached is an old postcard with the image we want to use. We would like to put on the image the quote: &quot;One day Rome shall fade and crumble, yet you shall always be remembered.&quot;-Agron<br>Please put on the STARZ Play lockup also shown in the attachment.<br>Include the title art.<br>Include: #Spatacus",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-A_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-A_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+    "number": "OTS4340-14-B",
+    "title": "Spartacus-XboxOne image",
+    "description": "Use the creative direction from WEB4420-13-T and update with Spartacus key art or the Relive the Entire Saga key art, and a &quot;Now available on Xbox One&quot; message.<br>We will need 2 sizes: 1200x600 and 1200x900",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-B_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-B_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+    "number": "OTS4340-14-C",
+    "title": "Postcard #2",
+    "description": "Will need an image in 2 sizes: 1200x600 and 1200x900.<br>Please see image attached. Get this image from Melea Kreshok.<br>Put the following quote in the image:&quot;There is only one way to become champion. Never fucking lose.&quot;-Gannicus.<br>Include #Spartacus<br>Include the STARZ Play lock-up (see attached)<br>Please deliver to Cara by EOD",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-C_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-C_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+    "number": "OTS4340-14-D",
+    "title": "Postcard #3",
+    "description": "Will need an image in 2 sizes: 1200x600 and 1200x900.<br>Please see image attached. Get this image from Melea Kreshok.<br>Put the following quote in the image:&quot;We shall geet you in the afterlife, my brother.&quot;-Oenomaus.<br>Include #Spartacus<br>Include the STARZ Play lock-up (see attached)",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-D_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-D_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+    "number": "OTS4340-14-E",
+    "title": "Door Hanger",
+    "description": "We would like to post an old Spartacus door hanger to Facebook and Twitter. See the door hanger attached.<br>Please update to new brand standards.<br>Include #Spartacus<br>Include STARZ play lockup(see attached)",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-E_index.jpg",
+            "imageWidth": 250,
+            "imageHeight": 480,
+            "imageDescription": "Door Hanger"
+        }]
+},{
+    "number": "OTS4340-14-F",
+    "title": "Postcard #5",
+    "description": "Please get the image of Lucretia and Ilithyia from Blood and Sand, from Melea Kreshok. We will need this in both 1200x600 and 1200x900.<br>*inlcude the STARZ Play lockup (seen in Postcard #1 OTS4340-14-A)<br>*include #Spartacus",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-F_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-F_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+			"number":"PLY4134-14-C",
+			"title":"STARZ Play Dot Com Outlander Update",
+			"description":"Please update the Play Dot Com sites with the static images provided for Outlander. Images will be sent via Aspera Faspex to to Michael Chuang. There are no specs for this project, but the previous version can be referenced in job PLY4134-14-A (Michael).<br><br>*The target live date for this is 7/31",
+			"manager":"Ashleigh Moshier",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"Starz_Play_Mockup_OLS1.jpg",
+				"imageWidth":360,
+				"imageHeight":1443,
+				"imageDescription":"StarzPlay Outlander S1 Update"
+			}]
+},{
+    "number": "TWR4607-14-A",
+    "title": "TWC FPV-Social Images (2 versions)",
+    "description": "We will need 2 different images for the Time Warner Free Preview Weekend. Each image needs to come in 1200x600 and 1200x900.<br><br>Versions:<br>1 A STARZ Play image that will look like the attached screen grab (Device Page)<br>*Include the STARZ Play logo<br>*Include #FreePreviewWeekend<br>*Keep the &quot;Anytime, Anywhere&quot;<br>*In phone put American Hustle (see image attached)<br>*In laptop put Frozen<br>*In tablet put the Outlander UI that is shown<br><br>2 A Free Preview image<br>Please use the Free Preview Screen grab attached and add the dates of the FPV: &quot;August 8 - 10&quot;<br>*Include #FreePreviewWeekend<br>*Include the STARZ logo",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "TWR4607-14-A_Devices_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "Devices 1200x900"
+        },{
+            "imageName": "TWR4607-14-A_Devices_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "Devices 1200x600"
+        },{
+            "imageName": "TWR4607-14-A_FPV_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "FPV 1200x900"
+        },{
+            "imageName": "TWR4607-14-A_FPV_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "FPV 1200x600"
+        }]
+},{
+    "number": "OTS4340-14-G",
+    "title": "Postcard #4",
+    "description": "Please get the image of Lucretia and Ilithyia from Blood and Sand, from Melea Kreshok. We will need this in both 1200x600 and 1200x900.<br>*inlcude the STARZ Play lockup (seen in Postcard #1 OTS4340-14-A)<br>*include #Spartacus",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-G_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-G_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+    "number": "OTS4340-14-I",
+    "title": "Spartacus-Extended Scene image",
+    "description": "Please get the cleaned screen grab from Vengeance from Melea. She just cleaned it for us.<br>Will need the image in 2 sizes: 1200x600 and 1200x900.<br>Include #Spartacus<br>Include the STARZ Play lock-up (see attached)",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-I_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-I_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+    "number": "OTS4340-14-J",
+    "title": "Postcard #6",
+    "description": "",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-J_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-J_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+    "number": "OTS4340-14-K",
+    "title": "Postcard #7",
+    "description": "",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-K_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-K_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+    "number": "OTS4340-14-L",
+    "title": "Postcard #8",
+    "description": "",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "OTS4340-14-L_1200x900.jpg",
+            "imageWidth": 600,
+            "imageHeight": 450,
+            "imageDescription": "1200x900"
+        },{
+            "imageName": "OTS4340-14-L_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        }]
+},{
+			"number":"PLY4122-13-R",
+			"title":"ENCORE Play - Power Images",
+			"description":"We need to pick up all images associated with the Power featured images for STARZ Play (PLY4122-13-G) and modify the copy on the bottom of the image to read<br><br>STARTING AUGUST 12<br>NEW EPISODE EVERY TUESDAY<br><br>Image sizes:<br>620x310<br>884x442<br>984x492<br>1280x350<br>789x308",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PWS1_ENCPlayFeatured_Imgs_620x310_final.jpg",
+				"imageWidth":620,
+				"imageHeight":310,
+				"imageDescription":"620x310"
+			},{
+				"imageName":"PWS1_ENCPlayFeatured_Imgs_789x308_final.jpg",
+				"imageWidth":789,
+				"imageHeight":308,
+				"imageDescription":"789x308"
+			},{
+				"imageName":"PWS1_ENCPlayFeatured_Imgs_884x442_final.jpg",
+				"imageWidth":884,
+				"imageHeight":442,
+				"imageDescription":"884x442"
+			},{
+				"imageName":"PWS1_ENCPlayFeatured_Imgs_984x492_final.jpg",
+				"imageWidth":984,
+				"imageHeight":492,
+				"imageDescription":"984x492"
+			},{
+				"imageName":"PWS1_ENCPlayFeatured_Imgs_1280x350_final.jpg",
+				"imageWidth":640,
+				"imageHeight":175,
+				"imageDescription":"1280x350"
+			}]
+		},{
+    "number": "PLY4122-13-P",
+    "title": "Xbox360 & Xbox1 backgrounds-The Chair",
+    "description": "We need two seperate backgrounds of The Chair. One for the Xbox360 and one for the Xbox1.<br>The XB1 should leverage photo with characters, the XB360 is truly a background leveraging elements from key art as there will be xbox elements put on top of this.<br>Xbox One sizing should be 1920x1080px.<br>Xbox 360 sizing should be 1280x720.",
+    "manager": "Stephanie Lilo",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4122-13-P_TCS1_XBOX360_mockup.jpg",
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "imageDescription": "XBOX 360 Mockup"
+        },{
+            "imageName": "PLY4122-13-P_TCS1_XBOX360.jpg",
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "imageDescription": "XBOX 360 Background"
+        },{
+            "imageName": "PLY4122-13-P_TCS1_XBOXOne_mockup.jpg",
+            "imageWidth": 960,
+            "imageHeight": 540,
+            "imageDescription": "XBOX One Mockup"
+        },{
+            "imageName": "PLY4122-13-P_TCS1_XBOXOne.jpg",
+            "imageWidth": 960,
+            "imageHeight": 540,
+            "imageDescription": "XBOX One Background"
+        }]
+},{
+    "number": "PLY4122-13-T",
+    "title": "Xbox Play - Survivor's Remorse Backgrounds",
+    "description": "",
+    "manager": "Loren",
+    "designer": "Rick",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4122-13-T_1280x720.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "imageDescription": "xBox 360"
+        },{
+            "imageName": "PLY4122-13-T_1920x1080_1.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "xBox One"
+        },{
+            "imageName": "PLY4122-13-T_1920x1080_2.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "xBox One"
+        },{
+            "imageName": "PLY4122-13-T_1920x1080_3.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "xBox One"
+        },{
+            "imageName": "PLY4122-13-T_1920x1080_4.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "xBox One"
+        }]
+},{
+    "number": "PLY4122-13-S",
+    "title": "Play - Survivors Remorse Featured Images",
+    "description": "",
+    "manager": "Loren",
+    "designer": "Rick",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4122-13-S_620x310_1.jpg",
+            "imageWidth": 620,
+            "imageHeight": 310,
+            "imageDescription": "620x310"
+        },{
+            "imageName": "PLY4122-13-S_620x310_2.jpg",
+            "imageWidth": 620,
+            "imageHeight": 310,
+            "imageDescription": "620x310"
+        },{
+            "imageName": "PLY4122-13-S_620x310_3.jpg",
+            "imageWidth": 620,
+            "imageHeight": 310,
+            "imageDescription": "620x310"
+        },{
+            "imageName": "PLY4122-13-S_884x442_1.jpg",
+            "imageWidth": 884,
+            "imageHeight": 442,
+            "imageDescription": "884x442"
+        },{
+            "imageName": "PLY4122-13-S_884x442_2.jpg",
+            "imageWidth": 884,
+            "imageHeight": 442,
+            "imageDescription": "884x442"
+        },{
+            "imageName": "PLY4122-13-S_884x442_3.jpg",
+            "imageWidth": 884,
+            "imageHeight": 442,
+            "imageDescription": "884x442"
+        },{
+            "imageName": "PLY4122-13-S_984x492_1.jpg",
+            "imageWidth": 984,
+            "imageHeight": 492,
+            "imageDescription": "984x492"
+        },{
+            "imageName": "PLY4122-13-S_984x492_2.jpg",
+            "imageWidth": 984,
+            "imageHeight": 492,
+            "imageDescription": "984x492"
+        },{
+            "imageName": "PLY4122-13-S_984x492_3.jpg",
+            "imageWidth": 984,
+            "imageHeight": 492,
+            "imageDescription": "984x492"
+        },{
+            "imageName": "PLY4122-13-S_1280x350_1.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 350,
+            "imageDescription": "1280x350"
+        },{
+            "imageName": "PLY4122-13-S_1280x350_2.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 350,
+            "imageDescription": "1280x350"
+        },{
+            "imageName": "PLY4122-13-S_1280x350_3.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 350,
+            "imageDescription": "1280x350"
+        },{
+            "imageName": "PLY4122-13-S_789x308_1.jpg",
+            "imageWidth": 789,
+            "imageHeight": 308,
+            "imageDescription": "789x308"
+        },{
+            "imageName": "PLY4122-13-S_789x308_2.jpg",
+            "imageWidth": 789,
+            "imageHeight": 308,
+            "imageDescription": "789x308"
+        },{
+            "imageName": "PLY4122-13-S_789x308_3.jpg",
+            "imageWidth": 789,
+            "imageHeight": 308,
+            "imageDescription": "789x308"
+        }]
+},{
+    "number": "PLY4122-13-U",
+    "title": "SP_Outlander_social_paid102",
+    "description": "",
+    "manager": "Katarina Wright",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4122-13-U_1200x600.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        },{
+            "imageName": "PLY4122-13-U_1200x627.jpg",
+            "imageWidth": 600,
+            "imageHeight": 313,
+            "imageDescription": "1200x627"
+        },{
+            "imageName": "PLY4122-13-U_1200x600_v2.jpg",
+            "imageWidth": 600,
+            "imageHeight": 300,
+            "imageDescription": "1200x600"
+        },{
+            "imageName": "PLY4122-13-U_1200x627_v2.jpg",
+            "imageWidth": 600,
+            "imageHeight": 313,
+            "imageDescription": "1200x627"
+        }]
+},{
+			"number":"PLY4134-14-E",
+			"title":"Play Dot Com 4Q Updates 2014",
+			"description":"Please update the Play Dot Com sites with the static images provided for 4Q 2014. Images will be sent via Aspera Faspex to to Michael Chuang. There are no specs for this project, but the previous version can be referenced in job PLY4134-14-A (Michael).<br><br>*The target live date for this is 10/1",
+			"manager":"Ashleigh Moshier",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4134-14-E_Starz_Play_Mockup.jpg",
+				"imageWidth":360,
+				"imageHeight":1443,
+				"imageDescription":"StarzPlay 4Q 2014 Update"
+			},{
+				"imageName":"PLY4134-14-E_Encore_Play_Mockup_Final.jpg",
+				"imageWidth":360,
+				"imageHeight":1443,
+				"imageDescription":"EncorePlay 3Q 2014 Update"
+			},{
+				"imageName":"PLY4134-14-E_MoviePlex_Play_Final.jpg",
+				"imageWidth":360,
+				"imageHeight":1443,
+				"imageDescription":"MoviePlexPlay 3Q 2014 Update"
+			}]
+		},{
+			"number":"PLY4120-13-L,M",
+			"title":" STARZ Play and ENCORE Play Halloween Collection Billboard",
+			"description":"We will be promoting the Halloween Collection on STARZ Play (and ENCORE Play). Please create a 1024x500 billboard. The billboard needs artwork, copy about the Halloween Collection and the STARZ Play (and ENCORE Play) logos.",
+			"manager":"Ashleigh Moshier",
+			"designer":"Boun",
+			"imageCollection":[{
+				"imageName":"starzplay_halloween_collection_billboard_1024x500.jpg",
+				"imageWidth":1024,
+				"imageHeight":500,
+				"imageDescription":"PLY4120-13-L STARZ Play Halloween Collection Billboard"
+			},{
+				"imageName":"encoreplay_halloween_collection_billboard_1024x500.jpg",
+				"imageWidth":1024,
+				"imageHeight":500,
+				"imageDescription":"PLY4120-13-M ENCORE Play Halloween Collection Billboard"
+			}]
+		},{
+			"number":"PLY4122-13-AB",
+			"title":"The Missing - Xbox 360 and Xbox One backgrounds",
+			"description":"This activity is to create the backgrounds for The Missing for Xbox 360 and Xbox One.<br><br>Please create a review site so the originals team can view how the background will work within the UI.<br><br>Michael has the UI PSD. Sizing should be 2048x1024px but Michael can confirm.",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4122-13-AB_XBOX_One_v1.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"XBOX One - Option One"
+			},{
+				"imageName":"PLY4122-13-AB_XBOX_One_v2.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"XBOX One - Option Two"
+			},{
+				"imageName":"PLY4122-13-AB_XBOX_360_Mockup.jpg",
+				"imageWidth":480,
+				"imageHeight":270,
+				"imageDescription":"XBOX 360"
+			}]
+		},{
+			"number":"PLY4122-13-AA",
+			"title":"EP | MP Xbox One Tour Image update Nov 14",
+			"description":"We need to update the images created for the EP and MP tours on the Xbox One.<br><br> Please use the files provided by Eric Benner.<br><br>EP:<br>Grown Ups 2<br>Monsters University<br>Remember the Titans<br><br>MP:<br>Lost in Space<br>The Thomas Crown Affair<br>Major Dundee",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4122-13-AA_EP_720x1080.jpg",
+				"imageWidth":360,
+				"imageHeight":540,
+				"imageDescription":"Encore Play"
+			},{
+				"imageName":"PLY4122-13-AA_MP_720x1080.jpg",
+				"imageWidth":360,
+				"imageHeight":540,
+				"imageDescription":"MoviePlex Play"
+			}]
+		},{
+			"number":"PLY4134-14-F",
+			"title":"STARZ Play Dot Com Update - The Missing",
+			"description":"Please update the Play Dot Com sites with the static images provided for The Missing. Images will be sent via Aspera Faspex to to Michael Chuang. There are no specs for this project, but the previous version can be referenced in job PLY4134-14-A (Michael).<br>*The Missing does not go live on Play until 10/31 (images will be sent on 10/31)<br>*Please make sure Google Chromecast is Included*<br>*The target live date for this is 11/14",
+			"manager":"Ashleigh Moshier",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4134-14-F_Starz_Play_Mockup.jpg",
+				"imageWidth":360,
+				"imageHeight":1443,
+				"imageDescription":"StarzPlay The Missing Update"
+			}]
+		},{
+			"number":"PLY4134-14-H",
+			"title":"ENCORE & MOVIEPLEX Play - Adding Xbox One",
+			"description":"We need to add the Xbox One to the ENCORE & MOVIEPLEX Play Dot Com sites. Please see the prefered titles for the images to use. There are no specs for this project, but the previous version can be referenced in job PLY4134-14-D (Michael).<br><br>ENCORE: Featured - The Shawshank Redemption<br>Surrounding Images: Alien, Iron Man 3, The Last Boy Scout, Master and Commander, The Lone Ranger, American Hustle<br><br>MOVIEPLEX: Featured - Bird on a Wire<br>Surrounding Images: At First Sight, Bio Dome, Desperately Seeking Susan, Little Women, Mask (1985), King Ralph",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4134-14-H_EP_XBOXOne_Desktop_1036x362.png",
+				"imageWidth":518,
+				"imageHeight":181,
+				"imageDescription":"Encore Play Desktop"
+			},{
+				"imageName":"PLY4134-14-H_EP_XBOXOne_Tablet_829x290.png",
+				"imageWidth":415,
+				"imageHeight":145,
+				"imageDescription":"Encore Play Tablet"
+			},{
+				"imageName":"PLY4134-14-H_EP_XBOX_Mobile_338x217.png",
+				"imageWidth":338,
+				"imageHeight":217,
+				"imageDescription":"Encore Play Mobile"
+			},{
+				"imageName":"PLY4134-14-H_MP_XBOXOne_Desktop_1036x362.png",
+				"imageWidth":518,
+				"imageHeight":181,
+				"imageDescription":"MoviePlex Play Desktop"
+			},{
+				"imageName":"PLY4134-14-H_MP_XBOXOne_Tablet_829x290.png",
+				"imageWidth":415,
+				"imageHeight":145,
+				"imageDescription":"MoviePlex Play Tablet"
+			},{
+				"imageName":"PLY4134-14-H_MP_XBOX_Mobile_338x217.png",
+				"imageWidth":338,
+				"imageHeight":217,
+				"imageDescription":"MoviePlex Play Mobile"
+			}]
+		},{
+			"number":"PLY4130-14-B",
+			"title":"ENCORE Play & MOVIEPLEX Play on Xbox One - Press Release Image",
+			"description":"This activity is to create ENCORE Play & MOVIEPLEX Play UIs and drop them into the approved image (individually) with a TV and the Xbox One. This device lock-up should be in the image library as a Microsoft Approved Image. The approved image has a TV to the left of the Xbox One, we will also need a TV to the right.<br>The TV on the left should feature the ENCORE UI and the TV to the right should feature the MOVIEPLEX UI.<br><br>The final deliverable will be one image with the 2 TVs surrounding the Xbox One. JPEGS are needed at the highest resolution possible but keeping the file size less than 1 MB.<br><br>The screen shots of the UIs are attached to the job. However we will need to change out the titles. Please contact Michael Chuang for the PSD files.<br><br>In the top right corner of the UI is the username. Please replace the name that is there with ENCORE or MOVIEPLEX respectively.<br><br>ENCORE :<br>Iron Man 3<br>This is the End<br>Captain Phillips<br>Monsters University<br>Men in Black<br>As Good As It Gets<br>Grown Ups 2<br>Magnum PI<br><br>MOVIEPLEX:<br>Lost in Space<br>Throw Momma from the Train<br>Awakenings<br>The Natural<br>Roxanne<br>High Fidelity",
+			"manager":"Ashleigh Moshier",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4130-14-B_XBOX_One.jpg",
+				"imageWidth":600,
+				"imageHeight":300,
+				"imageDescription":"EncorePlay + MoviePlex Play Combo"
+			},{
+				"imageName":"PLY4130-14-B_EP_XBOX_One.jpg",
+				"imageWidth":600,
+				"imageHeight":300,
+				"imageDescription":"EncorePlay"
+			},{
+				"imageName":"PLY4130-14-B_MP_XBOX_One.jpg",
+				"imageWidth":600,
+				"imageHeight":300,
+				"imageDescription":"MoviePlex Play"
+			}]
+		},{
+			"number":"PLY4122-13-W",
+			"title":"Play Featured Images - Black Sails (BSS1)",
+			"description":"The programming team would like to have an image created to promote Black Sails (BSS1) on the STARZ Play services.<br><br>The image can use the key art and title art (Black Sails season 1). Similar to Survivor's Remorse Featured Image (PLY4122-14-S)<br><br>Image sizes needed:<br>620x310<br>884x442<br>984x492<br>1280x350<br>789x308<br><br>The 1280x350 has safe zones of 175x350 on both the left and right side of the image. Messaging should appear in the lower right to stay away from the dynamically inserted Play button.<br><br> Rebecca Avina may have already sized the images so please contact her first.<br><br>Catch up on season one -<br>What is the best message for this? – “BINGE SEASON ONE NOW” or “CATCH UP ON SEASON ONE” or “CATCH UP ON THE FIRST SEASON” or something else?",
+			"manager":"Jeremy Zimmerman",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4122-13-W_620x310.jpg",
+				"imageWidth":620,
+				"imageHeight":310,
+				"imageDescription":"620x310"
+			},{
+				"imageName":"PLY4122-13-W_789x308.jpg",
+				"imageWidth":789,
+				"imageHeight":308,
+				"imageDescription":"789x308"
+			},{
+				"imageName":"PLY4122-13-W_884x442.jpg",
+				"imageWidth":884,
+				"imageHeight":442,
+				"imageDescription":"884x442"
+			},{
+				"imageName":"PLY4122-13-W_984x492.jpg",
+				"imageWidth":984,
+				"imageHeight":492,
+				"imageDescription":"984x492"
+			},{
+				"imageName":"PLY4122-13-W_1280x350.jpg",
+				"imageWidth":640,
+				"imageHeight":175,
+				"imageDescription":"1280x350"
+			}]
+		},{
+			"number":"ENP0101-14-A",
+			"title":"ENCORE Play Xbox One Launch Social Posts - Twitter & Facebook",
+			"description":"Please use the ENCORE Play Xbox One Image from PLY4130-14-A and resize it for Facebook (1200x627) and Twitter (800x320).<br><br>ENCORE Play is launching on Xbox One.Twitter character limit 140.",
+			"manager":"Ashleigh Moshier",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"ENP0101-14-A_1200x627.jpg",
+				"imageWidth":600,
+				"imageHeight":313,
+				"imageDescription":"1200x627"
+			},{
+				"imageName":"ENP0101-14-A_800x320.jpg",
+				"imageWidth":400,
+				"imageHeight":160,
+				"imageDescription":"800x320"
+			}]
+		},{
+			"number":"PLY4122-13-AD",
+			"title":"Play - Outlander Yule Log Special Images",
+			"description":"Play - Outlander Yule Log Special Images",
+			"manager":"Ashleigh Moshier",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4122_13AD_yuleLog_1280x350_wSafeZones.jpg",
+				"imageWidth":600,
+				"imageHeight":164,
+				"imageDescription":"1280x350 (With safe zones on the left (175x350) and right (175x350))"
+			},{
+				"imageName":"PLY4122_13AD_yuleLog_1280x350.jpg",
+				"imageWidth":600,
+				"imageHeight":164,
+				"imageDescription":"1280x350"
+			},{
+				"imageName":"PLY4122_13AD_yuleLog_984x492.jpg",
+				"imageWidth":600,
+				"imageHeight":300,
+				"imageDescription":"984x492"
+			},{
+				"imageName":"PLY4122_13AD_yuleLog_884x442.jpg",
+				"imageWidth":600,
+				"imageHeight":300,
+				"imageDescription":"884x442"
+			},{
+				"imageName":"PLY4122_13AD_yuleLog_789x308.jpg",
+				"imageWidth":600,
+				"imageHeight":234,
+				"imageDescription":"789x308"
+			},{
+				"imageName":"PLY4122_13AD_yuleLog_620x310.jpg",
+				"imageWidth":600,
+				"imageHeight":300,
+				"imageDescription":"620x310"
+			}]
+		},{
+            "number":"PLY9999-99-99",
+            "title":"Newsletter 2015",
+            "description":"",
+            "manager":"Meghan",
+            "designer":"Khoa",
+            "links": [
+                {
+                    "name":"Newsletter",
+                    "description":"Link to a webpage or other asset.",
+                    "href":"http://devreview/StarzPlay/newsletter/2015/jan/index.html"
+                }
+            ]
+        },{
+			"number":"PLY4136-14-T",
+			"title":"Xbox Media Buy banners",
+			"description":"",
+			"manager":"Loren Husson",
+			"designer":"Michael",
+			"imageCollection":[{
+				"imageName":"PLY4136-14-T_BKS1_300x250.jpg",
+				"imageWidth":300,
+				"imageHeight":250,
+				"imageDescription":"BKS1 300x250"
+			},{
+				"imageName":"PLY4136-14-T_BKS1_373x208.jpg",
+				"imageWidth":373,
+				"imageHeight":208,
+				"imageDescription":"BKS1 373x208"
+			},{
+				"imageName":"PLY4136-14-T_OLS1_300x250.jpg",
+				"imageWidth":300,
+				"imageHeight":250,
+				"imageDescription":"OLS1 300x250"
+			},{
+				"imageName":"PLY4136-14-T_OLS1_373x208.jpg",
+				"imageWidth":373,
+				"imageHeight":208,
+				"imageDescription":"OLS1 373x208"
+			},{
+				"imageName":"PLY4136-14-T_PWS1_300x250.jpg",
+				"imageWidth":300,
+				"imageHeight":250,
+				"imageDescription":"PWS1 300x250"
+			},{
+				"imageName":"PLY4136-14-T_PWS1_373x208.jpg",
+				"imageWidth":373,
+				"imageHeight":208,
+				"imageDescription":"PWS1 373x208"
+			}]
+		},{
+    "number": "PLY4122-13-AE",
+    "title": "BSS2 Xbox Backround Images",
+    "description": "",
+    "manager": "Loren Husson",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4122-13-AE_XBOX_360_mockup.jpg",
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "imageDescription": "XBOX 360 Mockup"
+        },{
+            "imageName": "PLY4122-13-AE_XBOX_360.jpg",
+            "imageWidth": 640,
+            "imageHeight": 360,
+            "imageDescription": "XBOX 360 Background"
+        },{
+            "imageName": "PLY4122-13-AE_XBOX_One_03.jpg",
+            "imageWidth": 960,
+            "imageHeight": 540,
+            "imageDescription": "XBOX One Mockup"
+        },{
+            "imageName": "PLY4122-13-AE_XBOX_One_Final.jpg",
+            "imageWidth": 960,
+            "imageHeight": 540,
+            "imageDescription": "XBOX One Background"
+        }]
+},{
+    "number": "PLY4179-14-A",
+    "title": "Play Special Images - DDS1 and DDS2",
+    "description": "",
+    "manager": "Jeremy Zimmerman",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4179_14A_dds1_dds2_1280x350_wOverlay.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 350,
+            "imageDescription": "1280x350 (With Overlay)"
+        },{
+            "imageName": "PLY4179_14A_dds1_dds2_1280x350.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 350,
+            "imageDescription": "1280x350 (Without Overlay)"
+        },{
+            "imageName": "PLY4179_14A_dds1_dds2_984x492.jpg",
+            "imageWidth": 984,
+            "imageHeight": 492,
+            "imageDescription": "984x492"
+        },{
+            "imageName": "PLY4179_14A_dds1_dds2_884x442.jpg",
+            "imageWidth": 884,
+            "imageHeight": 442,
+            "imageDescription": "884x442"
+        },{
+            "imageName": "PLY4179_14A_dds1_dds2_789x308.jpg",
+            "imageWidth": 789,
+            "imageHeight": 308,
+            "imageDescription": "789x308"
+        },{
+            "imageName": "PLY4179_14A_dds1_dds2_620x310.jpg",
+            "imageWidth": 620,
+            "imageHeight": 310,
+            "imageDescription": "620x310"
+        },{
+            "imageName": "PLY4179_14A_dds1_dds2_960x1440.jpg",
+            "imageWidth": 960,
+            "imageHeight": 1440,
+            "imageDescription": "960x1440"
+	  }]
+},{
+    "number": "PLY4179-14-B",
+    "title": "Play Special Images - Outlander S1A (OLS1)",
+    "description": "",
+    "manager": "Jeremy Zimmerman",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4179_14B_ols1_binge_1280x350_v1_wOverlay.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 350,
+            "imageDescription": "1280x350 (Version 1 - With Overlay)"
+        },{
+            "imageName": "PLY4179_14B_ols1_binge_1280x350_v1.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 350,
+            "imageDescription": "1280x350 (Without Overlay)"
+        },{
+            "imageName": "PLY4179_14B_ols1_binge_984x492.jpg",
+            "imageWidth": 984,
+            "imageHeight": 492,
+            "imageDescription": "984x492"
+        },{
+            "imageName": "PLY4179_14B_ols1_binge_884x442.jpg",
+            "imageWidth": 884,
+            "imageHeight": 442,
+            "imageDescription": "884x442"
+        },{
+            "imageName": "PLY4179_14B_ols1_binge_789x308.jpg",
+            "imageWidth": 789,
+            "imageHeight": 308,
+            "imageDescription": "789x308"
+        },{
+            "imageName": "PLY4179_14B_ols1_binge_620x310.jpg",
+            "imageWidth": 620,
+            "imageHeight": 310,
+            "imageDescription": "620x310"
+        },{
+            "imageName": "PLY4179_14B_ols1_binge_960x1440.jpg",
+            "imageWidth": 960,
+            "imageHeight": 1440,
+            "imageDescription": "960x1440"
+	  }]
+},{
+    "number": "PLY4184-15-E",
+    "title": "ENCORE Play - James Bond Stunt Billboard",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Brett",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4184-15-E_1024x500.jpg",
+            "imageWidth": 1024,
+            "imageHeight": 500,
+            "imageDescription": "1024x500"
+        }]
+},{
+    "number": "PLY4171-14-E",
+    "title": "STARZ Play - BR Outlander 1B Banner Ads - Tablet",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4171_14E_ols1b_tablet_landscape_apple.jpg",
+            "imageWidth": 1024,
+            "imageHeight": 768,
+            "imageDescription": "2048x1536"
+        },{
+            "imageName": "PLY4171_14E_ols1b_tablet_portrait_apple.jpg",
+            "imageWidth": 768,
+            "imageHeight": 1024,
+            "imageDescription": "1536x2048"
+		},{
+            "imageName": "PLY4171_14E_ols1b_tablet_landscape_google.jpg",
+            "imageWidth": 1024,
+            "imageHeight": 768,
+            "imageDescription": "2048x1536"
+	    },{
+            "imageName": "PLY4171_14E_ols1b_tablet_portrait_google.jpg",
+            "imageWidth": 768,
+            "imageHeight": 1024,
+            "imageDescription": "1536x2048"
+	  }]
+},{
+    "number": "PLY4171-14-F",
+    "title": "STARZ Play - BR Outlander 1B Banner Ads - Mobile",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4171_14F_ols1b_mobile_landscape_960x640_apple.jpg",
+            "imageWidth": 960,
+            "imageHeight": 640,
+            "imageDescription": "960x640"
+        },{
+            "imageName": "PLY4171_14F_ols1b_mobile_portrait_640x960_apple.jpg",
+            "imageWidth": 640,
+            "imageHeight": 960,
+            "imageDescription": "640x960"
+		},{
+            "imageName": "PLY4171_14F_ols1b_mobile_landscape_960x640_google.jpg",
+            "imageWidth": 960,
+            "imageHeight": 640,
+            "imageDescription": "960x640"
+	    },{
+            "imageName": "PLY4171_14F_ols1b_mobile_portrait_640x960_google.jpg",
+            "imageWidth": 640,
+            "imageHeight": 960,
+            "imageDescription": "640x960"
+	  }]
+},{
+    "number": "PLY4171-14-G",
+    "title": "STARZ Play - Outlander 1B Facebook Ads",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4171_14G_1200x627_v1_wGuide.jpg",
+            "imageWidth": 1200,
+            "imageHeight": 627,
+            "imageDescription": "1200x627 - with gride guide"
+        },{
+            "imageName": "PLY4171_14G_1200x627_v1.jpg",
+            "imageWidth": 1200,
+            "imageHeight": 627,
+            "imageDescription": "1200x627 - Version 1"
+		},{
+            "imageName": "PLY4171_14G_1200x627_v2.jpg",
+            "imageWidth": 1200,
+            "imageHeight": 627,
+            "imageDescription": "1200x627 - Version 2"
+	    },{
+            "imageName": "PLY4171_14G_1200x627_v3.jpg",
+            "imageWidth": 1200,
+            "imageHeight": 627,
+            "imageDescription": "1200x627 - Version 3"
+	  }]
+},{
+    "number": "PLY4171-14-H",
+    "title": "STARZ Play - Outlander 1B Twitter Posts",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4171_14H_800x320_v1.jpg",
+            "imageWidth": 800,
+            "imageHeight": 320,
+            "imageDescription": "800x320 - Version 1"
+        },{
+            "imageName": "PLY4171_14H_800x320_v2.jpg",
+             "imageWidth": 800,
+            "imageHeight": 320,
+            "imageDescription": "800x320 - Version 2"
+		},{
+            "imageName": "PLY4171_14H_800x320_v3.jpg",
+             "imageWidth": 800,
+            "imageHeight": 320,
+            "imageDescription": "800x320 - Version 3"
+	    },{
+            "imageName": "PLY4171_14H_800x320_v4.jpg",
+             "imageWidth": 800,
+            "imageHeight": 320,
+            "imageDescription": "800x320 - Version 4"
+	    }]
+},{
+    "number": "PLY4171-14-K",
+    "title": "STARZ Play - Rocketfuel Outlander 1B Ads - Multiple Sizes",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4171_14K_starzPlay_300x250.gif",
+            "imageWidth": 300,
+            "imageHeight": 250,
+            "imageDescription": "300x250"
+        },{
+            "imageName": "PLY4171_14K_starzPlay_320x50.gif",
+            "imageWidth": 320,
+            "imageHeight": 50,
+            "imageDescription": "320x50 (.gif animation)"
+		},{
+            "imageName": "PLY4171_14K_starzPlay_728x90.gif",
+            "imageWidth": 728,
+            "imageHeight": 90,
+            "imageDescription": "728x90"
+	    },{
+            "imageName": "PLY4171_14K_starzPlay_480x320.gif",
+            "imageWidth": 480,
+            "imageHeight": 320,
+            "imageDescription": "480x320"
+	    },{
+            "imageName": "PLY4171_14K_starzPlay_320x480.gif",
+            "imageWidth": 320,
+            "imageHeight": 480,
+            "imageDescription": "320x480"
+		},{
+            "imageName": "PLY4171_14K_starzPlay_160x600.gif",
+            "imageWidth": 160,
+            "imageHeight": 600,
+            "imageDescription": "160x600"
+	    }]
+},{
+    "number": "PLY4171-14-L",
+    "title": "STARZ Play - BR Outlander 1B - Ad Bar",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4171_14L_starzPlay_380x120.jpg",
+            "imageWidth": 380,
+            "imageHeight": 120,
+            "imageDescription": "380x120"
+        }]
+},{
+    "number": "PLY4171-14-M",
+    "title": "STARZ Play - Outlander 1B Banners for Xbox One",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4171_14M_starzPlay_373x208_ka.jpg",
+            "imageWidth": 373,
+            "imageHeight": 208,
+            "imageDescription": "373x208 - Key-art"
+        },{
+            "imageName": "PLY4171_14M_starzPlay_373x208_claire.jpg",
+            "imageWidth": 373,
+            "imageHeight": 208,
+            "imageDescription": "373x208 - Claire"
+		},{
+            "imageName": "PLY4171_14M_starzPlay_373x208_jamie.jpg",
+            "imageWidth": 373,
+            "imageHeight": 208,
+            "imageDescription": "373x208 - Jamie"
+	    }]
+},{
+    "number": "PLY4179-14-G",
+    "title": "Xbox Outlander 1B background",
+    "description": "",
+    "manager": "Loren Husson",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4179-14-G_OLS1B_XBOXONE_1.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V1"
+        },{
+            "imageName": "PLY4179-14-G_OLS1B_XBOXONE_1-2.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V1 Mockup"
+        },{
+            "imageName": "PLY4179-14-G_OLS1B_XBOXONE_2.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V2"
+		},{
+            "imageName": "PLY4179-14-G_OLS1B_XBOXONE_2-2.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V2 Mockup"
+        },{
+            "imageName": "PLY4179-14-G_OLS1B_XBOX360.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "imageDescription": "XBOX 360"
+	    },{
+            "imageName": "PLY4179-14-G_OLS1B_XBOX360_1.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "imageDescription": "XBOX 360 Mockup"
+	    }]
+},{
+    "number": "PLY4179-14-H",
+    "title": "Xbox 360 and One Pillars of the Earth Backgrounds",
+    "description": "",
+    "manager": "Loren Husson",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4179-14-H_POTE_XBOXONE.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE"
+        },{
+            "imageName": "PLY4179-14-H_POTE_XBOXONE_2.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V2"
+        },{
+            "imageName": "PLY4179-14-H_POTE_XBOXONE_3.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V3"
+        },{
+            "imageName": "PLY4179-14-H_POTE_XBOXONE_4.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V4"
+        },{
+            "imageName": "PLY4179-14-H_POTE_XBOX360.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "imageDescription": "XBOX 360"
+	    }]
+},{
+    "number": "PLY4179-14-I",
+    "title": "STARZ Play - Power - Season 2 premiere special images",
+    "description": "",
+    "manager": "Loren Husson",
+    "designer": "Michael",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4179-14-I_960x1440.jpg",
+            "imageWidth": 960,
+            "imageHeight": 1440,
+            "imageDescription": "960x1440"
+        },{
+            "imageName": "PLY4179-14-I_789x308.jpg",
+            "imageWidth": 789,
+            "imageHeight": 308,
+            "imageDescription": "789x308"
+        },{
+            "imageName": "PLY4179-14-I_1280x350.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 350,
+            "imageDescription": "1280x350"
+        },{
+            "imageName": "PLY4179-14-I_984x492.jpg",
+            "imageWidth": 984,
+            "imageHeight": 492,
+            "imageDescription": "984x492"
+        },{
+            "imageName": "PLY4179-14-I_884x442.jpg",
+            "imageWidth": 884,
+            "imageHeight": 442,
+            "imageDescription": "884x442"
+	    },{
+            "imageName": "PLY4179-14-I_620x310.jpg",
+            "imageWidth": 620,
+            "imageHeight": 310,
+            "imageDescription": "620x310"
+	    }]
+	},{
+    "number": "WEB4447-14-D",
+    "title": "STARZ Play news letter",
+    "description": "",
+    "manager": "Meghan Calzaretta",
+    "designer": "Hyung",
+    "imageCollection": [
+    	  {
+            "imageName": "WEB4447-14-D-April.jpg",
+            "imageWidth": 934,
+            "imageHeight": 3500,
+            "imageDescription": "934x3500"
+        }]
+	},{
+	    "number": "PLY4187-15-B",
+	    "title": "STARZ Play v2.9 Build Image update",
+	    "description": "",
+	    "manager": "Loren Husson",
+	    "designer": "Brett",
+	    "imageCollection": [
+	    	{
+	            "imageName": "PLY4187-15-B_starz_iphone4.jpg",
+	            "imageWidth": 640,
+	            "imageHeight": 960,
+	            "imageDescription": "STARZ - Iphone 3.5"
+	        },{
+	            "imageName": "PLY4187-15-B_starz_iphone5.jpg",
+	            "imageWidth": 640,
+	            "imageHeight": 1136,
+	            "imageDescription": "STARZ - Iphone 4"
+	        },{
+	            "imageName": "PLY4187-15-B_starz_android.jpg",
+	            "imageWidth": 720,
+	            "imageHeight": 1280,
+	            "imageDescription": "STARZ - Android Phone"
+	        },{
+	            "imageName": "PLY4187-15-B_starz_ipad.jpg",
+	            "imageWidth": 2048,
+	            "imageHeight": 1536,
+	            "imageDescription": "STARZ - iPad"
+	        },{
+	            "imageName": "PLY4187-15-B_starz_kindlefire.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "STARZ - Kindle Fire"
+		    },{
+	            "imageName": "PLY4187-15-B_starz_androidtab.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "STARZ - Android Tablet"
+		    },{
+	            "imageName": "PLY4187-15-B_starz_nook.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "STARZ - Nook HD"
+		    },{
+	            "imageName": "PLY4187-15-B_encore_iphone4.jpg",
+	            "imageWidth": 640,
+	            "imageHeight": 960,
+	            "imageDescription": "ENCORE - Iphone 3.5"
+	        },{
+	            "imageName": "PLY4187-15-B_encore_iphone5.jpg",
+	            "imageWidth": 640,
+	            "imageHeight": 1136,
+	            "imageDescription": "ENCORE - Iphone 4"
+	        },{
+	            "imageName": "PLY4187-15-B_encore_android.jpg",
+	            "imageWidth": 720,
+	            "imageHeight": 1280,
+	            "imageDescription": "ENCORE - Android Phone"
+	        },{
+	            "imageName": "PLY4187-15-B_encore_ipad.jpg",
+	            "imageWidth": 2048,
+	            "imageHeight": 1536,
+	            "imageDescription": "ENCORE - iPad"
+	        },{
+	            "imageName": "PLY4187-15-B_encore_kindlefire.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "ENCORE - Kindle Fire"
+		    },{
+	            "imageName": "PLY4187-15-B_encore_androidtab.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "ENCORE - Android Tablet"
+		    },{
+	            "imageName": "PLY4187-15-B_encore_nook.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "ENCORE - Nook HD"
+		    },{
+	            "imageName": "PLY4187-15-B_mplex_iphone4.jpg",
+	            "imageWidth": 640,
+	            "imageHeight": 960,
+	            "imageDescription": "MOVIEPLEX - Iphone 3.5"
+	        },{
+	            "imageName": "PLY4187-15-B_mplex_iphone5.jpg",
+	            "imageWidth": 640,
+	            "imageHeight": 1136,
+	            "imageDescription": "MOVIEPLEX - Iphone 4"
+	        },{
+	            "imageName": "PLY4187-15-B_mplex_android.jpg",
+	            "imageWidth": 720,
+	            "imageHeight": 1280,
+	            "imageDescription": "MOVIEPLEX - Android Phone"
+	        },{
+	            "imageName": "PLY4187-15-B_mplex_ipad.jpg",
+	            "imageWidth": 2048,
+	            "imageHeight": 1536,
+	            "imageDescription": "MOVIEPLEX - iPad"
+	        },{
+	            "imageName": "PLY4187-15-B_mplex_kindlefire.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "MOVIEPLEX - Kindle Fire"
+		    },{
+	            "imageName": "PLY4187-15-B_mplex_androidtab.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "MOVIEPLEX - Android Tablet"
+		    },{
+	            "imageName": "PLY4187-15-B_mplex_nook.jpg",
+	            "imageWidth": 1024,
+	            "imageHeight": 600,
+	            "imageDescription": "MOVIEPLEX - Nook HD"
+		    }]
+	},{
+    "number": "PLY4179-14-K",
+    "title": "Power XBOX backgrounds",
+    "description": "",
+    "manager": "Loren Husson",
+    "designer": "Michael",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4179-14-K_PWS2_XBOXONE_1.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V1"
+        },{
+            "imageName": "PLY4179-14-K_PWS2_XBOXONE_mock1.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V1 Mockup"
+        },{
+            "imageName": "PLY4179-14-K_PWS2_XBOXONE_2.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V2"
+		},{
+            "imageName": "PLY4179-14-K_PWS2_XBOXONE_mock2.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V2 Mockup"
+        },{
+            "imageName": "PLY4179-14-K_PWS2_XBOXONE_3.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V3"
+		},{
+            "imageName": "PLY4179-14-K_PWS2_XBOXONE_mock3.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 1080,
+            "imageDescription": "XBOX ONE V3 Mockup"
+        },{
+            "imageName": "PLY4179-14-K_PWS2_XBOX360.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "imageDescription": "XBOX 360"
+	    },{
+            "imageName": "PLY4179-14-K_PWS2_XBOX360_mock.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "imageDescription": "XBOX 360 Mockup"
+	    },{
+            "imageName": "PLY4179-14-K_PWS2_XBOX360_2.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "imageDescription": "XBOX 360 V2"
+	    },{
+            "imageName": "PLY4179-14-K_PWS2_XBOX360_mock2.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 720,
+            "imageDescription": "XBOX 360 Mockup V2"
+	    }]
+	},{
+    "number": "PLY4169-14-O",
+    "title": "Q3 '15 ENCORE Play Device Redirect Page",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Brett",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4169-14-O_androidPhone_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Android Mobile"
+        },{
+            "imageName": "PLY4169-14-O_androidTablet_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Android Tablet"
+        },{
+            "imageName": "PLY4169-14-O_ipad_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "iPad"
+        },{
+            "imageName": "PLY4169-14-O_iphone_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "iPhone"
+        },{
+            "imageName": "PLY4169-14-O_kindlefire_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Kindle Fire"
+        },{
+            "imageName": "PLY4169-14-O_nook_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Nook"
+        },{
+            "imageName": "PLY4169-14-O_chromecast_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Chromecast"
+        },{
+            "imageName": "PLY4169-14-O_xbox360_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Xbox 360"
+        },{
+            "imageName": "PLY4169-14-O_xboxOne_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Xbox One"
+        }]
+	},{
+    "number": "PLY4169-14-P",
+    "title": "Q3 '15 ENCORE Supported Devices Page",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Brett",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4169-14-P_android_combo_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Android Combo"
+        },{
+            "imageName": "PLY4169-14-P_computer_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Computer"
+        },{
+            "imageName": "PLY4169-14-P_ipad_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "iPad"
+        },{
+            "imageName": "PLY4169-14-P_iphone_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "iPhone"
+        },{
+            "imageName": "PLY4169-14-P_kindle_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Kindle"
+        },{
+            "imageName": "PLY4169-14-P_nook_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Nook"
+        },{
+            "imageName": "PLY4169-14-P_xbox_360_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Xbox 360"
+        },{
+            "imageName": "PLY4169-14-P_xbox_one_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Xbox One"
+        },{
+            "imageName": "PLY4169-14-P_chromecast_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Chromecast"
+        }]
+	},{
+    "number": "PLY4169-14-Q",
+    "title": "Q3 '15 MOVIEPLEX Play Device Redirect Page",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Brett",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4169-14-Q_androidPhone_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Android Mobile"
+        },{
+            "imageName": "PLY4169-14-Q_androidTablet_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Android Tablet"
+        },{
+            "imageName": "PLY4169-14-Q_ipad_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "iPad"
+        },{
+            "imageName": "PLY4169-14-Q_iphone_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "iPhone"
+        },{
+            "imageName": "PLY4169-14-Q_kindlefire_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Kindle Fire"
+        },{
+            "imageName": "PLY4169-14-Q_nook_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Nook"
+        },{
+            "imageName": "PLY4169-14-Q_chromecast_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Chromecast"
+        },{
+            "imageName": "PLY4169-14-Q_xbox360_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Xbox 360"
+        },{
+            "imageName": "PLY4169-14-Q_xboxOne_2.jpg",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Xbox One"
+        }]
+	},{
+    "number": "PLY4169-14-R",
+    "title": "Q3 '15 MOVIEPLEX Supported Devices Page",
+    "description": "",
+    "manager": "Ashleigh Moshier",
+    "designer": "Brett",
+    "delivery": "",
+    "imageCollection": [
+    	{
+            "imageName": "PLY4169-14-R_android_combo_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Android Combo"
+        },{
+            "imageName": "PLY4169-14-R_computer_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Computer"
+        },{
+            "imageName": "PLY4169-14-R_ipad_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "iPad"
+        },{
+            "imageName": "PLY4169-14-R_iphone_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "iPhone"
+        },{
+            "imageName": "PLY4169-14-R_kindle_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Kindle"
+        },{
+            "imageName": "PLY4169-14-R_nook_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Nook"
+        },{
+            "imageName": "PLY4169-14-R_xbox360_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Xbox 360"
+        },{
+            "imageName": "PLY4169-14-R_xboxOne_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Xbox One"
+        },{
+            "imageName": "PLY4169-14-R_chromecast_2.png",
+            "imageWidth": 980,
+            "imageHeight": 513,
+            "imageDescription": "Chromecast"
+        }]
+	}]
+}
