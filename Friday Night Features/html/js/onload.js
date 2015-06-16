@@ -15,7 +15,6 @@ $(document).ready(function(){
 	var itemWidth;
 	var fullWidth;
 	var numBeforeCurrent;
-	var currentDetailGallery;
 	
 	$(window).resize(windowResize);
 	
@@ -97,13 +96,6 @@ $(document).ready(function(){
 	}, 500));
 
 
-	function windowResize(){
-		//measure the page width
-		pageWidth = $(window).width();
-		moveOver();
-	}
-
-
 	function countItems() {
 		//count the carousel items
 		itemNumber = $('.carousel-item').length;
@@ -150,7 +142,7 @@ $(document).ready(function(){
 		currentDetailGallery.children(':first-child').addClass('js-gallery-active');
 	}
 
-	function rotateClass() {
+	function rotateGalleryImg() {
 		var currentDetailGallery = $('.js-currentDetail .gallery');
 		$('.js-currentDetail .gallery > li.js-gallery-active').appendTo(currentDetailGallery).removeClass('js-gallery-active');
 		currentDetailGallery.children(':first-child').addClass('js-gallery-active');
@@ -158,9 +150,22 @@ $(document).ready(function(){
 
 	//Set the Delay Time
 	setInterval(function () {
-	  rotateClass();
+	  rotateGalleryImg();
 	}, 5000);
-	
+
+	function galleryHeight() {
+		if ($(window).width() <= 1030){	
+			var galleryImgHeight = $('.gallery > li > img').height();
+			$('.gallery').css({'height' : galleryImgHeight});
+		}
+	}
+
+	function windowResize(){
+		//measure the page width
+		pageWidth = $(window).width();
+		moveOver();
+		galleryHeight();
+	}
 
 	
 	loadCarouselImages();
@@ -170,6 +175,7 @@ $(document).ready(function(){
 	calcfullWidth();
 	countToCurrent();
 	moveOver();
+	galleryHeight();
 
 });
 
