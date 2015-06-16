@@ -152,7 +152,7 @@ $(document).ready(function(){
 
 	function rotateClass() {
 		var currentDetailGallery = $('.js-currentDetail .gallery');
-		$('.gallery > li.js-gallery-active').appendTo(currentDetailGallery).removeClass('js-gallery-active');
+		$('.js-currentDetail .gallery > li.js-gallery-active').appendTo(currentDetailGallery).removeClass('js-gallery-active');
 		currentDetailGallery.children(':first-child').addClass('js-gallery-active');
 	}
 
