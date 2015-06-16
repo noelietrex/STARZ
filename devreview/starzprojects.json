@@ -18,9 +18,9 @@
 			"imageHeight": 400,
 			"imageDescription": "Half Off 6 months and $25 cash back"
 		},{
-			"imageName": "NCT4903-15-A_1200x600.jpg",
+			"imageName": "NCT4903-15-A_1200x400.jpg",
 			"imageWidth": 1200,
-			"imageHeight": 600,
+			"imageHeight": 400,
 			"imageDescription": "Half Off 6 months and $25 cash back"
 		}]
 	},{
@@ -36,15 +36,10 @@
 			"imageHeight": 315,
 			"imageDescription": "Facebook cover photo dimensions with consideration for mobile cut off"
 		},{
-			"imageName": "NCT4903-15-B_1200x400.jpg",
-			"imageWidth": 1200,
-			"imageHeight": 400,
-			"imageDescription": "Facebook 1/2 off and $25 back requested size"
-		},{
-			"imageName": "NCT4903-15-B_1200x628.jpg",
-			"imageWidth": 1200,
-			"imageHeight": 628,
-			"imageDescription": "Facebook 1/2 off and $25 back size that fits desktop"
+			"imageName": "NCT4903-15-B_450x600.jpg",
+			"imageWidth": 450,
+			"imageHeight": 600,
+			"imageDescription": "Facebook post"
 		}]
 	},{
 		"number": "NCT4903-15-C",

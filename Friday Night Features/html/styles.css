@@ -234,8 +234,23 @@ body {
 	transition: opacity 1s;
 }
 .gallery {
+	background-color: black;
 	width: 630px;
 	height: 420px;
 	float: left;
-	/*background-image: url(images/gallery_calling_1.jpg);*/
+	overflow: hidden;
+	text-align: center;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.gallery li {
+	opacity: 0;
+	z-index: 0;
+	transition: opacity 1s ease-in-out;
+}
+.gallery li.js-gallery-active {
+	opacity: 1;
+	z-index: 1;
+	transition: opacity 1s ease-in-out;
 }

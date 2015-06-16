@@ -7,14 +7,15 @@ $(document).ready(function(){
 		$('li:last-child').addClass('js-last');
 	});
 	
-	var currentDate = new Date(); //get current date
-	var n = 376; //.width of number AFTER animation won't measure so this is 350 + 10 margin + 3 border
+	var currentDate = new Date(); // get current date
+	var n = 376; // width of number AFTER animation won't measure so this is 350 + 10 margin + 3 border
 	var selectedMovie;
 	var pageWidth;
 	var itemNumber;
 	var itemWidth;
 	var fullWidth;
 	var numBeforeCurrent;
+	var currentDetailGallery;
 	
 	$(window).resize(windowResize);
 	
@@ -62,22 +63,13 @@ $(document).ready(function(){
 		if($('.carousel-item').hasClass('js-currentMovie')){
 			$('.detail').removeClass('js-currentDetail');
 			$('.detail' + '#' + theId).addClass('js-currentDetail');
-			console.log(theId, 'is the carousel-item id attr');
+			// console.log(theId, 'is the carousel-item id attr');
+
+			thisDetailGalleryShowFirst();
+
 		} else {
 			$('.detail' + '#' + theId).removeClass('js-currentDetail');
 		}
-		// $('.detail').each(function(){
-
-		// 	var id = $(this).attr('id')
-		// 	$('#'+selectedMovie).removeClass('js-currentMovie');
-		// 	$('#'+id).addClass('js-currentMovie');
-		// 	selectedMovie = id;
-		// 	// if($('#'+id).hasClass('js-currentMovie')) {
-		// 	// 	$(this).addClass('js-currentDetail');
-		// 	// } else {
-		// 	// 	$(this).removeClass('js-currentDetail');
-		// 	// }
-		// });
 	}
 	selectDetail();
 
@@ -108,7 +100,6 @@ $(document).ready(function(){
 	function windowResize(){
 		//measure the page width
 		pageWidth = $(window).width();
-		// console.log(pageWidth);
 		moveOver();
 	}
 
@@ -116,21 +107,18 @@ $(document).ready(function(){
 	function countItems() {
 		//count the carousel items
 		itemNumber = $('.carousel-item').length;
-		// console.log(itemNumber);
 	}
 
 
 	function countToCurrent(){
 		//counts how many are before the selected div
 		numBeforeCurrent = $('.js-currentMovie').prevAll().length
-		// console.log("there are", numBeforeCurrent, "before this one");
 	}
 
 
 	$('.carousel-item').each(function() {
 		//measure the width of each item
 		itemWidth = $(this).outerWidth(true);
-		// console.log(itemWidth);
 	});
 
 
@@ -143,25 +131,38 @@ $(document).ready(function(){
 
 		//set width of container to sum of all carousel items
 		$('ul#carousel-items').css({'width' : fullWidth + '2em'}); //couldn't get it to measure AFTER animation so added 2em hack
-
-		// console.log("full width", fullWidth);
 	}
 
 	function moveOver() {
 		var thisFar = (numBeforeCurrent * itemWidth) - (pageWidth * 0.5) + (n / 2); 
 		$('.carousel-item').css({'left' : -thisFar + 'px'});
-		// console.log("move over this far", thisFar);
-		// console.log("n is this", n);
 	}
 
 	function animateOver() {
 		var thisFar = (numBeforeCurrent * itemWidth) - (pageWidth * 0.5) + (n / 2); 
 		$('.carousel-item').animate({'left' : -thisFar + 'px'});
-		// console.log("move over this far", thisFar);
-		// console.log("n is this", n);
 	}
 
 
+	//=INNER GALLERY CAROUSEL
+	function thisDetailGalleryShowFirst(){
+		var currentDetailGallery = $('.js-currentDetail .gallery');
+		currentDetailGallery.children(':first-child').addClass('js-gallery-active');
+	}
+
+	function rotateClass() {
+		var currentDetailGallery = $('.js-currentDetail .gallery');
+		$('.gallery > li.js-gallery-active').appendTo(currentDetailGallery).removeClass('js-gallery-active');
+		currentDetailGallery.children(':first-child').addClass('js-gallery-active');
+	}
+
+	//Set the Delay Time
+	setInterval(function () {
+	  rotateClass();
+	}, 5000);
+	
+
+	
 	loadCarouselImages();
 	detirmineInitialMovie();
 	windowResize();
@@ -169,5 +170,10 @@ $(document).ready(function(){
 	calcfullWidth();
 	countToCurrent();
 	moveOver();
-	
+
 });
+
+
+
+
+
