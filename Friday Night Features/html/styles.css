@@ -270,11 +270,24 @@ body {
 	.gallery {
 		display: none;
 	}
+	#carousel {
+		display: none;
+	}
+	.carousel-item {
+		opacity: 1;
+		list-style-type: none;
+	}
 	.detail {
 		visibility: visible;
 		opacity: 1;
 		position: relative;
 		top: initial;
+	}
+	.detail-content {
+		left: 50%;
+	}
+	.detail-background {
+		background-image: none;
 	}
 	.detail-text {
 		text-align: left;
