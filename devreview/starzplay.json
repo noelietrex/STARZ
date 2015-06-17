@@ -273,6 +273,11 @@
                     "imageWidth": 829,
                     "imageHeight": 290,
                     "imageDescription": "XBOX One Tablet"
+                },{
+                    "imageName": "/PLY4168-14-E/EP_XBOX_Mobile_338x217.png",
+                    "imageWidth": 338,
+                    "imageHeight": 217,
+                    "imageDescription": "XBOX One Mobile"
                 }]
             },{
             "number": "PLY4171-14-P",
@@ -3076,5 +3081,19 @@
             "imageHeight": 513,
             "imageDescription": "Chromecast"
         }]
-	}]
+	},{
+    "number": "PLY4179-14-M",
+    "title": "Live Stream Promo Images",
+    "description": "",
+    "manager": "Loren Husson",
+    "designer": "Boun",
+    "delivery": "",
+    "imageCollection": [
+    	  {
+            "imageName": "PLY4179_14M_liveStream_2048x1536.jpg",
+            "imageWidth": 2048,
+	        "imageHeight": 1536,
+            "imageDescription": "Tablet landscape - 2048 x 1536"
+        }]
+}]
 }
