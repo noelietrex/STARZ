@@ -2,6 +2,77 @@
 	"name": "PowerS2",
 	"clientJobs": [
 	{
+		"number": "ORG7755-15-BR",
+		"title": "PWS2 - Ep 204-207 Catch Up Slides",
+		"manager": "Andrea Fehl",
+		"designer": "Noel",
+		"imageCollection": [
+		{
+			"imageName": "ORG7755-15-BR_204_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "204-1"
+		},
+		{
+			"imageName": "ORG7755-15-BR_204_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "204-2"
+		},{
+			"imageName": "ORG7755-15-BR_204_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "204-3"
+		},{
+			"imageName": "ORG7755-15-BR_205_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "205-1"
+		},
+		{
+			"imageName": "ORG7755-15-BR_205_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "205-2"
+		},{
+			"imageName": "ORG7755-15-BR_205_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "205-3"
+		},{
+			"imageName": "ORG7755-15-BR_206_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "206-1"
+		},
+		{
+			"imageName": "ORG7755-15-BR_206_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "206-2"
+		},{
+			"imageName": "ORG7755-15-BR_206_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "206-3"
+		},{
+			"imageName": "ORG7755-15-BR_207_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "207-1"
+		},
+		{
+			"imageName": "ORG7755-15-BR_207_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "207-2"
+		},{
+			"imageName": "ORG7755-15-BR_207_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "207-3"
+		}]
+	},{
 		"number": "ORG7755-15-BT",
 		"title": "PWS2 - Dotcom Gallery Updates",
 		"manager": "Andrea Fehl",
