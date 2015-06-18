@@ -1,0 +1,2767 @@
+{
+	"name": "PowerS2",
+	"clientJobs": [
+	{
+		"number": "ORG7755-15-BT",
+		"title": "PWS2 - Dotcom Gallery Updates",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7755-15-BT_680x680_201-1.jpg",
+			"imageWidth": 680,
+			"imageHeight": 680,
+			"imageDescription": "201-1"
+		},
+		{
+			"imageName": "ORG7755-15-BT_1024x680_201-2.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 680,
+			"imageDescription": "201-2"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x1024_201-3.jpg",
+			"imageWidth": 680,
+			"imageHeight": 1024,
+			"imageDescription": "201-3"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x680_201-4.jpg",
+			"imageWidth": 680,
+			"imageHeight": 680,
+			"imageDescription": "201-4"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x680_201-5.jpg",
+			"imageWidth": 680,
+			"imageHeight": 680,
+			"imageDescription": "201-5"
+		},
+		{
+			"imageName": "ORG7755-15-BT_1024x680_202-1.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 680,
+			"imageDescription": "202-1"
+		},
+		{
+			"imageName": "ORG7755-15-BT_1024x680_202-2.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 680,
+			"imageDescription": "202-2"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x1024_202-3.jpg",
+			"imageWidth": 680,
+			"imageHeight": 1024,
+			"imageDescription": "202-3"
+		},
+		{
+			"imageName": "ORG7755-15-BT_1024x680_202-4.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 680,
+			"imageDescription": "202-4"
+		},
+		{
+			"imageName": "ORG7755-15-BT_1024x680_203-1.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 680,
+			"imageDescription": "203-1"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x1024_203-2.jpg",
+			"imageWidth": 680,
+			"imageHeight": 1024,
+			"imageDescription": "203-2"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x680_203-3.jpg",
+			"imageWidth": 680,
+			"imageHeight": 680,
+			"imageDescription": "203-3"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x680_204-1.jpg",
+			"imageWidth": 680,
+			"imageHeight": 680,
+			"imageDescription": "204-1"
+		},
+		{
+			"imageName": "ORG7755-15-BT_1024x680_204-2.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 680,
+			"imageDescription": "204-2"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x680_204-3.jpg",
+			"imageWidth": 680,
+			"imageHeight": 680,
+			"imageDescription": "204-3"
+		},
+		{
+			"imageName": "ORG7755-15-BT_1024x680_205-1.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 680,
+			"imageDescription": "205-1"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x1024_205-2.jpg",
+			"imageWidth": 680,
+			"imageHeight": 1024,
+			"imageDescription": "205-2"
+		},
+		{
+			"imageName": "ORG7755-15-BT_680x680_205-3.jpg",
+			"imageWidth": 680,
+			"imageHeight": 680,
+			"imageDescription": "205-3"
+		},
+		{
+			"imageName": "ORG7755-15-BT_1024x680_205-4.jpg",
+			"imageWidth": 1024,
+			"imageHeight": 680,
+			"imageDescription": "205-3"
+		}
+		]
+	},
+	{
+		"number": "ORG7755-15-BQ",
+		"title": "PWS2 - Ep 203 Catch Up slide",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7755-15-BQ_2560x1440_1.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Option 1"
+		},
+		{
+			"imageName": "ORG7755-15-BQ_1536x2560_1.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Option 1"
+		},
+		{
+			"imageName": "ORG7755-15-BQ_388x218_1.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Option 1"
+		},
+		{
+			"imageName": "ORG7755-15-BQ_2560x1440_2.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Option 2"
+		},
+		{
+			"imageName": "ORG7755-15-BQ_1536x2560_2.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Option 2"
+		},
+		{
+			"imageName": "ORG7755-15-BQ_388x218_2.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Option 2"
+		}]
+	},
+	{
+		"number": "ORG7757-15-P",
+		"title": "PWS2 - 6.16 Ep203 Newsletter",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7757-15-P.jpg",
+			"imageWidth": 600,
+			"imageHeight": 2350,
+			"imageDescription": "Newsletter"
+		},
+		{
+			"imageName": "ORG7757-15-P_1200x900.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Facebook Asset"
+		},
+		{
+			"imageName": "ORG7757-15-P_1200x627.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 627,
+			"imageDescription": "Facebook Share"
+		},
+		{
+			"imageName": "ORG7757-15-P_1200x600.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Twitter Asset"
+		}]
+	},{
+		"number": "ORG7755-15-BP",
+		"title": "PWS2 - Ep 203 Talent Assets",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7755-15-BP_1200x900_angela.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Angela 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_angela.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Angela 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_angela.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Angela 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_dre.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Dre 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_dre.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Dre 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_dre.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Dre 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_ghost-angela.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Ghost & Angela 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_ghost-angela.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Ghost & Angela 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_ghost-angela.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Ghost & Angela 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_ghost.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Ghost 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_ghost.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Ghost 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_ghost.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Ghost 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_greg.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Greg 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_greg.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Greg 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_greg.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Greg 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_julio.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Julio 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_julio.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Julio 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_julio.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Julio 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_kanan.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Kanan 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_kanan.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Kanan 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_kanan.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Kanan 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_kantos.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Kantos 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_kantos.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Kantos 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_kantos.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Kantos 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_lakeisha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Lakeisha 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_lakeisha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Lakeisha 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_lakeisha.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Lakeisha 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_lakeisha2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Lakeisha 2 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_lakeisha2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Lakeisha 2 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_lakeisha2.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Lakeisha 2 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_pinksneakers.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Pink Sneakers 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_pinksneakers.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Pink Sneakers 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_pinksneakers.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Pink Sneakers 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_shawn.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Shawn 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_shawn.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Shawn 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_shawn.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Shawn 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_tasha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Tasha 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_tasha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Tasha 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_tasha.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Tasha 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_tommy-kanan.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Tommy & Kanan 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_tommy-kanan.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Tommy & Kanan 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_tommy-kanan.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Tommy & Kanan 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x900_tommy.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Tommy 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BP_1200x600_tommy.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Tommy 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BP_612x612_tommy.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Tommy 612x612"
+		}]
+	},{
+		"number": "ORG7755-15-BN",
+		"title": "PWS2 - 6.11 Rotimi dotcom image",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7755-15-BN_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Marquee"
+		},
+		{
+			"imageName": "ORG7755-15-BN_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Marquee"
+		},
+		{
+			"imageName": "ORG7755-15-BN_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Marquee"
+		}]
+	},
+	{
+		"number": "ORG7757-15-L",
+		"title": "PWS2 - 6.03 Ep202 Newsletter",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7757-15-L.jpg",
+			"imageWidth": 600,
+			"imageHeight": 2014,
+			"imageDescription": "Newsletter"
+		},
+		{
+			"imageName": "ORG7757-15-L_1200x900.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Facebook Asset"
+		},
+		{
+			"imageName": "ORG7757-15-L_1200x600.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Twitter Asset"
+		}]
+	},
+	{
+		"number": "ORG7755-15-BO",
+		"title": "PWS2 - Ep 202 Talent Assets",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7755-15-BO_1200x900-angela.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Angela 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-angela.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Angela 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-angela.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Angela 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-cooper.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Cooper 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-cooper.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Cooper 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-cooper.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Cooper 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-ghost.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Ghost 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-ghost.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Ghost 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-ghost.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Ghost 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-greg.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Greg 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-greg.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Greg 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-greg.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Greg 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-holly.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Holly 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-holly.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Holly 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-holly.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Holly 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-julio.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Julio 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-julio.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Julio 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-julio.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Julio 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-kanan.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Kanan 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-kanan.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Kanan 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-kanan.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Kanan 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-kanan2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Kanan 2 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-kanan2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Kanan 2 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-kanan2.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Kanan 2 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-kantos.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Kantos 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-kantos.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Kantos 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-kantos.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Kantos 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-ruiz.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Ruiz 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-ruiz.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Ruiz 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-ruiz.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Ruiz 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-sandoval.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Sandoval 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-sandoval.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Sandoval 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-sandoval.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Sandoval 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-shawn.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Shawn 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-shawn.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Shawn 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-shawn.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Shawn 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-tasha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Tasha 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-tasha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Tasha 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-tasha.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Tasha 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x900-tommy.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Tommy 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-BO_1200x600-tommy.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Tommy 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-BO_612x612-tommy.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Tommy 612x612"
+		}
+		]
+	},{
+		"number": "ORG7852-15-A",
+		"title": "PWS2 Episodic Email",
+		"manager": "Kia Milan",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7852-15-A.jpg",
+			"imageWidth": 600,
+			"imageHeight": 1016,
+			"imageDescription": "Episodic Email"
+		}]
+	},
+	{
+		"number": "ORG7755-15-BI",
+		"title": "PWS2 - ITWOP marquees",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BI_2560x1440_ep201.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Episode 1"
+		},
+		{
+			"imageName": "ORG7755-15-BI_1536x2560_ep201.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Episode 1"
+		},
+		{
+			"imageName": "ORG7755-15-BI_388x218_ep201.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Episode 1"
+		},
+		{
+			"imageName": "ORG7755-15-BI_2560x1440_ep202.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Episode 2"
+		},
+		{
+			"imageName": "ORG7755-15-BI_1536x2560_ep202.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Episode 2"
+		},
+		{
+			"imageName": "ORG7755-15-BI_388x218_ep202.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Episode 2"
+		},
+		{
+			"imageName": "ORG7755-15-BI_2560x1440_ep203.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Episode 3"
+		},
+		{
+			"imageName": "ORG7755-15-BI_1536x2560_ep203.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Episode 3"
+		},
+		{
+			"imageName": "ORG7755-15-BI_388x218_ep203.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Episode 3"
+		},
+		{
+			"imageName": "ORG7755-15-BI_2560x1440_ep204.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Episode 4"
+		},
+		{
+			"imageName": "ORG7755-15-BI_1536x2560_ep204.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Episode 4"
+		},
+		{
+			"imageName": "ORG7755-15-BI_388x218_ep204.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Episode 4"
+		},
+		{
+			"imageName": "ORG7755-15-BI_2560x1440_ep205.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Episode 5"
+		},
+		{
+			"imageName": "ORG7755-15-BI_1536x2560_ep205.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Episode 5"
+		},
+		{
+			"imageName": "ORG7755-15-BI_388x218_ep205.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Episode 5"
+		}]
+	},{
+		"number": "ORG7910-15-A",
+		"title": "Critical Acclaim Email",
+		"manager": "Keyonna  Chapman",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7910-15-A.jpg",
+			"imageWidth": 600,
+			"imageHeight": 850,
+			"imageDescription": "Critical Acclaim Email"
+		}]
+	},{
+		"number": "ORG7755-15-BG",
+		"title": "PWS2 - 6.01 Add copyright to FB Covers",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BH_851x315_premiere.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - In Season"
+		},
+		{
+			"imageName": "ORG7755-15-BH_851x315_inSeason.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - In Season"
+		},
+		{
+			"imageName": "ORG7755-15-BH_1500x500_premiere.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter - In Season"
+		},
+		{
+			"imageName": "ORG7755-15-BH_1500x500_inSeason.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter - In Season"
+		}]
+	},{
+		"number": "ORG7755-15-BH",
+		"title": "PWS2 - 6.01 Add Copyright to Courtney Q&A Assets",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "POWER-QA1_1200x900.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Q&A Asset"
+		},
+		{
+			"imageName": "POWER-QATODAY_1200x900.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Q&A Asset"
+		}]
+	},{
+		"number": "ORG7757-15-K",
+		"title": "PWS2 - 5.29 Premiere Newsletter",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7757-15-K.jpg",
+			"imageWidth": 600,
+			"imageHeight": 1628,
+			"imageDescription": "Premiere Newsletter"
+		}]
+	},{
+		"number": "ORG7755-15-BF",
+		"title": "PWS2 - 5.29 Digital Experience Marquee",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BF-PWS2_2560x1440_A.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Marquee A"
+		},
+		{
+			"imageName": "ORG7755-15-BF-PWS2_1536x2560_A.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Marquee A"
+		},
+		{
+			"imageName": "ORG7755-15-BF-PWS2_388x218_A.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Marquee A"
+		},
+		{
+			"imageName": "ORG7755-15-BF-PWS2_2560x1440_B.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "Marquee B"
+		},
+		{
+			"imageName": "ORG7755-15-BF-PWS2_1536x2560_B.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "Marquee B"
+		},
+		{
+			"imageName": "ORG7755-15-BF-PWS2_388x218_B.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "Marquee B"
+		}]
+	},{
+		"number": "ORG7939-15-C",
+		"title": "PWS2 - IPG Banner Due 6/9",
+		"manager": "Bethany Trevino",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7939-15-C.gif",
+			"imageWidth": 515,
+			"imageHeight": 50,
+			"imageDescription": "IPG Banner"		
+		}]
+	},{
+		"number": "ORG7939-15-E",
+		"title": "PWS2 - IPG Banner Due 6/2",
+		"manager": "Bethany Trevino",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7939-15-E.gif",
+			"imageWidth": 515,
+			"imageHeight": 50,
+			"imageDescription": "IPG Banner"		
+		}]
+	},{
+		"number": "ORG7939-15-B",
+		"title": "PWS2 - IPG Banner Due 6/2",
+		"manager": "Bethany Trevino",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7939-15-B.gif",
+			"imageWidth": 515,
+			"imageHeight": 50,
+			"imageDescription": "IPG Banner"		
+		}]
+	},{
+		"number": "ORG7755-15-BE",
+		"title": "PWS2 - 5.29 Hang w/ assets",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BE.jpg",
+			"imageWidth": 320,
+			"imageHeight": 320,
+			"imageDescription": "Ad Unit"
+		}]
+	},{
+		"number": "ORG7755-15-BB",
+		"title": "PWS2 - 5.29 Group Covers",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Custom-Ghost&Tasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Custom) - Ghost & Tasha: Power Couple"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Custom-PowerTheMensSide.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Custom) - PowerTheMensSide"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Custom-GhostandTasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Custom) - Ghost-and-Tasha"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Custom-Powermaniacs.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Custom) - Powermaniacs"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Custom-Addicted2power.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Custom) - Addicted2power"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Key-Ghost&Tasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Key) - Ghost & Tasha: Power Couple"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Key-PowerTheMensSide.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Key) - PowerTheMensSide"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Key-GhostandTasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Key) - Ghost-and-Tasha"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Key-Powermaniacs.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Key) - Powermaniacs"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Facebook-Key-Addicted2power.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook (Key) - Addicted2power"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Custom-PowerTVFans.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Custom) - PowerTVFans"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Custom-GhostandTommy.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Custom) - GhostandTommy"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Custom-IAmTheRealGhost.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Custom) - IAmTheRealGhost"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Custom-PowerTVfan.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Custom) - PowerTVfan"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Custom-PowerStarzFan.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Custom) - PowerStarzFan"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Custom-GhostandTasha.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Custom) - GhostandTasha"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Custom-PowerSmackTalk.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Custom) - PowerSmackTalk"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Key-PowerTVFans.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Key) - PowerTVFans"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Key-GhostandTommy.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Key) - GhostandTommy"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Key-IAmTheRealGhost.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Key) - IAmTheRealGhost"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Key-PowerTVfan.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Key) - PowerTVfan"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Key-PowerStarzFan.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Key) - PowerStarzFan"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Key-GhostandTasha.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Key) - GhostandTasha"
+		},
+		{
+			"imageName": "ORG7755-15-BB-Twitter-Key-PowerSmackTalk.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter (Key) - PowerSmackTalk"
+		}]
+	},{
+		"number": "ORG7757-15-H",
+		"title": "PWS2 - Digital Experience NL",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7757-15-H.jpg",
+			"imageWidth": 600,
+			"imageHeight": 1200,
+			"imageDescription": "Newsletter"
+		}]
+	},{
+		"number": "ORG7755-15-W",
+		"title": "PWS2 - Season 2 Extras/downloads",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [
+		{
+			"imageName": "ORG7755-15-W-facebook-character-angela.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Angela Character"
+		},
+		{
+			"imageName": "ORG7755-15-W-facebook-character-ghost.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Ghost Character"
+		},
+		{
+			"imageName": "ORG7755-15-W-facebook-character-kanan.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Kanan Character"
+		},
+		{
+			"imageName": "ORG7755-15-W-facebook-character-tasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Tasha Character"
+		},
+		{
+			"imageName": "ORG7755-15-W-facebook-character-tommy.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Tommy Character"
+		},
+		
+		{
+			"imageName": "ORG7755-15-W-facebook-pairs-angelaTasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Angela & Tasha Pair"
+		},
+		{
+			"imageName": "ORG7755-15-W-facebook-pairs-ghostKanan.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Ghost & Kanan Pair"
+		},
+		{
+			"imageName": "ORG7755-15-W-facebook-pairs-ghostTommy.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Ghost & Tommy Pair"
+		},
+		
+		{
+			"imageName": "ORG7755-15-W-facebook-teamAngela.png",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - #TeamAngela"
+		},
+		{
+			"imageName": "ORG7755-15-W-facebook-teamTasha.png",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - #TeamTasha"
+		},
+		
+		{
+			"imageName": "ORG7755-15-W-twitter-character-angela.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - Angela Character"
+		},
+		{
+			"imageName": "ORG7755-15-W-twitter-character-ghost.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - Ghost Character"
+		},
+		{
+			"imageName": "ORG7755-15-W-twitter-character-kanan.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - Kanan Character"
+		},
+		{
+			"imageName": "ORG7755-15-W-twitter-character-tasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - Tasha Character"
+		},
+		{
+			"imageName": "ORG7755-15-W-twitter-character-tommy.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - Tommy Character"
+		},
+		
+		{
+			"imageName": "ORG7755-15-W-twitter-pairs-angelaTasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - Angela & Tasha Pair"
+		},
+		{
+			"imageName": "ORG7755-15-W-twitter-pairs-ghostKanan.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - Ghost & Kanan Pair"
+		},
+		{
+			"imageName": "ORG7755-15-W-twitter-pairs-ghostTommy.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - Ghost & Tommy Pair"
+		},
+		
+		{
+			"imageName": "ORG7755-15-W-twitter-teamAngela.png",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - #TeamAngela"
+		},
+		{
+			"imageName": "ORG7755-15-W-twitter-teamTasha.png",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Twitter - #TeamTasha"
+		},
+		
+		{
+			"imageName": "ORG7755-15-W-wallpaper-full-angela.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1440,
+			"imageDescription": "Wallpaper - Fullscreen - Angela"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-wide-angela.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1080,
+			"imageDescription": "Wallpaper - Widescreen - Angela"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-full-ghost.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1440,
+			"imageDescription": "Wallpaper - Fullscreen - Ghost"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-wide-ghost.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1080,
+			"imageDescription": "Wallpaper - Widescreen - Ghost"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-full-kanan.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1440,
+			"imageDescription": "Wallpaper - Fullscreen - Kanan"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-wide-kanan.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1080,
+			"imageDescription": "Wallpaper - Widescreen - Kanan"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-full-tasha.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1440,
+			"imageDescription": "Wallpaper - Fullscreen - Tasha"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-wide-tasha.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1080,
+			"imageDescription": "Wallpaper - Widescreen - Tasha"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-full-tommy.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1440,
+			"imageDescription": "Wallpaper - Fullscreen - Tommy"
+		},
+		{
+			"imageName": "ORG7755-15-W-wallpaper-wide-tommy.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1080,
+			"imageDescription": "Wallpaper - Widescreen - Tommy"
+		}]
+	},{
+		"number": "ORG7755-15-BA",
+		"title": "PWS2 - Key Art Twitter Background",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BA.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1080,
+			"imageDescription": "Twitter Background"
+		}]
+	},{
+		"number": "ORG7755-15-AT",
+		"title": "PWS2 - 5.27 Premiere Talent Assets",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AT_1200x900-tommy.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Tommy 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-tommy.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Tommy 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-tommy.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Tommy 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_twitter-tommy.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Tommy Twitter"
+		},
+		{
+			"imageName": "ORG7755-15-AT_facebook-tommy.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Tommy Facebook"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-tasha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Tasha 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-tasha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Tasha 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-tasha.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Tasha 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_twitter-tasha.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Tasha Twitter"
+		},
+		{
+			"imageName": "ORG7755-15-AT_facebook-tasha.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Tasha Facebook"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-shawn.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Shawn 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-shawn.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Shawn 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-shawn.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Shawn 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-sandoval.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Sandoval 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-sandoval.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Sandoval 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-sandoval.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Sandoval 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-ruiz.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Ruiz 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-ruiz.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Ruiz 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-ruiz.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Ruiz 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-qdubs.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Q-Dubs 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-qdubs.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Q-Dubs 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-qdubs.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Q-Dubs 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-pinksneakers.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Pink Sneakers 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-pinksneakers.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Pink Sneakers 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-pinksneakers.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Pink Sneakers 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-lakeisha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Lakeisha 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-lakeisha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Lakeisha 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-lakeisha.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Lakeisha 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-kanan.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Kanan 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-kanan.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Kanan 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-kanan.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Kanan 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_twitter-kanan.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Kanan Twitter"
+		},
+		{
+			"imageName": "ORG7755-15-AT_facebook-kanan.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Kanan Facebook"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-julio.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Julio 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-julio.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Julio 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-julio.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Julio 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-greg.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Greg 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-greg.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Greg 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-greg.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Greg 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-ghost.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Ghost 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-ghost.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Ghost 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-ghost.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Ghost 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_twitter-ghost.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Ghost Twitter"
+		},
+		{
+			"imageName": "ORG7755-15-AT_facebook-ghost.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Ghost Facebook"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-frankie.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Frankie 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-frankie.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Frankie 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-frankie.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Frankie 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-dre.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Dre 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-dre.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Dre 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-dre.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Dre 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-cooper.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Cooper 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-cooper.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Cooper 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-cooper.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Cooper 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-angela.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Angela 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-angela.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Angela 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-angela.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Angela 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_twitter-angela.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Angela Twitter"
+		},
+		{
+			"imageName": "ORG7755-15-AT_facebook-angela.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Angela Facebook"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-kantos.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Kantos 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-kantos.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Kantos 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-kantos.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Kantos 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-ghost&tasha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Ghost & Tasha 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-ghost&tasha.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Ghost & Tasha 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-ghost&tasha.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Ghost & Tasha 612x612"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x900-ghost2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "Ghost 2 1200x900"
+		},
+		{
+			"imageName": "ORG7755-15-AT_1200x600-ghost2.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "Ghost 2 1200x600"
+		},
+		{
+			"imageName": "ORG7755-15-AT_612x612-ghost2.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Ghost 2 612x612"
+		}
+		]
+	},{
+		"number": "ORG7939-15-D",
+		"title": "PWS2 - IPG Banners Due 5/27",
+		"manager": "Bethany Trevino",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7939-15-D_returnsTonight.gif",
+			"imageWidth": 515,
+			"imageHeight": 50,
+			"imageDescription": "IPG Banner - Returns Tonight"		
+	},
+	{
+			"imageName": "ORG7939-15-D_watchNow.gif",
+			"imageWidth": 515,
+			"imageHeight": 50,
+			"imageDescription": "IPG Banner - Watch Now!"		
+	}]
+},{
+		"number": "ORG7755-15-AW",
+		"title": "PWS2 - Featured Cast Image Slides",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AW_2560x1440_1.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "1 - 2560x1440"
+		},
+		{
+			"imageName": "ORG7755-15-AW_1536x2560_1.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1 - 1536x2560"
+		},
+		{
+			"imageName": "ORG7755-15-AW_388x218_1.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "1 - 388x218"
+		},
+		{
+			"imageName": "ORG7755-15-AW_2560x1440_2.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2 - 2560x1440"
+		},
+		{
+			"imageName": "ORG7755-15-AW_1536x2560_2.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "2 - 1536x2560"
+		},
+		{
+			"imageName": "ORG7755-15-AW_388x218_2.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "2 - 388x218"
+		},
+		{
+			"imageName": "ORG7755-15-AW_2560x1440_4.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "4 - 2560x1440"
+		},
+		{
+			"imageName": "ORG7755-15-AW_1536x2560_4.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "4 - 1536x2560"
+		},
+		{
+			"imageName": "ORG7755-15-AW_388x218_4.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "4 - 388x218"
+		},
+		{
+			"imageName": "ORG7755-15-AW_2560x1440_5.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "5 - 2560x1440"
+		},
+		{
+			"imageName": "ORG7755-15-AW_1536x2560_5.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "5 - 1536x2560"
+		},
+		{
+			"imageName": "ORG7755-15-AW_388x218_5.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "5 - 388x218"
+		},
+		{
+			"imageName": "ORG7755-15-AW_2560x1440_6.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "6 - 2560x1440"
+		},
+		{
+			"imageName": "ORG7755-15-AW_1536x2560_6.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "6 - 1536x2560"
+		},
+		{
+			"imageName": "ORG7755-15-AW_388x218_6.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "6 - 388x218"
+		}]
+	},{
+		"number": "TRD4135-15-N",
+		"title": "PWS2 300x900 GIF Banner",
+		"manager": "Kia Milan",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "TRD4135-15-N-saturday.jpg",
+			"imageWidth": 300,
+			"imageHeight": 900,
+			"imageDescription": "Saturday Version"
+		},
+		{
+			"imageName": "TRD4135-15-N-tomorrow.jpg",
+			"imageWidth": 300,
+			"imageHeight": 900,
+			"imageDescription": "Tomorrow Version"
+		},{
+			"imageName": "TRD4135-15-N-tonight.jpg",
+			"imageWidth": 300,
+			"imageHeight": 900,
+			"imageDescription": "Tonight Version"
+		}]
+	},{
+		"number": "TRD4135-15-M",
+		"title": "PWS2 728x90 Image Footer",
+		"manager": "Kia Milan",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "TRD4135-15-M-saturday.jpg",
+			"imageWidth": 728,
+			"imageHeight": 90,
+			"imageDescription": "Saturday Version"
+		},
+		{
+			"imageName": "TRD4135-15-M-tomorrow.jpg",
+			"imageWidth": 728,
+			"imageHeight": 90,
+			"imageDescription": "Tomorrow Version"
+		},{
+			"imageName": "TRD4135-15-M-tonight.jpg",
+			"imageWidth": 728,
+			"imageHeight": 90,
+			"imageDescription": "Tonight Version"
+		}]
+	},{
+		"number": "TRD4135-15-L",
+		"title": "PWS2 1146x90 Image Footer",
+		"manager": "Kia Milan",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "TRD4135-15-L-saturday.jpg",
+			"imageWidth": 1146,
+			"imageHeight": 90,
+			"imageDescription": "Saturday Version"
+		},
+		{
+			"imageName": "TRD4135-15-L-tomorrow.jpg",
+			"imageWidth": 1146,
+			"imageHeight": 90,
+			"imageDescription": "Tomorrow Version"
+		},{
+			"imageName": "TRD4135-15-L-tonight.jpg",
+			"imageWidth": 1146,
+			"imageHeight": 90,
+			"imageDescription": "Tonight Version"
+		}]
+	},
+	{
+		"number": "ORG7757-15-I",
+		"title": "PWS2 - 5.23 Sampling NL",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7757-15-I.jpg",
+			"imageWidth": 600,
+			"imageHeight": 1123,
+			"imageDescription": "Newsletter Mockup"
+		},
+		{
+			"imageName": "ORG7757-15-I_v2.jpg",
+			"imageWidth": 600,
+			"imageHeight": 1123,
+			"imageDescription": "Newsletter Mockup"
+		}]
+	},{
+		"number": "ORG7755-15-AV",
+		"title": "PWS2 - 5.18 Sampling Poster images",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AV_1.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "Poster 1"		
+	},{
+			"imageName": "ORG7755-15-AV_2.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "Poster 2"		
+	},{
+			"imageName": "ORG7755-15-AV_3.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "Poster 3"		
+	},{
+			"imageName": "ORG7755-15-AV_4.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "Poster 4"		
+	}]
+},{
+		"number": "ORG7939-15-A",
+		"title": "PWS2 - IPG Banner Due 5/18",
+		"manager": "Bethany Trevino",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7939-15-A.gif",
+			"imageWidth": 515,
+			"imageHeight": 50,
+			"imageDescription": "IPG Banner"		
+	}]
+},{
+		"number": "ORG7755-15-AK",
+		"title": "PWS2 - Premiere Social Headers",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AK_851x315-tomorrow.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Tomorrow"		
+	},{
+			"imageName": "ORG7755-15-AK_851x315-tonight.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "Facebook - Tonight"		
+	},{
+			"imageName": "ORG7755-15-AK_1500x500-tomorrow.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter - Tomorrow"		
+	},{
+			"imageName": "ORG7755-15-AK_1500x500-tonight.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter - Tonight"		
+	}]
+},{
+		"number": "CHT4302-15-C",
+		"title": "CHT Power Mobile Static Banners June",
+		"manager": "Cynde Hennegan",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "CHT4302-15-C_216x36.gif",
+			"imageWidth": 216,
+			"imageHeight": 36,
+			"imageDescription": "216x36"		
+	},{
+			"imageName": "CHT4302-15-C_300x50.gif",
+			"imageWidth": 300,
+			"imageHeight": 50,
+			"imageDescription": "300x50"		
+	},{
+			"imageName": "CHT4302-15-C_300x250.gif",
+			"imageWidth": 300,
+			"imageHeight": 250,
+			"imageDescription": "300x250"		
+	},{
+			"imageName": "CHT4302-15-C_320x50.gif",
+			"imageWidth": 320,
+			"imageHeight": 50,
+			"imageDescription": "320x50"		
+	},{
+			"imageName": "CHT4302-15-C_728x90.gif",
+			"imageWidth": 728,
+			"imageHeight": 90,
+			"imageDescription": "728x90"		
+	}]
+},{
+		"number": "CHT4302-15-B",
+		"title": "2015 CHT Power animated banners",
+		"manager": "Cynde Hennegan",
+		"designer": "Keith",
+		"swf": [
+                {
+                    "name":"120x600",
+                    "file":"CHT4302-15-B_120x600_animated.swf",
+                    "width":120,
+                    "height":600
+                },
+				{
+                    "name":"160x600",
+                    "file":"CHT4302-15-B_160x600_animated.swf",
+                    "width":160,
+                    "height":600
+                },
+				{
+                    "name":"180x150",
+                    "file":"CHT4302-15-B_180x150_animated.swf",
+                    "width":180,
+                    "height":150
+                },
+				{
+                    "name":"216x36",
+                    "file":"CHT4302-15-B_216x36_animated.swf",
+                    "width":216,
+                    "height":36
+                },
+				{
+                    "name":"300x250",
+                    "file":"CHT4302-15-B_300x250_animated.swf",
+                    "width":300,
+                    "height":250
+                },
+				{
+                    "name":"300x600",
+                    "file":"CHT4302-15-B_300x600_animated.swf",
+                    "width":300,
+                    "height":600
+                },
+				{
+                    "name":"468x60",
+                    "file":"CHT4302-15-B_468x60_animated.swf",
+                    "width":468,
+                    "height":60
+                },
+				{
+                    "name":"728x90",
+                    "file":"CHT4302-15-B_728x90_animated.swf",
+                    "width":728,
+                    "height":90
+                }
+            ]
+},{
+		"number": "CHT4302-15-A",
+		"title": "2015 CHT Power static banners June",
+		"manager": "Cynde Hennegan",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "CHT4302-15-A_160x600.jpg",
+			"imageWidth": 160,
+			"imageHeight": 600,
+			"imageDescription": "160x600"		
+	},{
+			"imageName": "CHT4302-15-A_300x250.jpg",
+			"imageWidth": 300,
+			"imageHeight": 250,
+			"imageDescription": "300x250"		
+	}]
+},{
+		"number": "ORG7755-15-AG",
+		"title": "PWS2 - 4.28 Instagram image",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AG_612x612.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "Instagram Image"		
+	}]
+},{
+		"number": "ORG7755-15-AF",
+		"title": "PWS2 - Countdown Assets",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AF_1200x900_oneWeek.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900 - One Week"		
+	},{
+			"imageName": "ORG7755-15-AF_1200x600_oneWeek.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600 - One Week"		
+	},{
+			"imageName": "ORG7755-15-AF_612x612_oneWeek.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "612x612 - One Week"		
+	},{
+			"imageName": "ORG7755-15-AF_1200x900_tomorrow.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900 - Tomorrow"		
+	},{
+			"imageName": "ORG7755-15-AF_1200x600_tomorrow.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600 - Tomorrow"		
+	},{
+			"imageName": "ORG7755-15-AF_612x612_tomorrow.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "612x612 - Tomorrow"		
+	}]
+},{
+		"number": "ORG7818-15-A",
+		"title": "PWS2 Web Banners - Both Static and Animated",
+		"manager": "Robbie Washburn",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7818-15-A_animated226x64.gif",
+			"imageWidth": 226,
+			"imageHeight": 64,
+			"imageDescription": "226x64 Animated"		
+	},{
+			"imageName": "ORG7818-15-A_animated300x100.gif",
+			"imageWidth": 300,
+			"imageHeight": 100,
+			"imageDescription": "300x100 Animated"		
+	},{
+			"imageName": "ORG7818-15-A_animated468x60.gif",
+			"imageWidth": 468,
+			"imageHeight": 60,
+			"imageDescription": "468x60 Animated"		
+	},{
+			"imageName": "ORG7818-15-A_static160x62.jpg",
+			"imageWidth": 160,
+			"imageHeight": 62,
+			"imageDescription": "160x62 Static"		
+	},{
+			"imageName": "ORG7818-15-A_static300x250.jpg",
+			"imageWidth": 300,
+			"imageHeight": 250,
+			"imageDescription": "160x62 Static"		
+	},{
+			"imageName": "ORG7818-15-A_static440x164.jpg",
+			"imageWidth": 440,
+			"imageHeight": 164,
+			"imageDescription": "160x62 Static"		
+	}]
+},{
+		"number": "ORG7757-15-G",
+		"title": "PWS2 - Newsletter redesign",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7757-15-G.jpg",
+			"imageWidth": 600,
+			"imageHeight": 1330,
+			"imageDescription": "Newletter Mockup"		
+	}]
+},{
+		"number": "ORG7757-15-D",
+		"title": "PWS2 - S2 Facebook Sign Up UPDATE",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7757-15-D_1.jpg",
+			"imageWidth": 810,
+			"imageHeight": 750,
+			"imageDescription": "Screen 1"		
+	},{
+			"imageName": "ORG7757-15-D_2.jpg",
+			"imageWidth": 810,
+			"imageHeight": 750,
+			"imageDescription": "Screen 2"		
+	},{
+			"imageName": "ORG7757-15-D_3.jpg",
+			"imageWidth": 810,
+			"imageHeight": 750,
+			"imageDescription": "Screen 3"		
+	}]
+},{
+		"number": "ORG7757-15-C",
+		"title": "PWS2 - Welcome Email",
+		"manager": "Andrea Fehl",
+		"designer": "Keith",
+		"imageCollection": [{
+			"imageName": "ORG7757-15-C.jpg",
+			"imageWidth": 600,
+			"imageHeight": 900,
+			"imageDescription": "Welcome Email"		
+	}]
+},{
+		"number": "ORG7755-15-K",
+		"title": "PWS2 - S2 key art social headers",
+		"manager": "Andrea Fehl",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-K_851x315_v1.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "FB SERIES RETURNS JUN 6"		
+	},{
+			"imageName": "ORG7755-15-K_851x315_v3.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "FB NEW EPISODES SATURDAYS 9P"		
+	},{
+			"imageName": "ORG7755-15-K_851x315_v4.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "FB OD + STARZ PLAY"		
+	},{
+			"imageName": "ORG7755-15-K_1500x500_v1.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "TWITTER SERIES RETURNS JUN 6"		
+	},{
+			"imageName": "ORG7755-15-K_1500x500_v3.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "TWITTER NEW EPISODES SATURDAYS 9P"		
+	},{
+			"imageName": "ORG7755-15-K_1500x500_v4.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "TWITTER OD + STARZ PLAY"		
+	}]
+},{
+		"number": "ORG7755-15-L",
+		"title": "PWS2 - Key Art Starz.com needs",
+		"manager": "Andrea Fehl",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-L_1440x651.jpg",
+			"imageWidth": 1440,
+			"imageHeight": 651,
+			"imageDescription": "1440x651"		
+	},{
+			"imageName": "ORG7755-15-L_1025x651.jpg",
+			"imageWidth": 1025,
+			"imageHeight": 651,
+			"imageDescription": "1025x651"		
+	},{
+			"imageName": "ORG7755-15-L_320x340.jpg",
+			"imageWidth": 320,
+			"imageHeight": 340,
+			"imageDescription": "320x340"		
+	},{
+			"imageName": "ORG7755-15-L_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-L_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-L_383x215.jpg",
+			"imageWidth": 383,
+			"imageHeight": 215,
+			"imageDescription": "383x215"		
+	},{
+			"imageName": "ORG7755-15-L_205x273.jpg",
+			"imageWidth": 205,
+			"imageHeight": 273,
+			"imageDescription": "205x273"		
+	},{
+			"imageName": "ORG7755-15-L_182x270.jpg",
+			"imageWidth": 182,
+			"imageHeight": 270,
+			"imageDescription": "182x270"		
+	},{
+			"imageName": "ORG7755-15-L_851x315_3.jpg",
+			"imageWidth": 851,
+			"imageHeight": 315,
+			"imageDescription": "FB Header"		
+	},{
+			"imageName": "ORG7755-15-L_1500x500_3.jpg",
+			"imageWidth": 1500,
+			"imageHeight": 500,
+			"imageDescription": "Twitter Header"	
+	},{
+			"imageName": "ORG7755-15-L_1920x1200.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1200,
+			"imageDescription": "1920x1200"		
+	},{
+			"imageName": "ORG7755-15-L_1920x1440.jpg",
+			"imageWidth": 1920,
+			"imageHeight": 1440,
+			"imageDescription": "1920x1440"	
+	}]
+	},{
+		"number": "ORG7755-15-N",
+		"title": "PWS2 - 3.18 Updated Sampling Poster",
+		"manager": "Andrea Fehl",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-N_900x506_2.jpg",
+			"imageWidth": 900,
+			"imageHeight": 506,
+			"imageDescription": "900x506"		
+	}]
+	},{
+		"number": "TRN4183-15-E",
+		"title": "PWS2 online training",
+		"manager": "Maria Cole",
+		"designer": "Hyung",
+		"imageCollection": [{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_01.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_02.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_03.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_04.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_05.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_06.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_07.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_08.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_09.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_10.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_11.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_12.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_13.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_14.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_15.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_16.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_17.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_18.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	},{
+			"imageName": "TRN4183-15-E_Power_onlineTraining_19.jpg",
+			"imageWidth": 1280,
+			"imageHeight": 768,
+			"imageDescription": ""		
+	}]
+	},{
+		"number": "PBR4387-15-J",
+		"title": "PWS2 Press Kit-DVD Menu Art",
+		"manager": "Kelli Browning",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "PBR4387-15-J_960x540_disc1.jpg",
+			"imageWidth": 960,
+			"imageHeight": 540,
+			"imageDescription": "Disc One"		
+	},{
+			"imageName": "PBR4387-15-J_960x540_disc2.jpg",
+			"imageWidth": 960,
+			"imageHeight": 540,
+			"imageDescription": "Disc Two"		
+	},{
+			"imageName": "PBR4387-15-J_960x540_disc3.jpg",
+			"imageWidth": 960,
+			"imageHeight": 540,
+			"imageDescription": "Disc Three"		
+	}]
+	},{
+		"number": "ORG7755-15-Z",
+		"title": "PWS2 - 4.14 Official Trailer Slide",
+		"manager": "Andrea Fehl",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-Z_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-Z_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-Z_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"		
+	}]
+	},{
+		"number": "ORG7755-15-AA",
+		"title": "PWS2 - Power Page Social Slide",
+		"manager": "Andrea Fehl",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AA_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-AA_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-AA_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"		
+	}]
+	},{
+		"number": "ORG7755-15-AN",
+		"title": "Power Video Promo Marquees for Starz.com (Criminal, Enemies, Affairs)",
+		"manager": "Andrea Fehl",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AN_PWS2_201_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-AN_PWS2_201_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-AN_PWS2_201_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"		
+	},{
+			"imageName": "ORG7755-15-AN_PWS2_202_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-AN_PWS2_202_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-AN_PWS2_202_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"		
+	},{
+			"imageName": "ORG7755-15-AN_PWS2_204_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-AN_PWS2_204_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-AN_PWS2_204_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"		
+	}]
+	},{
+		"number": "ORG7755-15-AZ",
+		"title": "PWS2 - Affiliate Finale Assets",
+		"manager": "Andrea Fehl",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-AZ_1200x900.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 900,
+			"imageDescription": "1200x900"		
+	},{
+			"imageName": "ORG7755-15-AZ_1200x600.jpg",
+			"imageWidth": 1200,
+			"imageHeight": 600,
+			"imageDescription": "1200x600"		
+	},{
+			"imageName": "ORG7755-15-AZ_612x612.jpg",
+			"imageWidth": 612,
+			"imageHeight": 612,
+			"imageDescription": "612x612"		
+	}]
+	},{
+		"number": "ORG7755-15-BC",
+		"title": "PWS2 - Court and Curtis Slide images",
+		"manager": "Andrea Fehl",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BC_2560x1440_1.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440 Image 1"		
+	},{
+			"imageName": "ORG7755-15-BC_1536x2560_1.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560 Image 1"		
+	},{
+			"imageName": "ORG7755-15-BC_388x218_1.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218 Image 1"		
+	},{
+			"imageName": "ORG7755-15-BC_2560x1440_2.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440 Image 2"		
+	},{
+			"imageName": "ORG7755-15-BC_1536x2560_2.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560 Image 2"		
+	},{
+			"imageName": "ORG7755-15-BC_388x218_2.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218 Image 2"		
+	},{
+			"imageName": "ORG7755-15-BC_2560x1440_3.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440 Image 3"		
+	},{
+			"imageName": "ORG7755-15-BC_1536x2560_3.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560 Image 3"		
+	},{
+			"imageName": "ORG7755-15-BC_388x218_3.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218 Image 3"		
+	}]
+	},{
+		"number": "ORG7755-15-BK",
+		"title": "Power Starz.com Marquee Ep 202",
+		"manager": "Paul Suggett",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BK_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-BK_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-BK_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"		
+	}]
+	},{
+		"number": "ORG7755-15-BL",
+		"title": "Power Starz.com Marquee Kanan Long Form Video",
+		"manager": "Paul Suggett",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BL_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-BL_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-BL_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"		
+	}]
+	},{
+		"number": "ORG7755-15-BM",
+		"title": "Power Ep 203 Starz.com Marquee for Carousel",
+		"manager": "Paul Suggett",
+		"designer": "Michael",
+		"imageCollection": [{
+			"imageName": "ORG7755-15-BM_2560x1440.jpg",
+			"imageWidth": 2560,
+			"imageHeight": 1440,
+			"imageDescription": "2560x1440"		
+	},{
+			"imageName": "ORG7755-15-BM_1536x2560.jpg",
+			"imageWidth": 1536,
+			"imageHeight": 2560,
+			"imageDescription": "1536x2560"		
+	},{
+			"imageName": "ORG7755-15-BM_388x218.jpg",
+			"imageWidth": 388,
+			"imageHeight": 218,
+			"imageDescription": "388x218"		
+	}]
+	}]
+}
