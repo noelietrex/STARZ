@@ -1,12 +1,5 @@
 $(document).ready(function(){
 
-	// =LISTS
-	$(function() {
-		// Add classes to first and last of each list
-		$('li:first-child').addClass('js-first');
-		$('li:last-child').addClass('js-last');
-	});
-	
 	var currentDate = new Date(); // get current date
 	var n = 376; // width of number AFTER animation won't measure so this is 350 + 10 margin + 3 border
 	var selectedMovie;
@@ -15,12 +8,46 @@ $(document).ready(function(){
 	var itemWidth;
 	var fullWidth;
 	var numBeforeCurrent;
+
+	function init(){
+		loadjson(); //JSON FIRST
+		$(window).resize(windowResize);
+
+	}
+
+
+	//JSON goes first
+	function loadjson(){
+		$.getJSON('data/this.json', function(data){
+			var source = $("#json-carousel").html();
+			var template = Handlebars.compile(source);
+			var html = template(data);
+			$('#carousel-items').html(html);
+			onjsonLoaded();
+		});
+	}
+
+	function onjsonLoaded(){
+
+		$('.carousel-item').click(function(){
+			selectMovie($(this));
+		});
+
+
+
+	}
+
+
+
+
+
+	// // =LISTS
+	// $(function() {
+	// 	// Add classes to first and last of each list
+	// 	$('li:first-child').addClass('js-first');
+	// 	$('li:last-child').addClass('js-last');
+	// });
 	
-	$(window).resize(windowResize);
-	
-	$('.carousel-item').click(function(){
-		selectMovie($(this));
-	});
 
 	// start huge if statement
 	if ($(window).width() >= 750) {
@@ -166,16 +193,6 @@ $(document).ready(function(){
 		}
 	}
 
-	function moveCarouselImgs() {
-		if ($(window).width() <= 750){
-			// stick images inside detail for mobile
-			$('.carousel-item').each(function(){
-				var carouselId = $(this).attr('id')
-				$(this).prependTo('.detail' + '#' + carouselId);
-				console.log('CAROUSEL ID IS', carouselId);
-			});
-		}
-	}
 
 	function windowResize(){
 		//measure the page width
@@ -186,14 +203,17 @@ $(document).ready(function(){
 
 	
 	// RUN ALL DA FUNCTIONSSSS
+	// detirmineInitialMovie();
+	// windowResize();
+	// countItems();
+	// calcfullWidth();
+	// countToCurrent();
+	// moveOver();
+	// galleryHeight();
+
+	
+
 	loadCarouselImages();
-	detirmineInitialMovie();
-	windowResize();
-	countItems();
-	calcfullWidth();
-	countToCurrent();
-	moveOver();
-	galleryHeight();
-	moveCarouselImgs();
+
 
 });

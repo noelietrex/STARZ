@@ -17,172 +17,46 @@
   </div>
 
   <ul id="carousel-items">
-	<li class="carousel-item" id="carousel1" name="Elysium" date="August 1, 2014 21:00:00" playStart="July 1, 2014" playEnd="July 1, 2017" link="#" playLink="#" headerPhoto="header_elysium.jpg" mobileHeader="" galleryPhotos="photo1.jpg,photo2.jpg,photo3.jpg,photo4.jpg">
-	  <div class="carousel-shade"></div>
-	  <div class="carousel-date">Aug 1</div>
-	  <div class="carousel-title">Elysium</div>
-	</li>
-	<li class="carousel-item" id="carousel2" name="American Hustle" date="August 8, 2014 21:00:00" playStart="July 1, 2014" playEnd="July 1, 2017" link="#" playLink="#" headerPhoto="header_americanHustle.jpg" mobileHeader="" galleryPhotos="photo1.jpg,photo2.jpg,photo3.jpg,photo4.jpg">
-	  <div class="carousel-shade"></div>
-	  <div class="carousel-date">Aug 8</div>
-	  <div class="carousel-title">American Hustle</div>
-	</li>
-	<li class="carousel-item" id="carousel3" name="At Middleton" date="August 15, 2014 21:00:00" playStart="July 1, 2014" playEnd="July 1, 2017" link="#" playLink="#" headerPhoto="header_atMiddleton.jpg" mobileHeader="" galleryPhotos="photo1.jpg,photo2.jpg,photo3.jpg,photo4.jpg">
-	  <div class="carousel-shade"></div>
-	  <div class="carousel-date">Aug 15</div>
-	  <div class="carousel-title">At Middleton</div>
-	</li>
-	<li class="carousel-item" id="carousel4" name="Kill Your Darlings" date="August 22, 2014 21:00:00" playStart="July 1, 2014" playEnd="July 1, 2017" link="#" playLink="#" headerPhoto="header_killYourDarlings.jpg" mobileHeader="" galleryPhotos="photo1.jpg,photo2.jpg,photo3.jpg,photo4.jpg">
-	  <div class="carousel-shade"></div>
-	  <div class="carousel-date">Aug 22</div>
-	  <div class="carousel-title">Kill Your Darlings</div>
-	</li>
-	<li class="carousel-item" id="carousel5" name="Saving Mr. Banks" date="September 5, 2014 21:00:00" playStart="July 1, 2014" playEnd="July 1, 2017" link="#" playLink="#" headerPhoto="header_savingMrBanks.jpg" mobileHeader="" galleryPhotos="photo1.jpg,photo2.jpg,photo3.jpg,photo4.jpg">
-	  <div class="carousel-shade"></div>
-	  <div class="carousel-date">Sep 5</div>
-	  <div class="carousel-title">Saving Mr. Banks</div>
-	</li>
-	<li class="carousel-item" id="carousel6" name="A Birder's Guide to Everything" date="September 12, 2014 21:00:00" playStart="July 1, 2014" playEnd="July 1, 2017" link="#" playLink="#" headerPhoto="header_birdersGuide.jpg" mobileHeader="" galleryPhotos="photo1.jpg,photo2.jpg,photo3.jpg,photo4.jpg">
-	  <div class="carousel-shade"></div>
-	  <div class="carousel-date">Sep 12</div>
-	  <div class="carousel-title">A Birder's Guide to Everything</div>
-	</li>
-	<li class="carousel-item" id="carousel7" name="A Birder's Guide to Everything" date="June 12, 2015 21:00:00" playStart="July 1, 2014" playEnd="July 1, 2017" link="#" playLink="#" headerPhoto="header_birdersGuide.jpg" mobileHeader="" galleryPhotos="photo1.jpg,photo2.jpg,photo3.jpg,photo4.jpg">
-	  <div class="carousel-shade"></div>
-	  <div class="carousel-date">June 12</div>
-	  <div class="carousel-title">A Birder's Guide to Everything</div>
-	</li>
-	<li class="carousel-item" id="carousel8" name="A Birder's Guide to Everything" date="July 1, 2015 21:00:00" playStart="July 1, 2014" playEnd="July 1, 2017" link="#" playLink="#" headerPhoto="header_birdersGuide.jpg" mobileHeader="" galleryPhotos="photo1.jpg,photo2.jpg,photo3.jpg,photo4.jpg">
-	  <div class="carousel-shade"></div>
-	  <div class="carousel-date">Jul 1</div>
-	  <div class="carousel-title">A Birder's Guide to Everything</div>
-	</li>
+
+	<script id="json-carousel" type="text/template">
+		{{#movies}}
+			<li class="carousel-item" id="carousel{{@index}}" name="{{name}}" date="{{detaildate}}" playStart="{{playstart}}" playEnd="{{playend}}" link="{{buttonlearn}}" playLink="{{buttonwatch}}" headerPhoto="{{headerphoto}}" mobileHeader="{{mobileimg}}" galleryPhotos="{{#galleryphotos}}{{.}},{{/galleryphotos}}">
+			  <div class="carousel-shade"></div>
+			  <div class="carousel-date"></div>
+			  <div class="carousel-title">{{name}}</div>
+			</li>
+		{{/movies}}
+	</script>
+	
   </ul>
 </div>
 
-<div class="detail" id="carousel4">
+<div class="detail">
   <div class="detail-background"></div>
   <div class="detail-content">
+  	<div class="detail-img"><img></div>
 	<div class="detail-text">
-	  <div class="date">August 15</div>
-	  <div class="time">9PM
+	  <div class="date"></div>
+	  <div class="time">
 		<div class="timezone">ET<br>
 		  PT</div>
 	  </div>
-	  <div class="title">The Calling<br>
-		Line Two</div>
-	  <div class="buttons">
-		<a href="#" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
-		<a href="#" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
-	  </div>
-	</div>
-	<div class="gallery">
-		<img src ="images/gallery/movie_1.jpg">
-		<img src ="images/gallery/movie_2.jpg">
-		<img src ="images/gallery/movie_3.jpg">
-	</div>
-  </div>
-</div>
-
-<div class="detail" id="carousel5">
-  <div class="detail-background"></div>
-  <div class="detail-content">
-	<div class="detail-text">
-	  <div class="date">August 15</div>
-	  <div class="time">9PM
-		<div class="timezone">ET<br>
-		  PT</div>
-	  </div>
-	  <div class="title">The Calling<br>
-		Line Two</div>
+	  <div class="title"></div>
 	  <div class="buttons">
 		<a href="#" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
 		<a href="#" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
 	  </div>
 	</div>
 	<ul class="gallery">
-		<li><img src ="images/gallery/movie_1.jpg"></li>
-		<li><img src ="images/gallery/movie_2.jpg"></li>
-		<li><img src ="images/gallery/movie_3.jpg"></li>
 	</ul>
   </div>
 </div>
 
-<div class="detail" id="carousel6">
-  <div class="detail-background"></div>
-  <div class="detail-content">
-	<div class="detail-text">
-	  <div class="date">August 15</div>
-	  <div class="time">9PM
-		<div class="timezone">ET<br>
-		  PT</div>
-	  </div>
-	  <div class="title">The Calling<br>
-		Line Two</div>
-	  <div class="buttons">
-		<a href="#" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
-		<a href="#" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
-	  </div>
-	</div>
-	<ul class="gallery">
-		<li><img src ="images/gallery/movie_3.jpg"></li>
-		<li><img src ="images/gallery/movie_1.jpg"></li>
-		<li><img src ="images/gallery/movie_2.jpg"></li>
-	</ul>
-  </div>
-</div>
-
-<div class="detail" id="carousel7">
-  <div class="detail-background"></div>
-  <div class="detail-content">
-	<div class="detail-text">
-	  <div class="date">August 15</div>
-	  <div class="time">9PM
-		<div class="timezone">ET<br>
-		  PT</div>
-	  </div>
-	  <div class="title">The Calling<br>
-		Line Two</div>
-	  <div class="buttons">
-		<a href="#" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
-		<a href="#" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
-	  </div>
-	</div>
-	<ul class="gallery">
-		<li><img src ="images/gallery/movie_a.jpg"></li>
-		<li><img src ="images/gallery/movie_b.jpg"></li>
-		<li><img src ="images/gallery/movie_c.jpg"></li>
-	</ul>
-  </div>
-</div>
-
-<div class="detail" id="carousel8">
-  <div class="detail-background"></div>
-  <div class="detail-content">
-	<div class="detail-text">
-	  <div class="date">August 15</div>
-	  <div class="time">9PM
-		<div class="timezone">ET<br>
-		  PT</div>
-	  </div>
-	  <div class="title">The Calling<br>
-		Line Two</div>
-	  <div class="buttons">
-		<a href="#" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
-		<a href="#" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
-	  </div>
-	</div>
-	<ul class="gallery">
-		<li><img src ="images/gallery/movie_1.jpg"></li>
-		<li><img src ="images/gallery/movie_2.jpg"></li>
-		<li><img src ="images/gallery/movie_3.jpg"></li>
-	</ul>
-  </div>
-</div>
 
 <div id="copyrights"></div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="js/onload.js"></script>
 <script src="js/jquery.debounce-1.0.5.js"></script>
+<script src="js/handlebars-v3.0.3.js"></script>
+<script src="js/onload.js"></script>
 </body>
 </html>
