@@ -1,4 +1,8 @@
-$(document).ready(function(){
+var FNF = FNF || {};
+
+(function ($, FNF) {
+	FNF.Init = ( function(){
+
 
 	var currentDate = new Date(); // get current date
 	var n = 376; // width of number AFTER animation won't measure so this is 350 + 10 margin + 3 border
@@ -29,11 +33,15 @@ $(document).ready(function(){
 
 	function onjsonLoaded(){
 
-		$('.carousel-item').click(function(){
-			selectMovie($(this));
-		});
-
-
+		detirmineInitialMovie();
+		windowResize();
+		countItems();
+		calcfullWidth();
+		countToCurrent();
+		moveOver();
+		galleryHeight();
+		loadCarouselImages();
+		carouselClick();
 
 	}
 
@@ -50,7 +58,13 @@ $(document).ready(function(){
 	
 
 	// start huge if statement
-	if ($(window).width() >= 750) {
+	// if ($(window).width() >= 750) {
+
+		function carouselClick(){
+			$('.carousel-item').click(function(){
+				selectMovie($(this));
+			});
+		}
 		
 		function loadCarouselImages(){
 			$('.carousel-item').each(function(){
@@ -99,30 +113,33 @@ $(document).ready(function(){
 				$('.detail' + '#' + theId).removeClass('js-currentDetail');
 			}
 		}
-		selectDetail();
+		// selectDetail();
 
-		// =ARROWS
-		$('.js-arrow-right').click($.throttle(function(){
-			// if this is the last item, go back to first item
-			if($('.carousel-item.js-currentMovie').hasClass('js-last')) {
-				selectMovie($('.carousel-item').first());
-			}
-			// else highlight next
-			else {
-				selectMovie($('.carousel-item.js-currentMovie').next());
-			}
-		}, 500));
+		function arrows() {
+			// =ARROWS
+			$('.js-arrow-right').click($.throttle(function(){
+				// if this is the last item, go back to first item
+				if($('.carousel-item.js-currentMovie').hasClass('js-last')) {
+					selectMovie($('.carousel-item').first());
+				}
+				// else highlight next
+				else {
+					selectMovie($('.carousel-item.js-currentMovie').next());
+				}
+			}, 500));
 
-		$('.js-arrow-left').click($.throttle(function(){
-			// if this is the first item, go to the last item
-			if($('.carousel-item.js-currentMovie').hasClass('js-first')) {
-				selectMovie($('.carousel-item').last());
-			}
-			// else highlight previous
-			else {
-				selectMovie($('.carousel-item.js-currentMovie').prev());
-			}
-		}, 500));
+			$('.js-arrow-left').click($.throttle(function(){
+				// if this is the first item, go to the last item
+				if($('.carousel-item.js-currentMovie').hasClass('js-first')) {
+					selectMovie($('.carousel-item').last());
+				}
+				// else highlight previous
+				else {
+					selectMovie($('.carousel-item.js-currentMovie').prev());
+				}
+			}, 500));
+		}
+		
 
 
 		function countItems() {
@@ -136,11 +153,14 @@ $(document).ready(function(){
 			numBeforeCurrent = $('.js-currentMovie').prevAll().length
 		}
 
+		function measureCarousel() {
+			// *** DO ALLLLLLL EACH ITEMS THAT NEED TO HAPPEN INSIDE THE SAME EACH STATEMENT ***
+			$('.carousel-item').each(function() {
+				//measure the width of each item
+				itemWidth = $(this).outerWidth(true);
+			});
 
-		$('.carousel-item').each(function() {
-			//measure the width of each item
-			itemWidth = $(this).outerWidth(true);
-		});
+		}
 
 
 		function calcfullWidth() {
@@ -178,18 +198,20 @@ $(document).ready(function(){
 		}
 
 		//Set the Delay Time
-		setInterval(function () {
-		  rotateGalleryImg();
-		}, 5000);
+		function innerGalleryTime() {
+			setInterval(function () {
+			  rotateGalleryImg();
+			}, 5000);
+		}
 
-	} //end huge if statement
+	// } //end huge if statement
 
 	// RESPONSIVE THINGS
 	function galleryHeight() {
 		if ($(window).width() <= 1030){	
 			var galleryImgHeight = $('.gallery > li > img').height();
 			// make ul.gallery the height of dynamic height li img
-			$('.gallery').css({'height' : galleryImgHeight});
+			$('ul.gallery').css({'height' : galleryImgHeight});
 		}
 	}
 
@@ -201,19 +223,22 @@ $(document).ready(function(){
 		galleryHeight();
 	}
 
-	
-	// RUN ALL DA FUNCTIONSSSS
-	// detirmineInitialMovie();
-	// windowResize();
-	// countItems();
-	// calcfullWidth();
-	// countToCurrent();
-	// moveOver();
-	// galleryHeight();
-
-	
-
-	loadCarouselImages();
-
-
 });
+
+
+
+
+		/***************
+		PUBLIC - stole from brett
+		****************/
+		return {
+			init:init
+		}
+	})();
+	
+	Construct = (function(){
+		$(document).ready(function(){
+			FNF.Init.init();
+		});
+	})();
+})(jQuery,FNF);
