@@ -1,32 +1,36 @@
 ;(function($, window, document, undefined) {
 	var moviedetails = function(element,options){
-		var $el = $(element);
-		var plugin = this;
+		var $el = $(element)
+		var plugin = this
 		var settings = $.extend({
 			moviedata: {},
 			template: '#thumbitem',
         	gallery: '.gallery'
-    	}, options || {});	  
-    	var globalVariableObject = {};
+    	}, options || {})
+    	var globalVariableObject = {}
     	
     	this.el = $el;
     	this.init = function(){
     		globalVariableObject.source = $(settings.template).html();
-    		loadTemplate();
 	    	//LOAD TEMPLATE
 	    	//LOAD GALLERY PLUGIN
     	}
+    	this.load = function(moviedata){
+    		var template = Handlebars.compile(globalVariableObject.source)
+			var html = template(moviedata)
 
-    	function loadTemplate(){
-    		var template = Handlebars.compile(globalVariableObject.source);
-			var html = template(settings.moviedata);
 			$el.html(html);
 
-			console.log( $el.find(settings.gallery) );
-			$el.find(settings.gallery).moviegallery({
-				images: settings.moviedata,
+			if(!globalVariableObject.gallery) loadGallery(moviedata);
+			else globalVariableObject.gallery.data("gallery").load(moviedata);
+    	}
+
+    	function loadGallery(moviedata){
+    		globalVariableObject.gallery = $('.gallery').moviegallery({
 				template: '#json-gallery'
 			});
+
+			globalVariableObject.gallery.data("gallery").load(moviedata);
     	}
 	}
     
@@ -35,7 +39,8 @@
 	*******************/
 	$.fn.moviedetails = function(options){
 		return this.each(function(){
-			var plugin = new moviedetails(this, options);
+			var plugin = new moviedetails(this, options)
+			$(this).data("details",plugin);
 			plugin.init();
 		});
 	}

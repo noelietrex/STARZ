@@ -20,7 +20,7 @@
 
 	<script id="json-carousel" type="text/template">
 		{{#movies}}
-			<li class="carousel-item" id="carousel{{@index}}">
+			<li class="carousel-item" id="carousel{{@index}}" headerPhoto="{{headerphoto}}">
 			  <div class="carousel-shade"></div>
 			  <div class="carousel-date">{{detaildate}}</div>
 			  <div class="carousel-title">{{name}}</div>
@@ -32,7 +32,9 @@
 </div>
 
 <div class="detail">
-	<script type="text/template" id="json-detail">
+</div>
+
+<script type="text/template" id="json-detail">
 	  <div class="detail-background"></div>
 	  <div class="detail-content">
 	  	<div class="detail-img"><img src="images/mobile/{{mobileimg}}"></div>
@@ -51,11 +53,8 @@
 		<ul class="gallery">
 		
 		</ul>
-	  </div>
-	</script>
-
-
-</div>
+  </div>
+</script>
 
 <script type="text/template" id="json-gallery">
 	{{#galleryphotos}}

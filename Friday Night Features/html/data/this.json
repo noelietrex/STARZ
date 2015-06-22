@@ -1,9 +1,9 @@
 {
 	"movies": [{
-		"name": "A Bird Guide to Everything",
+		"name": "A Birder's Guide to Everything",
 		"playstart": "July 1 2015",
 		"playend": "July 1 2017",
-		"detaildate": "Jun 2 2015 09:40:37",
+		"detaildate": "Jun 2 2015",
 		"detailtime": "9pm",
 		"headerphoto": "header_birdersGuide.jpg",
 		"galleryphotos": ["movie_1.jpg", "movie_2.jpg", "movie_3.jpg"],
@@ -11,10 +11,10 @@
 		"buttonlearn": "buttonlearn.com",
 		"buttonwatch": "buttonwatch.com"
 	},{
-		"name": "A Bird Guide to Everything",
+		"name": "A Birder's Guide to Everything",
 		"playstart": "July 1 2015",
 		"playend": "July 1 2017",
-		"detaildate": "Jun 23 2015 09:40:37",
+		"detaildate": "Jun 23 2015",
 		"detailtime": "6pm",
 		"headerphoto": "header_birdersGuide.jpg",
 		"galleryphotos": ["movie_1.jpg", "movie_2.jpg", "movie_3.jpg"],
@@ -22,10 +22,10 @@
 		"buttonlearn": "#",
 		"buttonwatch": "#"
 	},{
-		"name": "A Bird Guide to Everything",
+		"name": "A Birder's Guide to Everything",
 		"playstart": "July 1 2015",
 		"playend": "July 1 2017",
-		"detaildate": "July 22 2015 09:40:37",
+		"detaildate": "July 22 2015",
 		"detailtime": "2pm",
 		"headerphoto": "header_birdersGuide.jpg",
 		"galleryphotos": ["movie_1.jpg", "movie_2.jpg", "movie_3.jpg"],

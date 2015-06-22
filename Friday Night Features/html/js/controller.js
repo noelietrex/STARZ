@@ -2,6 +2,8 @@ var FNF = FNF || {};
 
 (function ($, FNF) {
 	FNF.Controller = (function(){
+		var details;
+
 		/***************
 		INIT
 		****************/
@@ -13,19 +15,21 @@ var FNF = FNF || {};
         		children: '.carousel-item',
 				onClick: onMovieClick
 			});
+
+			details = $('.detail').moviedetails({
+				template: "#json-detail"
+			});
+
+			
 		}
 		
 		/***************
 		ON MOVIECLICK
 		****************/
 		function onMovieClick(moviedata){
-			$('.detail').moviedetails({
-				moviedata: moviedata,
-				template: "#json-detail",
-				gallery: ".gallery"
-			})
+			details.data("details").load(moviedata);
+
 			//WHEN MOVIE IS CLICK THEN LOAD DETAILS PLUGIN
-			//INSIDE THE PLUGIN SHOULD THEN LOAD GALLEY PLUGIN
 		}
 		
 		/***************

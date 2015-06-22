@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-@font-face {
+/*@font-face {
 	font-family: 'Helvetica Neue Condensed';
 	src: url("fonts/cond/HelveticaNeueLTStd-Cn.eot");
 	src: url("fonts/cond/HelveticaNeueLTStd-Cn.eot?#iefix") format('embedded-opentype'), url("fonts/cond/HelveticaNeueLTStd-Cn.woff") format('woff'), url("fonts/cond/HelveticaNeueLTStd-Cn.otf") format('opentype'), url("fonts/cond/HelveticaNeueLTStd-Cn.svg") format('svg');
@@ -15,7 +15,7 @@
 	font-family: 'Helvetica Neue Thin Condensed';
 	src: url("fonts/cond/HelveticaNeueLTStd-ThCn.eot");
 	src: url("fonts/cond/HelveticaNeueLTStd-ThCn.eot?#iefix") format('embedded-opentype'), url("fonts/cond/HelveticaNeueLTStd-ThCn.woff") format('woff'), url("fonts/cond/HelveticaNeueLTStd-ThCn.otf") format('opentype'), url("fonts/cond/HelveticaNeueLTStd-ThCn.svg") format('svg');
-}
+}*/
 
 body,td,th {
 	font-size: 12px;
