@@ -35,17 +35,17 @@
 	<script type="text/template" id="json-detail">
 	  <div class="detail-background"></div>
 	  <div class="detail-content">
-	  	<div class="detail-img"><img></div>
+	  	<div class="detail-img"><img src="images/mobile/{{mobileimg}}"></div>
 		<div class="detail-text">
-		  <div class="date"></div>
-		  <div class="time">
+		  <div class="date">{{detaildate}}</div>
+		  <div class="time"> {{detailtime}}
 			<div class="timezone">ET<br>
 			  PT</div>
 		  </div>
 		  <div class="title">{{name}}</div>
 		  <div class="buttons">
-			<a class="learn" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
-			<a class="watch" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
+			<a href="{{buttonlearn}}" class="learn" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
+			<a href="{{buttonwatch}}" class="watch" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
 		  </div>
 		</div>
 		<ul class="gallery">

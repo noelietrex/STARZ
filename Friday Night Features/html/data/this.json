@@ -4,16 +4,18 @@
 		"playstart": "July 1 2015",
 		"playend": "July 1 2017",
 		"detaildate": "Jun 2 2015 09:40:37",
+		"detailtime": "9pm",
 		"headerphoto": "header_birdersGuide.jpg",
 		"galleryphotos": ["movie_1.jpg", "movie_2.jpg", "movie_3.jpg"],
 		"mobileimg": "images/mobile/movie-1.jpg",
-		"buttonlearn": "#",
-		"buttonwatch": "#"
+		"buttonlearn": "buttonlearn.com",
+		"buttonwatch": "buttonwatch.com"
 	},{
 		"name": "A Bird Guide to Everything",
 		"playstart": "July 1 2015",
 		"playend": "July 1 2017",
 		"detaildate": "Jun 23 2015 09:40:37",
+		"detailtime": "6pm",
 		"headerphoto": "header_birdersGuide.jpg",
 		"galleryphotos": ["movie_1.jpg", "movie_2.jpg", "movie_3.jpg"],
 		"mobileimg": "images/mobile/movie-1.jpg",
@@ -24,6 +26,7 @@
 		"playstart": "July 1 2015",
 		"playend": "July 1 2017",
 		"detaildate": "July 22 2015 09:40:37",
+		"detailtime": "2pm",
 		"headerphoto": "header_birdersGuide.jpg",
 		"galleryphotos": ["movie_1.jpg", "movie_2.jpg", "movie_3.jpg"],
 		"mobileimg": "images/mobile/movie-1.jpg",

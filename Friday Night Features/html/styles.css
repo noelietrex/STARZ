@@ -246,9 +246,9 @@ body {
 	z-index: 1;
 	transition: opacity 1s ease-in-out;
 }
-/*.detail-img {
+.detail-img {
 	display: none;
-}*/
+}
 @media screen and (max-width: 1030px) {
 	.detail-content {
 		max-width: 100%;
