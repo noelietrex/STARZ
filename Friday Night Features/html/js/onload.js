@@ -1,8 +1,8 @@
-var FNF = FNF || {};
+// var FNF = FNF || {};
 
-(function ($, FNF) {
-	FNF.Init = ( function(){
-
+// (function ($, FNF) {
+// 	FNF.Init = ( function(){
+$(document).ready(function(){
 
 	var currentDate = new Date(); // get current date
 	var n = 376; // width of number AFTER animation won't measure so this is 350 + 10 margin + 3 border
@@ -13,10 +13,11 @@ var FNF = FNF || {};
 	var fullWidth;
 	var numBeforeCurrent;
 
+	init();
+
 	function init(){
 		loadjson(); //JSON FIRST
 		$(window).resize(windowResize);
-
 	}
 
 
@@ -33,15 +34,20 @@ var FNF = FNF || {};
 
 	function onjsonLoaded(){
 
-		detirmineInitialMovie();
-		windowResize();
-		countItems();
-		calcfullWidth();
-		countToCurrent();
-		moveOver();
-		galleryHeight();
-		loadCarouselImages();
 		carouselClick();
+		loadCarouselImages();
+		detirmineInitialMovie();
+		selectDetail();
+		arrows();
+		countItems();
+		countToCurrent();
+		measureCarousel();
+		calcfullWidth();
+		moveOver();
+		rotateGalleryImg();
+		galleryHeight();
+		windowResize();
+
 
 	}
 
@@ -72,6 +78,27 @@ var FNF = FNF || {};
 				$(this).css('background-image','url(images/'+bg+')');
 			});
 		}
+
+		// function fillDetail(){
+		// 	$('.carousel-item')function() {
+		// 		var x = $(this);
+		// 		var name = x.attr('name');
+		// 		var date = x.attr('date');
+		// 		var link = x.attr('link');
+		// 		var playLink = x.attr('playLink');
+		// 		var mobileHeader = x.attr('mobileHeader');
+
+		// 		//galleryPhotos="{{#galleryphotos}}{{.}},{{/galleryphotos}}"
+		// 		// FIGURE OUT HOW TO BREAK THESE OUT OF AN ARRAY AND CREATE STRING (put in li's don't forget trialing comma)
+
+		// 		$('.title').text('name');
+		// 		$('.date').text('date');
+		// 		$('.timezone').prependTo('date');
+		// 		$('.learn').attr('href').text('link'); //not sure if this is how to add text into attribute GOOGLE**
+		// 		$('.watch').attr('href').text('playLink');
+		// 		$('.detail-img img').attr('src').text('url(images/mobile/'mobileHeader')');
+		// 	}
+		// }
 		
 		function detirmineInitialMovie(){
 			$('.carousel-item').each(function(){
@@ -86,6 +113,7 @@ var FNF = FNF || {};
 					return false;
 				}
 			});
+			console.log('currentDate :', currentDate);
 		}
 		
 		function selectMovie(t){
@@ -98,6 +126,8 @@ var FNF = FNF || {};
 			countToCurrent();
 			animateOver();
 			selectDetail();
+
+
 		}
 
 		function selectDetail(){
@@ -107,20 +137,23 @@ var FNF = FNF || {};
 				$('.detail' + '#' + theId).addClass('js-currentDetail');
 				// console.log(theId, 'is the carousel-item id attr');
 
-				thisDetailGalleryShowFirst();
+				// thisDetailGalleryShowFirst();
 
 			} else {
 				$('.detail' + '#' + theId).removeClass('js-currentDetail');
 			}
 		}
-		// selectDetail();
 
+		// =ARROWS
 		function arrows() {
-			// =ARROWS
+		
 			$('.js-arrow-right').click($.throttle(function(){
+				var lastCarousel = $('#' + 'carousel' + (itemNumber - 1)) //FIGURE OUT WHY THESE NEED TO BE IN CLICK FUNCTION TO WORK AND HOW TO MOVE
+				var firstCarousel = $('#' + 'carousel' + '0')
+
 				// if this is the last item, go back to first item
-				if($('.carousel-item.js-currentMovie').hasClass('js-last')) {
-					selectMovie($('.carousel-item').first());
+				if($(lastCarousel).hasClass('js-currentMovie')) {
+					selectMovie($(firstCarousel));
 				}
 				// else highlight next
 				else {
@@ -129,9 +162,12 @@ var FNF = FNF || {};
 			}, 500));
 
 			$('.js-arrow-left').click($.throttle(function(){
+				var lastCarousel = $('#' + 'carousel' + (itemNumber - 1))
+				var firstCarousel = $('#' + 'carousel' + '0')
+
 				// if this is the first item, go to the last item
-				if($('.carousel-item.js-currentMovie').hasClass('js-first')) {
-					selectMovie($('.carousel-item').last());
+				if($(firstCarousel).hasClass('js-currentMovie')) {
+					selectMovie($(lastCarousel));
 				}
 				// else highlight previous
 				else {
@@ -145,6 +181,9 @@ var FNF = FNF || {};
 		function countItems() {
 			//count the carousel items
 			itemNumber = $('.carousel-item').length;
+			
+			
+			
 		}
 
 
@@ -186,10 +225,13 @@ var FNF = FNF || {};
 
 
 		//=INNER GALLERY CAROUSEL
-		function thisDetailGalleryShowFirst(){
-			var currentDetailGallery = $('.js-currentDetail .gallery');
-			currentDetailGallery.children(':first-child').addClass('js-gallery-active');
-		}
+
+		// won't need this because js to move data into detail
+
+		// function thisDetailGalleryShowFirst(){
+		// 	var currentDetailGallery = $('.js-currentDetail .gallery');
+		// 	currentDetailGallery.children(':first-child').addClass('js-gallery-active');
+		// }
 
 		function rotateGalleryImg() {
 			var currentDetailGallery = $('.js-currentDetail .gallery');
@@ -231,14 +273,14 @@ var FNF = FNF || {};
 		/***************
 		PUBLIC - stole from brett
 		****************/
-		return {
-			init:init
-		}
-	})();
+// 		return {
+// 			init:init
+// 		}
+// 	})();
 	
-	Construct = (function(){
-		$(document).ready(function(){
-			FNF.Init.init();
-		});
-	})();
-})(jQuery,FNF);
+// 	Construct = (function(){
+// 		$(document).ready(function(){
+// 			FNF.Init.init();
+// 			console.log('FNF INIT IS RUNNING');
+// 		});
+// })(jQuery,FNF);

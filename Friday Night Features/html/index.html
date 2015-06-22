@@ -22,7 +22,7 @@
 		{{#movies}}
 			<li class="carousel-item" id="carousel{{@index}}" name="{{name}}" date="{{detaildate}}" playStart="{{playstart}}" playEnd="{{playend}}" link="{{buttonlearn}}" playLink="{{buttonwatch}}" headerPhoto="{{headerphoto}}" mobileHeader="{{mobileimg}}" galleryPhotos="{{#galleryphotos}}{{.}},{{/galleryphotos}}">
 			  <div class="carousel-shade"></div>
-			  <div class="carousel-date"></div>
+			  <div class="carousel-date">{{detaildate}}</div>
 			  <div class="carousel-title">{{name}}</div>
 			</li>
 		{{/movies}}
@@ -43,8 +43,8 @@
 	  </div>
 	  <div class="title"></div>
 	  <div class="buttons">
-		<a href="#" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
-		<a href="#" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
+		<a class="learn" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
+		<a class="watch" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
 	  </div>
 	</div>
 	<ul class="gallery">
