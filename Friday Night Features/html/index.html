@@ -20,7 +20,7 @@
 
 	<script id="json-carousel" type="text/template">
 		{{#movies}}
-			<li class="carousel-item" id="carousel{{@index}}" name="{{name}}" date="{{detaildate}}" playStart="{{playstart}}" playEnd="{{playend}}" link="{{buttonlearn}}" playLink="{{buttonwatch}}" headerPhoto="{{headerphoto}}" mobileHeader="{{mobileimg}}" galleryPhotos="{{#galleryphotos}}{{.}},{{/galleryphotos}}">
+			<li class="carousel-item" id="carousel{{@index}}">
 			  <div class="carousel-shade"></div>
 			  <div class="carousel-date">{{detaildate}}</div>
 			  <div class="carousel-title">{{name}}</div>
@@ -32,31 +32,45 @@
 </div>
 
 <div class="detail">
-  <div class="detail-background"></div>
-  <div class="detail-content">
-  	<div class="detail-img"><img></div>
-	<div class="detail-text">
-	  <div class="date"></div>
-	  <div class="time">
-		<div class="timezone">ET<br>
-		  PT</div>
+	<script type="text/template" id="json-detail">
+	  <div class="detail-background"></div>
+	  <div class="detail-content">
+	  	<div class="detail-img"><img></div>
+		<div class="detail-text">
+		  <div class="date"></div>
+		  <div class="time">
+			<div class="timezone">ET<br>
+			  PT</div>
+		  </div>
+		  <div class="title">{{name}}</div>
+		  <div class="buttons">
+			<a class="learn" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
+			<a class="watch" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
+		  </div>
+		</div>
+		<ul class="gallery">
+		
+		</ul>
 	  </div>
-	  <div class="title"></div>
-	  <div class="buttons">
-		<a class="learn" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
-		<a class="watch" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
-	  </div>
-	</div>
-	<ul class="gallery">
-	</ul>
-  </div>
+	</script>
+
+
 </div>
+
+<script type="text/template" id="json-gallery">
+	{{#galleryphotos}}
+			<li><img src="images/gallery/{{.}}" /></li>
+	{{/galleryphotos}}
+</script>
 
 
 <div id="copyrights"></div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="js/jquery.debounce-1.0.5.js"></script>
 <script src="js/handlebars-v3.0.3.js"></script>
-<script src="js/onload.js"></script>
+<script src="js/carousel.js"></script>
+<script src="js/moviegallery.js"></script>
+<script src="js/moviedetails.js"></script>
+<script src="js/controller.js"></script> <!--- THIS LAST --->
 </body>
 </html>
