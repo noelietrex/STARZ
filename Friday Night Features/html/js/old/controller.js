@@ -8,23 +8,28 @@ var FNF = FNF || {};
 		INIT
 		****************/
 		function init(){
+			//LOAD MOVIES THROUGH PLUGIN THAT LOADS JSON
 			$('#carousel-items').carousel({
 				json: "data/this.json",
 				template: '#json-carousel',
         		children: '.carousel-item',
 				onClick: onMovieClick
 			});
+
+			details = $('.detail').moviedetails({
+				template: "#json-detail"
+			});
+
+			
 		}
 		
 		/***************
 		ON MOVIECLICK
 		****************/
 		function onMovieClick(moviedata){
-			details = $('.detail').moviedetails({
-				template: "#json-detail",
-				moviedata: moviedata,
-				gallerySpeed: 3000
-			});
+			details.data("details").load(moviedata);
+
+			//WHEN MOVIE IS CLICK THEN LOAD DETAILS PLUGIN
 		}
 		
 		/***************
