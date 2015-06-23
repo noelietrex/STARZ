@@ -49,7 +49,21 @@
 		function onjsonLoaded(){
 			addClickEvent();
 			loadFirstMovie();
-			// arrows();
+			arrows();
+		}
+
+		function arrows() {
+			var last = $el.find(settings.children).length
+		
+			console.log('how many:', last); 
+			$('.js-arrow-right').click($.throttle(function(){
+				console.log('right arrow clicked');
+				// if (){
+
+				// } else {
+				// 	$el.find('.js-currentMovie').next().trigger("click");
+				// }
+			}, 500));
 		}
 
 		// function arrows(){
@@ -64,8 +78,19 @@
 		}
 
 		function loadFirstMovie(){
-			$el.find(settings.children).eq(0).trigger("click");
+			$el.find(settings.children).each(function(i){
+				var t = $(this)
+				var currentDate = new Date() // get current date
+				var itemDate = new Date(t.attr('date'))
+
+				if (currentDate < itemDate){
+					t.trigger("click");
+					return false;
+				}
+			});
 		}
+
+
 
 		function selectMovie(){
 			var t = $(this)
