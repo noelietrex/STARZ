@@ -53,25 +53,25 @@
 		}
 
 		function arrows() {
-			var last = $el.find(settings.children).length
-		
-			console.log('how many:', last); 
+			var length = $el.find(settings.children).length
+			var last = $('#' + 'carousel' + (length - 1))
+			
 			$('.js-arrow-right').click($.throttle(function(){
-				console.log('right arrow clicked');
-				// if (){
+				if ($(last).hasClass('js-currentMovie')){
+					$el.find('#carousel0').trigger("click");
+				} else {
+					$el.find('.js-currentMovie').next().trigger("click");
+				}
+			}, 500));
 
-				// } else {
-				// 	$el.find('.js-currentMovie').next().trigger("click");
-				// }
+			$('.js-arrow-left').click($.throttle(function(){
+				if ($('#carousel0').hasClass('js-currentMovie')){
+					$el.find(last).trigger("click");
+				} else {
+					$el.find('.js-currentMovie').prev().trigger("click");
+				}
 			}, 500));
 		}
-
-		// function arrows(){
-		// 	$('.js-arrow-right').click($.throttle(function(){
-		// 		console.log('right arrow clicked');
-		// 		$el.find(settings.children + 'js-currentMovie').next(selectMovie);
-		// 	}, 500));
-		// }
 
 		function addClickEvent(){
 			$el.find(settings.children).click(selectMovie)
