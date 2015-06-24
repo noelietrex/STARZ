@@ -12,7 +12,8 @@ var FNF = FNF || {};
 				json: "data/this.json",
 				template: '#json-carousel',
         		children: '.carousel-item',
-				onClick: onMovieClick
+				onClick: onMovieClick,
+				activeWidth: 376
 			});
 		}
 		

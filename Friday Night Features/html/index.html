@@ -22,7 +22,7 @@
 		{{#movies}}
 			<li class="carousel-item" id="carousel{{@index}}" headerPhoto="{{headerphoto}}" date="{{detaildate}}">
 			  <div class="carousel-shade"></div>
-			  <div class="carousel-date">{{detaildate}}</div>
+			  <div class="carousel-date">{{displaydate}}</div>
 			  <div class="carousel-title">{{name}}</div>
 			</li>
 		{{/movies}}
@@ -39,7 +39,7 @@
 	  <div class="detail-content">
 	  	<div class="detail-img"><img src="images/mobile/{{mobileimg}}"></div>
 		<div class="detail-text">
-		  <div class="date">{{detaildate}}</div>
+		  <div class="date">{{displaydate}}</div>
 		  <div class="time"> {{detailtime}}
 			<div class="timezone">ET<br>
 			  PT</div>

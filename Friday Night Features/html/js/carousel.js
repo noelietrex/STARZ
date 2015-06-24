@@ -8,6 +8,7 @@
         	children: '.children-item',
         	onLoaded: function(){},
 			onClick: function(){},
+			activeWidth: 376
     	}, options || {}) 
     	var globalVariableObject = {}
     	
@@ -49,7 +50,11 @@
 		function onjsonLoaded(){
 			addClickEvent();
 			loadFirstMovie();
+			measure();
+			center();
 			arrows();
+			windowResize();
+			$(window).resize(windowResize);
 		}
 
 		function arrows() {
@@ -90,8 +95,6 @@
 			});
 		}
 
-
-
 		function selectMovie(){
 			var t = $(this)
 
@@ -99,6 +102,57 @@
 
 			$el.find(settings.children).removeClass('js-currentMovie');
 			$(t).addClass('js-currentMovie');
+
+			move();
+		}
+
+		function measure(){
+			var x = $el.find(settings.children)
+			var carItemWidth = x.outerWidth(true);
+			// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true);
+			var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
+			var carouselNum = x.length;
+			var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
+
+			console.log('carItemWidth: ', carItemWidth);
+			console.log('activeWidth: ', settings.activeWidth);
+			console.log('countToCurrent: ', countToCurrent);
+			console.log('carouselWidth:', carouselWidth);
+
+			$el.css({'width' : carouselWidth + 'px'});
+		}
+
+		var activeWidth;
+
+		function center(){
+			var x = $el.find(settings.children)
+			var carItemWidth = x.outerWidth(true);
+			// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true); // HOW DO I MAKE THIS THE NUMBER FROM AFTER LOAD?
+			var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
+			var carouselNum = x.length;
+			var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
+			var screenWidth = $(window).width()
+			var howFar = (countToCurrent * carItemWidth) - (screenWidth / 2) + (settings.activeWidth / 2)
+
+			$el.css({'left': -howFar + 'px'});
+		}
+
+		function move(){
+			var x = $el.find(settings.children)
+			var carItemWidth = x.outerWidth(true);
+			// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true); // HOW DO I MAKE THIS THE NUMBER FROM AFTER LOAD?
+			var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
+			var carouselNum = x.length;
+			var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
+			var screenWidth = $(window).width()
+			var howFar = (countToCurrent * carItemWidth) - (screenWidth / 2) + (settings.activeWidth / 2)
+
+			$el.animate({'left': -howFar + 'px'});
+		}
+
+		function windowResize(){
+			pageWidth = $(window).width();
+			center();
 		}
 
 
@@ -116,4 +170,3 @@
 	}
     
 })(jQuery, window, document);
-

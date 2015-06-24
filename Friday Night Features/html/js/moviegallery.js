@@ -16,6 +16,9 @@
     		loadTemplate();
 	    	showFirstImg();
 	    	innerGalleryTime();
+
+	    	$(window).resize(windowResize);
+			windowResize();
     	}
     	
     	function loadTemplate(){
@@ -41,6 +44,14 @@
 		function innerGalleryTime() {
 			var interval = setInterval(rotateGalleryImg, settings.gallerySpeed);
 			$(document).data('galleryinterval', interval);
+		}
+
+		//RESPONSIVE
+		function windowResize(){
+			if ($(window).width() <= 1030){	
+				var galleryImgHeight = $el.find(settings.children).height();
+				$el.css({'height' : galleryImgHeight});
+			}
 		}
 
 	}
