@@ -5,31 +5,31 @@
 		var settings = $.extend({
 			moviedata: {},
 			template: '#thumbitem',
-        	gallery: '.gallery',
-        	gallerySpeed: 3000
+        	gallery: '.gallery'
     	}, options || {})
     	var globalVariableObject = {}
     	
     	this.el = $el;
     	this.init = function(){
     		loadTemplate();
-    		loadGallery();
+    		loadOnMobile();
     	}
+
     	function loadTemplate(){
 	    	var source = $(settings.template).html();
     		var template = Handlebars.compile(source);
 			var html = template(settings.moviedata);
+		}
 
-			$el.html(html);
+    	function loadOnMobile(){
+	    	if ($(window).width() <= 750){
+	    		$(settings.gallery).moviegallery({
+					template: '#json-gallery',
+					moviedata: settings.moviedata
+				});
+    		}
     	}
 
-    	function loadGallery(){
-    		$('.gallery').moviegallery({
-				template: '#json-gallery',
-				moviedata: settings.moviedata,
-				gallerySpeed: settings.gallerySpeed
-			});
-    	}
 	}
     
     /******************
@@ -43,4 +43,7 @@
 	}
     
 })(jQuery, window, document);
+
+
+
 

@@ -15,11 +15,6 @@
     	this.el = $el;
     	this.init = function(){
 			loadjson();
-	    	//LOAD JSON
-	    	
-	    	//ADJUST JSON TO ADD DATE FIELDS
-	    	//LOAD TEMPLATE
-	    	//ADD CLICK EVENT
     	}
 
     	function loadjson(){
@@ -79,7 +74,9 @@
 		}
 
 		function addClickEvent(){
-			$el.find(settings.children).click(selectMovie)
+			if ($(window).width() >= 750){	
+				$el.find(settings.children).click(selectMovie)
+			}
 		}
 
 		function loadFirstMovie(){
@@ -98,12 +95,14 @@
 		function selectMovie(){
 			var t = $(this)
 
-			settings.onClick.call(this, t.data('moviedata'));
+			if ($(window).width() >= 750){	
+				settings.onClick.call(this, t.data('moviedata'));
 
-			$el.find(settings.children).removeClass('js-currentMovie');
-			$(t).addClass('js-currentMovie');
+				$el.find(settings.children).removeClass('js-currentMovie');
+				$(t).addClass('js-currentMovie');
 
-			move();
+				move();
+			}
 		}
 
 		function measure(){
