@@ -2,17 +2,17 @@
 /* CSS Document */
 
 /*@font-face {
-	font-family: 'Helvetica Neue Condensed';
+	font-family: 'HelveticaNeueCondensed';
 	src: url("fonts/cond/HelveticaNeueLTStd-Cn.eot");
 	src: url("fonts/cond/HelveticaNeueLTStd-Cn.eot?#iefix") format('embedded-opentype'), url("fonts/cond/HelveticaNeueLTStd-Cn.woff") format('woff'), url("fonts/cond/HelveticaNeueLTStd-Cn.otf") format('opentype'), url("fonts/cond/HelveticaNeueLTStd-Cn.svg") format('svg');
 }
 @font-face {
-	font-family: 'Helvetica Neue Bold Condensed';
+	font-family: 'HelveticaNeueBoldCondensed';
 	src: url("fonts/cond/HelveticaNeueLTStd-BdCn.eot");
 	src: url("fonts/cond/HelveticaNeueLTStd-BdCn.eot?#iefix") format('embedded-opentype'), url("fonts/cond/HelveticaNeueLTStd-BdCn.woff") format('woff'), url("fonts/cond/HelveticaNeueLTStd-BdCn.otf") format('opentype'), url("fonts/cond/HelveticaNeueLTStd-BdCn.svg") format('svg');
 }
 @font-face {
-	font-family: 'Helvetica Neue Thin Condensed';
+	font-family: 'HelveticaNeueThinCondensed';
 	src: url("fonts/cond/HelveticaNeueLTStd-ThCn.eot");
 	src: url("fonts/cond/HelveticaNeueLTStd-ThCn.eot?#iefix") format('embedded-opentype'), url("fonts/cond/HelveticaNeueLTStd-ThCn.woff") format('woff'), url("fonts/cond/HelveticaNeueLTStd-ThCn.otf") format('opentype'), url("fonts/cond/HelveticaNeueLTStd-ThCn.svg") format('svg');
 }*/
@@ -20,7 +20,7 @@
 body,td,th {
 	font-size: 12px;
 	color: #FFFFFF;
-	font-family: 'Helvetica Neue Condensed', Helvetica, Arial, sans-serif;
+	font-family: 'HelveticaNeueCondensed', Helvetica, Arial, sans-serif;
 }
 body {
 	background-color: #000000;
@@ -124,7 +124,7 @@ body {
 .carousel-date {
 	color: #FFFFFF;
 	font-size: 11pt;
-	font-family: 'Helvetica Neue Condensed', Helvetica, Arial, sans-serif;
+	font-family: 'HelveticaNeueCondensed', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	bottom: 24px;
 	left: 10px;
@@ -134,7 +134,7 @@ body {
 .carousel-title {
 	color: #FFFFFF;
 	font-size: 15pt;
-	font-family: 'Helvetica Neue Condensed', Helvetica, Arial, sans-serif;
+	font-family: 'HelveticaNeueCondensed', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	bottom: 4px;
 	left: 10px;
@@ -180,14 +180,14 @@ body {
 .detail-text .date {
 	color: #BC5A17;
 	font-size: 34pt;
-	font-family: 'Helvetica Neue Thin Condensed', Helvetica, Arial, sans-serif;
+	font-family: 'HelveticaNeueThinCondensed', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	margin: 30px 0 6px 0;
 }
 .detail-text .time {
 	color: #BC5A17;
 	font-size: 34pt;
-	font-family: 'Helvetica Neue Thin Condensed', Helvetica, Arial, sans-serif;
+	font-family: 'HelveticaNeueThinCondensed', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	line-height: 34px;
 }
@@ -202,7 +202,7 @@ body {
 .detail-text .title {
 	color: #FFFFFF;
 	font-size: 44pt;
-	font-family: 'Helvetica Neue Bold Condensed', Helvetica, Arial, sans-serif;
+	font-family: 'HelveticaNeueBoldCondensed', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	margin-top: 30px;
 	line-height: 48px;
@@ -246,9 +246,6 @@ body {
 	z-index: 1;
 	transition: opacity 1s ease-in-out;
 }
-.detail-img {
-	display: none;
-}
 @media screen and (max-width: 1030px) {
 	.detail-content {
 		max-width: 100%;
@@ -269,42 +266,35 @@ body {
 		padding-right: 5%;
 	}
 }
+
+.detail-img {
+	display: none;
+}
+.mobileDetail {
+	display: none;
+}
+
 @media screen and (max-width: 750px) {
-	.gallery {
-		display: none;
+	.detail-img {
+		display: block;
 	}
-	#carousel {
+	.mobileDetail {
+		display: block;
+	}
+	.detail, #carousel-vignette-right, #carousel-vignette-left {
 		display: none;
 	}
 	.carousel-item {
+		height: auto;
+		clear: both;
+		background-color: transparent;
+		width: 100%;
 		opacity: 1;
-		list-style-type: none;
 	}
-	.detail {
-		visibility: visible;
-		opacity: 1;
+	#carousel {
+		height: auto;
+	}
+	#carousel-items {
 		position: relative;
-		top: initial;
-	}
-	.detail-content {
-		left: 50%;
-	}
-	.detail-background {
-		background-image: none;
-	}
-	.detail-text {
-		text-align: left;
-	}
-	.detail .date, .detail .time {
-		font-size: 36px;
-		line-height: 28px;
-	}
-	.detail-text .time .timezone {
-		font-size: 18px;
-		line-height: 15px;
-		top: initial;
-		float: none;
-		display: inline-block;
-		left: -5px;
 	}
 }
