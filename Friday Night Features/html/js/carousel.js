@@ -32,13 +32,15 @@
 		}
 
 		function addMovieData(){
-			$el.find(settings.children).each(function(i){
-				var t = $(this)
-				var bg = $(this).attr('headerPhoto')
+			if ($(window).width() >= 750){	
+				$el.find(settings.children).each(function(i){
+					var t = $(this)
+					var bg = $(this).attr('headerPhoto')
 
-				t.data("moviedata",globalVariableObject.movies[i]);
-				t.css('background-image','url(images/'+bg+')');
-			});
+					t.data("moviedata",globalVariableObject.movies[i]);
+					t.css('background-image','url(images/'+bg+')');
+				});
+			}
 		}
 
 
@@ -106,40 +108,43 @@
 		}
 
 		function measure(){
-			var x = $el.find(settings.children)
-			var carItemWidth = x.outerWidth(true);
-			// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true);
-			var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
-			var carouselNum = x.length;
-			var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
+			if ($(window).width() >= 750){	
+				var x = $el.find(settings.children)
+				var carItemWidth = x.outerWidth(true);
+				// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true);
+				var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
+				var carouselNum = x.length;
+				var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
 
-			console.log('carItemWidth: ', carItemWidth);
-			console.log('activeWidth: ', settings.activeWidth);
-			console.log('countToCurrent: ', countToCurrent);
-			console.log('carouselWidth:', carouselWidth);
+				console.log('carItemWidth: ', carItemWidth);
+				console.log('activeWidth: ', settings.activeWidth);
+				console.log('countToCurrent: ', countToCurrent);
+				console.log('carouselWidth:', carouselWidth);
 
-			$el.css({'width' : carouselWidth + 'px'});
+				$el.css({'width' : carouselWidth + 'px'});
+			}
 		}
 
 		var activeWidth;
 
 		function center(){
-			var x = $el.find(settings.children)
-			var carItemWidth = x.outerWidth(true);
-			// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true); // HOW DO I MAKE THIS THE NUMBER FROM AFTER LOAD?
-			var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
-			var carouselNum = x.length;
-			var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
-			var screenWidth = $(window).width()
-			var howFar = (countToCurrent * carItemWidth) - (screenWidth / 2) + (settings.activeWidth / 2)
+			if ($(window).width() >= 750){	
+				var x = $el.find(settings.children)
+				var carItemWidth = x.outerWidth(true);
+				// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true); // HOW DO I MAKE THIS THE NUMBER FROM AFTER LOAD?
+				var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
+				var carouselNum = x.length;
+				var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
+				var screenWidth = $(window).width()
+				var howFar = (countToCurrent * carItemWidth) - (screenWidth / 2) + (settings.activeWidth / 2)
 
-			$el.css({'left': -howFar + 'px'});
+				$el.css({'left': -howFar + 'px'});
+			}
 		}
 
 		function move(){
 			var x = $el.find(settings.children)
 			var carItemWidth = x.outerWidth(true);
-			// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true); // HOW DO I MAKE THIS THE NUMBER FROM AFTER LOAD?
 			var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
 			var carouselNum = x.length;
 			var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
@@ -153,6 +158,28 @@
 			pageWidth = $(window).width();
 			center();
 		}
+
+
+
+		// clean this up a bit later - grabbed from stack overflow
+		var ww = $(window).width();
+		var limit = 750;
+
+		function refresh() {
+		   ww = $(window).width();
+		   var w =  ww<limit ? (location.reload(true)) :  ( ww>limit ? (location.reload(true)) : ww=limit );
+		}
+
+		var tOut;
+		$(window).resize(function() {
+		    var resW = $(window).width();
+		    clearTimeout(tOut);
+		    if ( (ww>limit && resW<limit) || (ww<limit && resW>limit) ) {        
+		        tOut = setTimeout(refresh, 0);
+		    }
+		});
+
+
 
 
 	}
