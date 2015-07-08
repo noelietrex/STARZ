@@ -19,6 +19,7 @@
 
 	    	$(window).resize(windowResize);
 			windowResize();
+			backgroundImg();
     	}
     	
     	function loadTemplate(){
@@ -45,8 +46,9 @@
 			var curr = $el.find(settings.children).first().find('img')
 			var currImg = $(curr).attr('src')
 
-			$('.detail-background').css({'background-image' : 'url(' + currImg + ')'});
-
+			$('.detail-background').css({'background-image' : 'url(' + currImg + ')', 'webkit-transition' : 'opacity 10s ease-in-out', '-moz-transition' : 'opacity 10s ease-in-out', '-o-transition' : 'opacity 10s ease-in-out', 'transition' : 'opacity 10s ease-in-out'});
+			//GET THIS TO CROSSFADE
+			
 			console.log(currImg);
 		}
 
