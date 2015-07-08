@@ -16,6 +16,7 @@
     		loadTemplate();
 	    	showFirstImg();
 	    	innerGalleryTime();
+	    	backgroundImg();
 
 	    	$(window).resize(windowResize);
 			windowResize();
@@ -23,7 +24,7 @@
     	
     	function loadTemplate(){
 	    	clearInterval( $(document).data('galleryinterval') );
-	    	var source = $(settings.template).html();
+	    	var source = $(settings.template).html()
     		var template = Handlebars.compile(source)
 			var html = template(settings.moviedata)
 
@@ -37,6 +38,13 @@
     	function rotateGalleryImg() {
 	    	$(settings.children + '.js-gallery-active').appendTo($el).removeClass('js-gallery-active');
 			$el.find(settings.children).first().addClass('js-gallery-active');
+		}
+
+		function backgroundImg() {
+			var curr = $(settings.children + '.js-gallery-active')
+			var currImg = $(curr > 'img')
+
+			$el.css({'background-image' : currImg});
 		}
 
 

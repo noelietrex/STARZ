@@ -10,7 +10,8 @@
 		"galleryphotos": ["fury1.jpg", "fury2.jpg", "fury3.jpg"],
 		"mobileimg": "mobile-fury.jpg",
 		"buttonlearn": "http://www.starz.com/movies/titles/fury/22342",
-		"buttonwatch": "http://www.starz.com/movies/titles/fury/22342"
+		"buttonwatch": "http://www.starz.com/movies/titles/fury/22342",
+		"copyright": "Fury &copy; 2015 Columbia Pictures Industries, Inc."
 	},{
 		"name": "The Rewrite",
 		"playstart": "July 17 2015",
@@ -22,7 +23,8 @@
 		"galleryphotos": ["rewrite1.jpg", "rewrite2.jpg", "rewrite3.jpg"],
 		"mobileimg": "mobile-rewrite.jpg",
 		"buttonlearn": "http://www.starz.com/movies/titles/rewritethe/23837",
-		"buttonwatch": "http://www.starz.com/movies/titles/rewritethe/23837"
+		"buttonwatch": "http://www.starz.com/movies/titles/rewritethe/23837",
+		"copyright": "The Rewrite &copy; 2015"
 	},{
 		"name": "Big Hero 6",
 		"playstart": "July 24 2015",
@@ -34,7 +36,8 @@
 		"galleryphotos": ["big-hero1.jpg", "big-hero2.jpg", "big-hero3.jpg"],
 		"mobileimg": "mobile-big-hero.jpg",
 		"buttonlearn": "http://www.starz.com/movies/titles/bighero6/23790",
-		"buttonwatch": "http://www.starz.com/movies/titles/bighero6/23790"
+		"buttonwatch": "http://www.starz.com/movies/titles/bighero6/23790",
+		"copyright": "Big Hero 6 &copy; Disney Enterprises, Inc. All Rights Reserved."
 	},{
 		"name": "Foxcatcher",
 		"playstart": "July 31 2015",
@@ -46,6 +49,7 @@
 		"galleryphotos": ["foxcatcher1.jpg", "foxcatcher2.jpg", "foxcatcher3.jpg"],
 		"mobileimg": "mobile-foxcatcher.jpg",
 		"buttonlearn": "http://www.starz.com/movies/titles/foxcatcher/22796",
-		"buttonwatch": "http://www.starz.com/movies/titles/foxcatcher/22796"
+		"buttonwatch": "http://www.starz.com/movies/titles/foxcatcher/22796",
+		"copyright": "Foxcatcher &copy; 2013 Fair Hill LLC. All Rights Reserved."
 	}]
 }

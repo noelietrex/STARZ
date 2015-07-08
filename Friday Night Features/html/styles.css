@@ -214,10 +214,6 @@ body {
 	margin-top: 10px;
 	margin-bottom: 0px;
 }
-/*.detail {
-	visibility: hidden;
-	opacity: 0;
-}*/
 .detail.js-currentDetail {
 	visibility: visible;
 	opacity: 1;
@@ -239,7 +235,12 @@ body {
 .gallery li {
 	opacity: 0;
 	z-index: 0;
+	display: block;
 	transition: opacity 1s ease-in-out;
+}
+.gallery li img {
+	display: block;
+	float: left;
 }
 .gallery li.js-gallery-active {
 	opacity: 1;
