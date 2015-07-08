@@ -116,10 +116,10 @@
 				var carouselNum = x.length;
 				var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
 
-				console.log('carItemWidth: ', carItemWidth);
-				console.log('activeWidth: ', settings.activeWidth);
-				console.log('countToCurrent: ', countToCurrent);
-				console.log('carouselWidth:', carouselWidth);
+				// console.log('carItemWidth: ', carItemWidth);
+				// console.log('activeWidth: ', settings.activeWidth);
+				// console.log('countToCurrent: ', countToCurrent);
+				// console.log('carouselWidth:', carouselWidth);
 
 				$el.css({'width' : carouselWidth + 'px'});
 			}

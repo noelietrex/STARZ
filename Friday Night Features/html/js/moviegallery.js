@@ -16,7 +16,6 @@
     		loadTemplate();
 	    	showFirstImg();
 	    	innerGalleryTime();
-	    	backgroundImg();
 
 	    	$(window).resize(windowResize);
 			windowResize();
@@ -38,13 +37,17 @@
     	function rotateGalleryImg() {
 	    	$(settings.children + '.js-gallery-active').appendTo($el).removeClass('js-gallery-active');
 			$el.find(settings.children).first().addClass('js-gallery-active');
+
+			backgroundImg();
 		}
 
 		function backgroundImg() {
-			var curr = $(settings.children + '.js-gallery-active')
-			var currImg = $(curr > 'img')
+			var curr = $el.find(settings.children).first().find('img')
+			var currImg = $(curr).attr('src')
 
-			$el.css({'background-image' : currImg});
+			$('.detail-background').css({'background-image' : 'url(' + currImg + ')'});
+
+			console.log(currImg);
 		}
 
 
@@ -58,7 +61,7 @@
 		function windowResize(){
 			if ($(window).width() <= 1030){	
 				var galleryImgHeight = $el.find(settings.children).height();
-				$el.css({'height' : galleryImgHeight});
+				$.css({'height' : galleryImgHeight});
 			}
 		}
 
