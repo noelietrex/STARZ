@@ -80,11 +80,23 @@
 </script>
 
 
-<div id="copyrights"></div>
+<div id="copyrights">
+</div>
+
+<script id="json-copyright" type="text/template">
+	<p>
+		{{#movies}}
+			{{copyright}}
+		{{/movies}}
+	</p>
+</script>
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="js/jquery.debounce-1.0.5.js"></script>
 <script src="js/handlebars-v3.0.3.js"></script>
 <script src="js/carousel.js"></script>
+<script src="js/copyright.js"></script>
 <script src="js/moviegallery.js"></script>
 <script src="js/moviedetails.js"></script>
 <script src="js/controller.js"></script> <!--- THIS LAST --->

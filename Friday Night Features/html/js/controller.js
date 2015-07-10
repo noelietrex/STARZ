@@ -15,6 +15,12 @@ var FNF = FNF || {};
 				onClick: onMovieClick,
 				activeWidth: 376
 			});
+
+			$('#copyrights').copy({
+				json: "data/this.json",
+				template: '#json-copyright',
+        		children: 'p'
+			});
 		}
 		
 		/***************
