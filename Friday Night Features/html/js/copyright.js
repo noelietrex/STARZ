@@ -26,10 +26,17 @@
 				var html = template(data)
 
 				$el.html(html);
-				addMovieData();
-				onjsonLoaded();
+				// addMovieData();
+				// onjsonLoaded();
 			});
 		}
+
+		function replaceAscii(){
+			$('#copyright p').replace( /&/g, '&amp;' );
+			$('.copyright').replace( /&/g, '&amp;' );
+		}
+
+		// var encoded = $('#copyright').replace( /&/g, '&amp;' );
 	}
 
     /******************

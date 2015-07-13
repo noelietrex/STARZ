@@ -39,6 +39,7 @@
 							<a href="{{buttonlearn}}" target="_blank" class="learn" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
 							<a href="{{buttonwatch}}" target="_blank" class="watch" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
 						</div>
+						<div class="copyright">{{copyright}}</div>
 					</div>
 				</div>
 
@@ -75,7 +76,7 @@
 
 <script type="text/template" id="json-gallery">
 	{{#galleryphotos}}
-			<li><img src="images/gallery/{{.}}" /></li>
+		<li><img src="images/gallery/{{.}}" /></li>
 	{{/galleryphotos}}
 </script>
 
@@ -86,7 +87,7 @@
 <script id="json-copyright" type="text/template">
 	<p>
 		{{#movies}}
-			{{copyright}}
+			{{{copyright}}}
 		{{/movies}}
 	</p>
 </script>

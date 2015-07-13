@@ -133,7 +133,7 @@ body {
 }
 .carousel-title {
 	color: #FFFFFF;
-	font-size: 15pt;
+	font-size: 14pt;
 	font-family: 'HelveticaNeueCondensed', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	bottom: 4px;
@@ -146,11 +146,9 @@ body {
 	height: 420px;
 	position: absolute;
 	top: 362px;
-/*	background-image: url(images/bar.png);
-*/}
+}
 .detail-background {
-/*	background-image: url(images/gallery_calling_1.jpg);
-*/	background-size: cover;
+	background-size: cover;
 	opacity: 0.15;
 	width: 100%;
 	height: 100%;
@@ -160,10 +158,6 @@ body {
 	-o-filter: blur(5px);
 	-ms-filter: blur(5px);
 	filter: blur(5px);
-	webkit-transition: opacity 1s ease-in-out;
-  	-moz-transition: opacity 1s ease-in-out;
-  	-o-transition: opacity 1s ease-in-out;
-  	transition: opacity 1s ease-in-out;
 }
 .detail-content {
 	width: 1026px;
@@ -205,7 +199,7 @@ body {
 }
 .detail-text .title {
 	color: #FFFFFF;
-	font-size: 44pt;
+	font-size: 42px;
 	font-family: 'HelveticaNeueBoldCondensed', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	margin-top: 30px;
@@ -279,6 +273,12 @@ body {
 	display: none;
 }
 
+#copyrights {
+	position: absolute;
+	top: 1000px;
+	height: auto;
+}
+
 @media screen and (max-width: 750px) {
 	.detail-text {
 		max-width: inherit;
@@ -340,9 +340,16 @@ body {
 	#carousel-items {
 		position: relative;
 	}
+	#copyrights {
+		display: none;
+	}
 }
 
 @media screen and (max-width: 630px) {
+	#carousel {
+		position: relative;
+		overflow: visible;
+	}
 	.detail-img {
 	  height: auto;
 	  max-width: 38%;
@@ -355,23 +362,36 @@ body {
 	}
 	.detail-text {
 		max-width: 56%;
+		height: auto;
+	}
+	.detail-text .time {
+		font-size: 24px;
+		line-height: 32px;
+		height: 24px;
 	}
 	.detail-text .date {
-		font-size: 30px;
-		line-height: 25px;
+		font-size: 18px;
+		line-height: 10px;
 		margin-top: 15px;
 	}
 	.detail-text .title {
-		font-size: 32px;
-		line-height: 32px;
-		margin-top: 2px;
+		font-size: 30px;
+		line-height: 27px;
+		margin: 0;
+		clear: both;
+	}
+	.detail-text .time .timezone {
+		font-size: 11px;
+		line-height: 10px;
+		top: 3px;
+		margin-left: 1px;
 	}
 	.detail-text .buttons {
 		margin-top: 0;
 	}
 	.detail-text .buttons a img {
 		margin-top: 0;
-		max-width: 95%;
+		max-width: 75%;
 		height: auto;
 	}
 }
