@@ -118,15 +118,9 @@
 			if ($(window).width() >= 750){	
 				var x = $el.find(settings.children)
 				var carItemWidth = x.outerWidth(true);
-				// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true);
 				var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
 				var carouselNum = x.length;
 				var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
-
-				// console.log('carItemWidth: ', carItemWidth);
-				// console.log('activeWidth: ', settings.activeWidth);
-				// console.log('countToCurrent: ', countToCurrent);
-				// console.log('carouselWidth:', carouselWidth);
 
 				$el.css({'width' : carouselWidth + 'px'});
 			}
@@ -138,7 +132,6 @@
 			if ($(window).width() >= 750){	
 				var x = $el.find(settings.children)
 				var carItemWidth = x.outerWidth(true);
-				// var activeWidth = $el.find(settings.children + '.js-currentMovie').outerWidth(true); // HOW DO I MAKE THIS THE NUMBER FROM AFTER LOAD?
 				var countToCurrent = $el.find(settings.children + '.js-currentMovie').prevAll().length;
 				var carouselNum = x.length;
 				var carouselWidth = ((carouselNum - 1) * carItemWidth) + settings.activeWidth
