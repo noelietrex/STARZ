@@ -30,7 +30,7 @@ var FNF = FNF || {};
 			details = $('.detail').moviedetails({
 				template: "#json-detail",
 				moviedata: moviedata,
-				gallerySpeed: 3000
+				gallerySpeed: 5000
 			});
 		}
 		

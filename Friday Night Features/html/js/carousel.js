@@ -91,6 +91,13 @@
 					t.trigger("click");
 					return false;
 				}
+				if ($(window).width() <= 750){
+					if (currentDate <= itemDate){
+						t.css({'display' : 'block'});
+					} else {
+						t.css({'display' : 'none'});
+					}
+				}
 			});
 		}
 

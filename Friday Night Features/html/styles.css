@@ -279,6 +279,66 @@ body {
 	height: auto;
 }
 
+#copyrights p {
+	color: grey;
+	font-size: 9px;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+.copyright {
+	color: grey;
+	font-size: 9px;
+}
+
+.play-ad-button {
+	position: absolute;
+	right: 3%;
+	top: 55px;
+}
+
+.play-ad-button:hover {
+	cursor: pointer;
+}
+
+.close-modal {
+	position: absolute;
+	right: 5%;
+	top: 5%;
+}
+
+.close-modal:hover {
+	cursor: pointer;
+}
+
+.modal {
+	display: none;
+	visibility: hidden;
+	opacity: 0;
+	background-color: rgba(0,0,0,0.85);
+	z-index: 999;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	padding-top: 15%;
+	-webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+}
+
+.modal.js-active-modal {
+	display: block;
+	visibility: visible;
+	opacity: 1;
+	-webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+}
+
 @media screen and (max-width: 750px) {
 	.detail-text {
 		max-width: inherit;
@@ -346,9 +406,15 @@ body {
 }
 
 @media screen and (max-width: 630px) {
+	.play-ad-button {
+		display: none;
+	}
 	#carousel {
 		position: relative;
 		overflow: visible;
+	}
+	.copyright {
+		margin-top: 5px;
 	}
 	.detail-img {
 	  height: auto;

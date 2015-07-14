@@ -8,6 +8,11 @@
 
 <body>
 <div id="header"><img src="images/logo.png" width="231" height="80" alt="Friday Night Features"/></div>
+
+<div class="play-ad-button">
+	<img src="images/play-ad.png" width="145" height="40" alt=""/>
+</div>
+
 <div id="carousel">
   <div id="carousel-vignette-left">
 	<img class="js-arrow-left arrow-left" src="images/arrow_left.png" width="20" height="39" alt=""/>
@@ -39,7 +44,7 @@
 							<a href="{{buttonlearn}}" target="_blank" class="learn" border="0"><img src="images/button_learnMore.png" width="205" height="40" alt="Learn More"/></a>
 							<a href="{{buttonwatch}}" target="_blank" class="watch" border="0"><img src="images/button_watchNow.png" width="205" height="40" alt="Watch Now"/></a>
 						</div>
-						<div class="copyright">{{copyright}}</div>
+						<div class="copyright">{{{copyright}}}</div>
 					</div>
 				</div>
 
@@ -80,6 +85,13 @@
 	{{/galleryphotos}}
 </script>
 
+<div class="modal">
+	<div class="close-modal">
+		<img src="images/close.png" width="39" height="39" alt=""/>
+	</div>
+	<iframe src='http://www.starz.com/videos/embed/938bcca0c62944ca891e298a960129d3?footer=false' width='600px' height='340px' frameborder='0'></iframe>
+</div>
+
 
 <div id="copyrights">
 </div>
@@ -96,6 +108,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="js/jquery.debounce-1.0.5.js"></script>
 <script src="js/handlebars-v3.0.3.js"></script>
+<script src="js/modal.js"></script>
 <script src="js/carousel.js"></script>
 <script src="js/copyright.js"></script>
 <script src="js/moviegallery.js"></script>
