@@ -47,7 +47,6 @@
 			var currImg = $(curr).attr('src')
 
 			$('.detail-background').hide().css({'background-image' : 'url(' + currImg + ')'}).fadeIn(1000);
-			//GET THIS TO CROSSFADE
 			
 			console.log(currImg);
 		}
@@ -61,7 +60,7 @@
 
 		//RESPONSIVE
 		function windowResize(){
-			if ($(window).width() <= 1030){	
+			if ($(window).width() <= 750){	
 				var galleryImgHeight = $el.find(settings.children).height();
 				$.css({'height' : galleryImgHeight});
 			}

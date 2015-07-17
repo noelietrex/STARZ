@@ -177,7 +177,6 @@ $(document).ready(function(){
 		}
 
 		function measureCarousel() {
-			// *** DO ALLLLLLL EACH ITEMS THAT NEED TO HAPPEN INSIDE THE SAME EACH STATEMENT ***
 			$('.carousel-item').each(function() {
 				//measure the width of each item
 				itemWidth = $(this).outerWidth(true);
@@ -207,16 +206,6 @@ $(document).ready(function(){
 			$('.carousel-item').animate({'left' : -thisFar + 'px'});
 		}
 
-
-		//=INNER GALLERY CAROUSEL
-
-		// won't need this because js to move data into detail
-
-		// function thisDetailGalleryShowFirst(){
-		// 	var currentDetailGallery = $('.js-currentDetail .gallery');
-		// 	currentDetailGallery.children(':first-child').addClass('js-gallery-active');
-		// }
-
 		function rotateGalleryImg() {
 			var currentDetailGallery = $('.js-currentDetail .gallery');
 			$('.js-currentDetail .gallery > li.js-gallery-active').appendTo(currentDetailGallery).removeClass('js-gallery-active');
@@ -232,7 +221,7 @@ $(document).ready(function(){
 
 	// RESPONSIVE THINGS
 	function galleryHeight() {
-		if ($(window).width() <= 1030){	
+		if ($(window).width() <= 750){	
 			var galleryImgHeight = $('.gallery > li > img').height();
 			// make ul.gallery the height of dynamic height li img
 			$('ul.gallery').css({'height' : galleryImgHeight});

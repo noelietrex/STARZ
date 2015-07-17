@@ -359,7 +359,7 @@ body {
 
 @media screen and (max-width: 750px) {
 	.detail-text {
-		max-width: inherit;
+		max-width: 50%;
 		width: inherit;
 		height: auto;
 		padding: 0;
@@ -390,6 +390,9 @@ body {
 	}
 	.detail-text .title {
 		font-size: 40px;
+	}
+	.detail-text .buttons {
+		margin-top: 0;
 	}
 	.mobileDetail {
 		display: block;
