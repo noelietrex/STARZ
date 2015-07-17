@@ -47,8 +47,6 @@
 			var currImg = $(curr).attr('src')
 
 			$('.detail-background').hide().css({'background-image' : 'url(' + currImg + ')'}).fadeIn(1000);
-			
-			console.log(currImg);
 		}
 
 

@@ -87,7 +87,7 @@
 				var currentDate = new Date() // get current date
 				var itemDate = new Date(t.attr('date'))
 
-				if (currentDate < itemDate){
+				if (currentDate <= itemDate){
 					t.trigger("click");
 					return false;
 				}
@@ -98,6 +98,8 @@
 						t.css({'display' : 'none'});
 					}
 				}
+				console.log(currentDate);
+				console.log(itemDate);
 			});
 		}
 
