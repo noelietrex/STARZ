@@ -17,10 +17,17 @@
 	src: url("fonts/cond/HelveticaNeueLTStd-ThCn.eot?#iefix") format('embedded-opentype'), url("fonts/cond/HelveticaNeueLTStd-ThCn.woff") format('woff'), url("fonts/cond/HelveticaNeueLTStd-ThCn.otf") format('opentype'), url("fonts/cond/HelveticaNeueLTStd-ThCn.svg") format('svg');
 }
 
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: none;
+}
+
 html {
-	max-height: 900px;
-	height: 900px;
-	overflow-y: scroll;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
 }
 body,td,th {
 	font-size: 12px;
@@ -32,13 +39,9 @@ body {
 	background-image: url(images/background.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% auto;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	max-height: 900px;
-	height: 900px;
-	overflow-y: scroll;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
 }
 #header {
 	height: 80px;
@@ -421,6 +424,9 @@ body {
 }
 
 @media screen and (max-width: 630px) {
+	html, body {
+		overflow-y: scroll;
+	}
 	.play-ad-button {
 		display: none;
 	}
