@@ -273,6 +273,19 @@
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:a7516ff7-149c-4c41-b9a8-3a257c89329f",
 		"copyright": "Foxcatcher &copy; 2013 Fair Hill LLC. All Rights Reserved."
 	},{
+		"name": "Playing It Cool",
+		"playstart": "August 1 2015",
+		"playend": " ",
+		"detaildate": "August 7 2015 23:59:59",
+		"displaydate": "August 7",
+		"detailtime": "9pm",
+		"headerphoto": "header-playing-it-cool.jpg",
+		"galleryphotos": ["playing-it-cool1.jpg", "playing-it-cool2.jpg", "playing-it-cool3.jpg"],
+		"mobileimg": "mobile-playing-it-cool.jpg",
+		"buttonlearn": "http://www.starz.com/movies/titles/playingitcool/24017",
+		"buttonwatch": " ",
+		"copyright": "Playing It Cool &copy; 2014 Slintered, LLC. All Rights Reserved"
+	},{
 		"name": "Annie",
 		"playstart": "July 15 2015",
 		"playend": " ",
@@ -286,6 +299,19 @@
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:3958b7fc-b57a-46be-a74a-9c7541fa389a",
 		"copyright": "Annie &copy; 2015 Columbia Pictures Industries, Inc. All Rights Reserved. Annie and Related Characters and Elements: TM &amp; &copyright 2015 Tribune Content Agency Inc."
 	},{
+		"name": "The Wedding Ringer",
+		"playstart": "August 1 2015",
+		"playend": " ",
+		"detaildate": "August 21 2015 23:59:59",
+		"displaydate": "August 21",
+		"detailtime": "9pm",
+		"headerphoto": "header-wedding-ringer.jpg",
+		"galleryphotos": ["wedding-ringer1.jpg", "wedding-ringer2.jpg", "wedding-ringer3.jpg"],
+		"mobileimg": "mobile-wedding-ringer.jpg",
+		"buttonlearn": "http://www.starz.com/movies/titles/weddingringerthe/22895",
+		"buttonwatch": " ",
+		"copyright": "The Wedding Ringer &copy; 2014 Screen Gems, Inc. and LSC Film Corporation. All Rights Reserved"
+	},{
 		"name": "The Equalizer",
 		"playstart": "May 22 2015",
 		"playend": "September 28 2016",
@@ -298,5 +324,18 @@
 		"buttonlearn": "http://www.starz.com/movies/titles/theequalizer/22163",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:e34e3720-6b61-422c-a648-5d8d462c2a49",
 		"copyright": "The Equalizer &copy; 2014 Columbia Pictures Industries, Inc. LSC Film Corporation and Village Roadshow Films North America Inc./ Village Roadshow Films (BVI) Limited. All Rights Reserved."
+	},{
+		"name": "Home Sweet Hell",
+		"playstart": " ",
+		"playend": " ",
+		"detaildate": "September 4 23:59:59",
+		"displaydate": "September 4",
+		"detailtime": "9pm",
+		"headerphoto": "header-home-sweet-hell.jpg",
+		"galleryphotos": ["home-sweet-hell1.jpg", "home-sweet-hell2.jpg", "home-sweet-hell3.jpg"],
+		"mobileimg": "mobile-home-sweet-hell.jpg",
+		"buttonlearn": "http://www.starz.com/movies/titles/northofhell/24153",
+		"buttonwatch": " ",
+		"copyright": "Home Sweet Hell &copy; 2015"
 	}]
 }
