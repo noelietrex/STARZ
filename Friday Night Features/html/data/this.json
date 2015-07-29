@@ -9,7 +9,7 @@
 		"headerphoto": "header-maleficent.jpg",
 		"galleryphotos": ["maleficent1.jpg", "maleficent2.jpg", "maleficent3.jpg"],
 		"mobileimg": "mobile-maleficent.jpg",
-		"buttonlearn": "http://www.starz.com/schedule/titles/maleficent/23191",
+		"buttonlearn": "hhttp://www.starz.com/movies/detail/maleficent3",
 		"buttonwatch": "http://www.starzplay.com/Movies/Details/23191",
 		"copyright": "Maleficent &copy; Disney Enterprises, Inc."
 	},{
@@ -22,8 +22,8 @@
 		"headerphoto": "header-third-person.jpg",
 		"galleryphotos": ["third-person1.jpg", "third-person2.jpg", "third-person3.jpg"],
 		"mobileimg": "mobile-third-person.jpg",
-		"buttonlearn": "http://www.starz.com/schedule/titles/thirdperson/22894",
-		"buttonwatch": "http://www.starzplay.com/Movies/Details/22894",
+		"buttonlearn": "http://www.starz.com/movies/detail/third-person2",
+		"buttonwatch": "http://www.starzplay.com/Movies/Details/22894	",
 		"copyright": "Third Person &copy; 2015"
 	},{
 		"name": "Sex Tape",
@@ -35,7 +35,7 @@
 		"headerphoto": "header-sex-tape.jpg",
 		"galleryphotos": ["sex-tape1.jpg", "sex-tape2.jpg", "sex-tape3.jpg"],
 		"mobileimg": "mobile-sex-tape.jpg",
-		"buttonlearn": "http://www.starz.com/schedule/titles/sextape/21798",
+		"buttonlearn": "http://www.starz.com/movies/detail/sex-tape",
 		"buttonwatch": "http://www.starzplay.com/Movies/Details/21798",
 		"copyright": "Sex Tape &copy; 2014 Columbia Pictures Industries, Inc."
 	},{
@@ -48,7 +48,7 @@
 		"headerphoto": "header-captain-america-winter.jpg",
 		"galleryphotos": ["captain-america-winter1.jpg", "captain-america-winter2.jpg", "captain-america-winter3.jpg"],
 		"mobileimg": "mobile-captain-america-winter.jpg",
-		"buttonlearn": "http://www.starz.com/schedule/titles/captainamericathewintersoldier/22763",
+		"buttonlearn": "http://www.starz.com/movies/detail/captain-america-the-winter-soldier",
 		"buttonwatch": "http://www.starzplay.com/Movies/Details/22763",
 		"copyright": "Captain America: The Winter Soilder &copy; Marvel. All Rights Reserved."
 	},{
@@ -61,7 +61,7 @@
 		"headerphoto": "header-22-jump-street.jpg",
 		"galleryphotos": ["22-jump-street1.jpg", "22-jump-street2.jpg", "22-jump-street3.jpg"],
 		"mobileimg": "mobile-22-jump-street.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/21jumpstreet2/21453",
+		"buttonlearn": "http://www.starz.com/movies/detail/22-jump-street",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:887116d6-8085-4b6c-8fa4-ffa8d9c2adcd",
 		"copyright": "22 Jump Street &copy; 2014 Columbia Pictures Industries, Inc."
 	},{
@@ -74,7 +74,7 @@
 		"headerphoto": "header-are-you-here.jpg",
 		"galleryphotos": ["are-you-here1.jpg", "are-you-here2.jpg", "are-you-here3.jpg"],
 		"mobileimg": "mobile-are-you-here.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/areyouhere/23351",
+		"buttonlearn": "http://www.starz.com/movies/detail/are-you-here",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:f5004e1f-f961-4c10-b84b-e2f126365413",
 		"copyright": "Are You Here &copy; 2013 Millennium Entertainment"
 	},{
@@ -87,7 +87,7 @@
 		"headerphoto": "header-planes-fire-rescue.jpg",
 		"galleryphotos": ["planes-fire-rescue1.jpg", "planes-fire-rescue2.jpg", "planes-fire-rescue3.jpg"],
 		"mobileimg": "mobile-planes-fire-rescue.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/planesfireandrescue/23192",
+		"buttonlearn": "http://www.starz.com/movies/detail/planes-fire-and-rescue",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:61acef64-0598-43c6-b6a0-d4ea07859179",
 		"copyright": "Planes: Fire and Rescue &copy; 2015"
 	},{
@@ -100,7 +100,7 @@
 		"headerphoto": "header-about-alex.jpg",
 		"galleryphotos": ["about-alex1.jpg", "about-alex2.jpg", "about-alex3.jpg"],
 		"mobileimg": "mobile-about-alex.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/aboutalex/22650",
+		"buttonlearn": "http://www.starz.com/movies/detail/about-alex",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:95b2a698-654d-441c-bbc2-5b9daf28d296",
 		"copyright": "About Alex &copy; 2015"
 	},{
@@ -113,7 +113,7 @@
 		"headerphoto": "header-magic-moonlight.jpg",
 		"galleryphotos": ["magic-moonlight1.jpg", "magic-moonlight2.jpg", "magic-moonlight3.jpg"],
 		"mobileimg": "mobile-magic-moonlight.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/magicinthemoonlight/23403",
+		"buttonlearn": "http://www.starz.com/movies/detail/magic-in-the-moonlight",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:387c79f0-8175-48f2-bbb6-1b6c290f8879",
 		"copyright": "Magic in the Moonlight &copy; 2015"
 	},{
@@ -126,7 +126,7 @@
 		"headerphoto": "header-game-stands-tall.jpg",
 		"galleryphotos": ["game-stands-tall1.jpg", "game-stands-tall2.jpg", "game-stands-tall3.jpg"],
 		"mobileimg": "mobile-game-stands-tall.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/whenthegamestandstall/23363",
+		"buttonlearn": "http://www.starz.com/movies/detail/when-the-game-stands-tall",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:9911e9bf-afc0-4683-833f-208a01b3d463",
 		"copyright": "When the Game Stands Tall &copy; 2015"
 	},{
@@ -139,7 +139,7 @@
 		"headerphoto": "header-kite.jpg",
 		"galleryphotos": ["kite1.jpg", "kite2.jpg", "kite3.jpg"],
 		"mobileimg": "mobile-kite.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/kite/23421",
+		"buttonlearn": "http://www.starz.com/movies/detail/kite",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:924013b7-493a-4ea4-8312-9677a6c536ce",
 		"copyright": "Kite &copy; 2015"
 	},{
@@ -152,7 +152,7 @@
 		"headerphoto": "header-22-jump-street.jpg",
 		"galleryphotos": ["22-jump-street1.jpg", "22-jump-street2.jpg", "22-jump-street3.jpg"],
 		"mobileimg": "mobile-22-jump-street.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/21jumpstreet2/21453",
+		"buttonlearn": "http://www.starz.com/movies/detail/22-jump-street",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:887116d6-8085-4b6c-8fa4-ffa8d9c2adcd",
 		"copyright": "22 Jump Street &copy; 2014 Columbia Pictures Industries, Inc."
 	},{
@@ -165,7 +165,7 @@
 		"headerphoto": "header-equalizer.jpg",
 		"galleryphotos": ["equalizer1.jpg", "equalizer2.jpg", "equalizer3.jpg"],
 		"mobileimg": "mobile-equalizer.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/theequalizer/22163",
+		"buttonlearn": "http://www.starz.com/movies/detail/the-equalizer",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:e34e3720-6b61-422c-a648-5d8d462c2a49",
 		"copyright": "The Equalizer &copy; 2014 Columbia Pictures Industries, Inc. LSC Film Corporation and Village Roadshow Films North America Inc./ Village Roadshow Films (BVI) Limited. All Rights Reserved."
 	},{
@@ -178,7 +178,7 @@
 		"headerphoto": "header-no-good-deed.jpg",
 		"galleryphotos": ["no-good-deed1.jpg", "no-good-deed2.jpg", "no-good-deed3.jpg"],
 		"mobileimg": "mobile-no-good-deed.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/nogooddeed/22728",
+		"buttonlearn": "http://www.starz.com/movies/detail/no-good-deed",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:bbbac0db-5453-4654-93fd-d15818bda546",
 		"copyright": "No Good Deed &copy; 2014 Screen Gems, Inc. All Rights Reserved."
 	},{
@@ -191,7 +191,7 @@
 		"headerphoto": "header-whiplash.jpg",
 		"galleryphotos": ["whiplash1.jpg", "whiplash2.jpg", "whiplash3.jpg"],
 		"mobileimg": "mobile-whiplash.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/whiplash/23791",
+		"buttonlearn": "http://www.starz.com/movies/detail/whiplash",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:090efccd-cc34-4860-8527-70a048e97aa7",
 		"copyright": "Whiplash &copy; 2013 Wiplash, LLC. All Rights Reserved."
 	},{
@@ -204,7 +204,7 @@
 		"headerphoto": "header-alexander.jpg",
 		"galleryphotos": ["alexander1.jpg", "alexander2.jpg", "alexander3.jpg"],
 		"mobileimg": "mobile-alexander.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/alexanderandtheterriblehorriblenogoodverybadday/23631",
+		"buttonlearn": "http://www.starz.com/movies/detail/alexander-and-the-terrible-horrible-no-good-very-bad-day",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:7c8c8dbb-acba-439a-ad44-19e62464b1a1",
 		"copyright": "Alexander And The Terrible Horrible No Good Very Bad Day &copy; Disney Enterprises Inc. All Rights Reserved."
 	},{
@@ -217,8 +217,8 @@
 		"headerphoto": "header-guardians.jpg",
 		"galleryphotos": ["guardians1.jpg", "guardians2.jpg", "guardians3.jpg"],
 		"mobileimg": "mobile-guardians.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/fury/22342",
-		"buttonwatch": "http://www.starz.com/movies/titles/fury/22342",
+		"buttonlearn": "http://www.starz.com/movies/detail/guardians-of-the-galaxy",
+		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:aa1dba89-8f4b-4a69-a3d9-9c20a9ce3eee",
 		"copyright": "Guardians of the Galaxy &copy; Marvel. All Rights Reserved."
 	},{
 		"name": "Fury",
@@ -230,7 +230,7 @@
 		"headerphoto": "header-fury.jpg",
 		"galleryphotos": ["fury1.jpg", "fury2.jpg", "fury3.jpg"],
 		"mobileimg": "mobile-fury.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/fury/22342",
+		"buttonlearn": "http://www.starz.com/movies/detail/fury",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:c9c6272a-6bc6-4363-82c6-3d9d1590a782",
 		"copyright": "Fury &copy; 2015 Columbia Pictures Industries, Inc."
 	},{
@@ -243,7 +243,7 @@
 		"headerphoto": "header-the-rewrite.jpg",
 		"galleryphotos": ["rewrite1.jpg", "rewrite2.jpg", "rewrite3.jpg"],
 		"mobileimg": "mobile-rewrite.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/rewritethe/23837",
+		"buttonlearn": "http://www.starz.com/movies/detail/the-rewrite",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id= md:cid:org:bydeluxe.com:479c4d9b-bcbf-4e63-934f-c88d1cb87347",
 		"copyright": "The Rewrite &copy; 2015"
 	},{
@@ -256,7 +256,7 @@
 		"headerphoto": "header-big-hero-6.jpg",
 		"galleryphotos": ["big-hero1.jpg", "big-hero2.jpg", "big-hero3.jpg"],
 		"mobileimg": "mobile-big-hero.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/bighero6/23790",
+		"buttonlearn": "http://www.starz.com/movies/detail/big-hero-6",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:81df3973-7c3b-425a-b7c3-cfa0e450968d",
 		"copyright": "Big Hero 6 &copy; Disney Enterprises, Inc. All Rights Reserved."
 	},{
@@ -269,7 +269,7 @@
 		"headerphoto": "header-foxcatcher.jpg",
 		"galleryphotos": ["foxcatcher1.jpg", "foxcatcher2.jpg", "foxcatcher3.jpg"],
 		"mobileimg": "mobile-foxcatcher.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/foxcatcher/22796",
+		"buttonlearn": "http://www.starz.com/movies/detail/foxcatcher",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:a7516ff7-149c-4c41-b9a8-3a257c89329f",
 		"copyright": "Foxcatcher &copy; 2013 Fair Hill LLC. All Rights Reserved."
 	},{
@@ -282,8 +282,8 @@
 		"headerphoto": "header-playing-it-cool.jpg",
 		"galleryphotos": ["playing-it-cool1.jpg", "playing-it-cool2.jpg", "playing-it-cool3.jpg"],
 		"mobileimg": "mobile-playing-it-cool.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/playingitcool/24017",
-		"buttonwatch": " ",
+		"buttonlearn": "http://www.starz.com/movies/detail/playing-it-cool",
+		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:a10179e5-c0d6-4a37-b800-3d6898abad31",
 		"copyright": "Playing It Cool &copy; 2014 Slintered, LLC. All Rights Reserved"
 	},{
 		"name": "Annie",
@@ -295,21 +295,21 @@
 		"headerphoto": "header-annie.jpg",
 		"galleryphotos": ["annie1.jpg", "annie2.jpg", "annie3.jpg"],
 		"mobileimg": "mobile-annie.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/annie/23885",
+		"buttonlearn": "http://www.starz.com/movies/detail/annie",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:3958b7fc-b57a-46be-a74a-9c7541fa389a",
 		"copyright": "Annie &copy; 2015 Columbia Pictures Industries, Inc. All Rights Reserved. Annie and Related Characters and Elements: TM &amp; &copyright 2015 Tribune Content Agency Inc."
 	},{
 		"name": "The Wedding Ringer",
 		"playstart": "August 1 2015",
-		"playend": " ",
+		"playend": "February 11 2017",
 		"detaildate": "August 21 2015 23:59:59",
 		"displaydate": "August 21",
 		"detailtime": "9pm",
 		"headerphoto": "header-wedding-ringer.jpg",
 		"galleryphotos": ["wedding-ringer1.jpg", "wedding-ringer2.jpg", "wedding-ringer3.jpg"],
 		"mobileimg": "mobile-wedding-ringer.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/weddingringerthe/22895",
-		"buttonwatch": " ",
+		"buttonlearn": "http://www.starz.com/movies/detail/the-wedding-ringer",
+		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:2498dea7-0435-4fc4-82bf-180bae04bcc7",
 		"copyright": "The Wedding Ringer &copy; 2014 Screen Gems, Inc. and LSC Film Corporation. All Rights Reserved"
 	},{
 		"name": "The Equalizer",
@@ -321,21 +321,21 @@
 		"headerphoto": "header-equalizer.jpg",
 		"galleryphotos": ["equalizer1.jpg", "equalizer2.jpg", "equalizer3.jpg"],
 		"mobileimg": "mobile-equalizer.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/theequalizer/22163",
+		"buttonlearn": "http://www.starz.com/movies/detail/the-equalizer",
 		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:e34e3720-6b61-422c-a648-5d8d462c2a49",
 		"copyright": "The Equalizer &copy; 2014 Columbia Pictures Industries, Inc. LSC Film Corporation and Village Roadshow Films North America Inc./ Village Roadshow Films (BVI) Limited. All Rights Reserved."
 	},{
 		"name": "Home Sweet Hell",
-		"playstart": " ",
-		"playend": " ",
+		"playstart": "September 1 2015",
+		"playend": "February 28 2017",
 		"detaildate": "September 4 23:59:59",
 		"displaydate": "September 4",
 		"detailtime": "9pm",
 		"headerphoto": "header-home-sweet-hell.jpg",
 		"galleryphotos": ["home-sweet-hell1.jpg", "home-sweet-hell2.jpg", "home-sweet-hell3.jpg"],
 		"mobileimg": "mobile-home-sweet-hell.jpg",
-		"buttonlearn": "http://www.starz.com/movies/titles/northofhell/24153",
-		"buttonwatch": " ",
+		"buttonlearn": "http://www.starz.com/movies/detail/home-sweet-hell",
+		"buttonwatch": "http://www.starz.com/movies/detail/home-sweet-hell",
 		"copyright": "Home Sweet Hell &copy; 2015"
 	}]
 }
