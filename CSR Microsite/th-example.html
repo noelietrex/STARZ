@@ -1,0 +1,108 @@
+<html>
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script src="Scripts/jquery.csrtreasurehunt.js"></script>
+		<script src="Scripts/jquery.cookie.js"></script>
+		<script src="Scripts/starzVideoPlayer2.js"></script>	
+		
+		<script>
+			$(document).ready(function(){
+				
+				//--------------------SET UP TREASURE HUNT ----------------//
+				$.csrTreasureHunt({
+					cookie:'csroutlander1', //change per treasure hunt
+					items:3, //how many items need to be found in treasure hunt. 
+					quiz:true, //set if there is a quiz / video 
+						quizanswer:2, //ignore if quiz is false
+						quizvideo: true, //set if there is a video that 
+							videoproperties: { 
+								width:420,
+								height:260,
+								videopath: "http://preview-g.starz.com/p/promos/31756/31756_4q_starz_image_spot_600k.mp4",
+								autoplay:true,
+								poster:"http://assets.starz.com/starzvideoplayer/v1-patch30/Assets/starz_darkBkgd_685x385.jpg",
+								fallbackimg: "http://assets.starz.com/starzvideoplayer/v1-patch30/SiteImagesLib/no-flash-image-980.jpg",
+								videoplayerid: 'StarzVideoPlayerPopup'
+							}	
+				});
+				
+				//--------------------CLASSES FOR ITEMS ------------------//
+					// clues - "th-clue1", "th-clue2", "th-clue3" , etc
+						
+					// popups - "th-popup1", "th-popup2", "th-popup3", etc
+							// close button for popups - "th-closebtn"
+							
+						// quiz popup class name - "th-quiz"
+							// video class - "th-videodiv"								
+							// error class - "th-errormessage"
+						// enter to win popup - "th-entertowin"	
+						
+					// side buttons- "th-cluebtn1", "th-cluebtn2", "th-cluebtn3", etc
+				//--------------------END CLASSES-----------------------//				
+			});
+		</script>
+	</head>
+	<body>
+		
+		<h3>CLUES</h3>
+		<ul>
+			<a class="th-clue1">CLUE 1</a><br>
+			<a class="th-clue2">CLUE 2</a><br>
+			<a class="th-clue3">CLUE 3</a><br>
+		</ul>
+		
+		<h3>BUTTONS</h3>
+		<ul>
+			<a class="th-cluebtn1">BUTTON 1</a><br>
+			<a class="th-cluebtn2">BUTTON 2</a><br>
+			<a class="th-cluebtn3">BUTTON 3</a><br>
+			<a class="th-cluebtn4">BUTTON 4</a><br>
+			<a class="th-cluebtn5">BUTTON 5</a><br>
+		</ul>
+		
+		<div class="th-popup1">
+			POPUP #1
+			<a class="th-closebtn">CLOSE</a>
+		</div>
+		
+		<div class="th-popup2">
+			POPUP #2
+			<a class="th-closebtn">CLOSE</a>
+		</div>
+		
+		<div class="th-popup3">
+			POPUP #3
+			<a class="th-closebtn">CLOSE</a>
+		</div>
+		
+		<div class="th-quiz">
+			POPUP #4
+			<div class="th-videodiv"></div>
+			<table border="0" cellpadding="0" cellspacing="0" class="answers">
+			  <tr>
+			  <td align="left"><label><input type="radio" name="RadioGroup" value="vid01" id="RadioGroup1_1">
+			    Black Sails &amp; Sex Tape</label><br></td>
+			  </tr>
+			  <tr>
+			    <td align="left"><label><input type="radio" name="RadioGroup" value="vid02" id="RadioGroup1_2">
+			    Outlander &amp; Captain America</label><br></td>
+			  </tr>
+			  <tr>
+			    <td align="left"><label><input type="radio" name="RadioGroup" value="vid03" id="RadioGroup1_3">
+			    Outlander &amp; Guardians of the Galaxy</label><br></td>
+			  </tr>
+			  <tr>
+			    <td align="left"><br><br><input class="submitth" type="submit" name="submit" id="submit" value="Submit"></td>
+			  </tr>
+			</table>
+			<br>
+			<div class="th-errormessage">ERROR MESSAGE</div>
+			<a class="th-closebtn">CLOSE</a>
+		</div>
+		
+		<div class="th-entertowin">
+			ENTER TO WIN
+			<a class="th-closebtn">CLOSE</a>
+		</div>
+	</body>
+</html>

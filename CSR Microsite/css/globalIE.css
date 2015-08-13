@@ -1,0 +1,27 @@
+.starzNavUL {
+	margin-left: 20px;
+}
+
+/*#originalNav {
+	width: 400px;
+	margin: 0 auto 0 auto;
+}
+
+.originalNavUL {
+	list-style: none;
+	position: relative;
+	margin: 0 0 0 40px;
+	overflow: hidden;
+}*/
+
+#socialIcons {
+	width: 500px;
+	height: 22px;
+	margin: -10px auto 0 auto;
+}
+
+#castvideoPlayerDIV {
+	margin-left: -481px;
+	width: 961px;
+
+}

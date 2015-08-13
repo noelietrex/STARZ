@@ -337,5 +337,44 @@
 		"buttonlearn": "http://www.starz.com/movies/detail/home-sweet-hell",
 		"buttonwatch": "http://www.starz.com/movies/detail/home-sweet-hell",
 		"copyright": "Home Sweet Hell &copy; 2015"
+	},{
+		"name": "Into the Woods",
+		"playstart": "September 11 2015",
+		"playend": "February 28 2017",
+		"detaildate": "September 11 23:59:59",
+		"displaydate": "September 11",
+		"detailtime": "9pm",
+		"headerphoto": "header-into-the-woods.jpg",
+		"galleryphotos": ["into-the-woods1.jpg", "into-the-woods2.jpg", "into-the-woods3.jpg"],
+		"mobileimg": "mobile-into-the-woods.jpg",
+		"buttonlearn": "http://www.starz.com/movies/detail/into-the-woods",
+		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:cb001e05-fec7-4979-9295-3346acccf768",
+		"copyright": "Into the Woods &copy; Disney Enterprises, Inc. All Rights Reserved"
+	},{
+		"name": "Fury",
+		"playstart": " ",
+		"playend": " ",
+		"detaildate": "September 18 23:59:59",
+		"displaydate": "September 18",
+		"detailtime": "9pm",
+		"headerphoto": "header-fury.jpg",
+		"galleryphotos": ["fury1.jpg", "fury2.jpg", "fury3.jpg"],
+		"mobileimg": "mobile-fury.jpg",
+		"buttonlearn": "http://www.starz.com/movies/detail/fury",
+		"buttonwatch": "http://www.starz.com/movies/detail/fury",
+		"copyright": "Fury &copy; 2015 Columbia Pictures Industries, Inc."
+	},{
+		"name": "Reach Me",
+		"playstart": " ",
+		"playend": " ",
+		"detaildate": "September 25 23:59:59",
+		"displaydate": "September 25",
+		"detailtime": "9pm",
+		"headerphoto": "header-reach-me.jpg",
+		"galleryphotos": ["reach-me1.jpg", "reach-me2.jpg", "reach-me3.jpg"],
+		"mobileimg": "mobile-reach-me.jpg",
+		"buttonlearn": "http://www.starz.com/movies/detail/reach-me",
+		"buttonwatch": "http://www.starz.com/movies/detail/reach-me",
+		"copyright": "Reach Me &copy; 2014"
 	}]
 }

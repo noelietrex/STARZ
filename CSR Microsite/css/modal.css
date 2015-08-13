@@ -1,0 +1,52 @@
+.popup_background {
+	 z-index: 2000;
+}
+.popup_wrapper {
+	 z-index: 2001;
+}
+/* Add inline-block support for IE7 */
+	.popup_align,
+	.popup_content {
+	*display: inline;
+	*zoom: 1;
+}
+/*#my_modal {
+	min-height: 20px;
+	padding: 19px;
+	margin-bottom: 20px;
+	background-color: #f5f5f5;
+	border: 1px solid #e3e3e3;
+	-webkit-border-radius: 4px;
+	  -moz-border-radius: 4px;
+	       border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	       box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	width: 500px;
+}*/
+
+#my_modal {
+	height: 400px;
+	padding: 0px;
+	margin-bottom: 20px;
+	background-color: #000000;
+	border: 1px solid #000000;
+	width:810px;
+	background: #000 top center no-repeat;
+}
+#pirateButton {
+	display: block;
+	position:relative;
+	margin-top: 305px;
+}
+
+.modalcontent{
+	color:white;
+}
+
+.season1{
+	background: url(../images/elements/popupImage_dvdseason1.jpg) pink no-repeat center center;
+	height:400px;
+	width: 810px;
+	display: block;
+}

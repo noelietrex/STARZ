@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+	<title>starzCSR.com</title>
+	
+	<!-- Common -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+
+	<!-- Others -->
+	<script type="text/javascript" src="Scripts/jquery.ticker.js"></script>
+	<script type="text/javascript" src="Scripts/microsite.js"></script>
+	<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/md5.js"></script>
+	<script type="text/javascript" src="Scripts/videoPlayer.js"></script>
+	<script type="text/javascript" src="Scripts/jquery.cookie.js"></script>
+	<script type="text/javascript" src="Scripts/th.js"></script>
+	
+	<!-- Production Player -->
+    <script src="JsLib/starzVideoPlayer2.js" type="text/javascript" charset="utf-8"></script>		
+	<!--<script src="http://assets.starz.com/starzvideoplayer/v1-patch30/JsLib/starzVideoPlayer2.js" type="text/javascript" charset="utf-8"></script>-->
+	
+	<!-- Styling -->
+	<link rel="stylesheet" type="text/css" href="css/global.css">
+	<link rel="stylesheet" type="text/css" href="css/ticker-style.css" />
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="css/globalIE.css">
+	<![endif]-->
+
+	<script type="text/javascript">
+		 // start the ticker 
+		$(function () {
+			$('#js-news').ticker({
+				controls: false,
+            speed: 0.15,
+            titleText: '',
+            displayType: 'fade',
+            pauseOnItems: 6000
+			});
+		});
+	
+		 var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-30386025-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+</head>
+
+<body>		
+	<!-- POWER POPUP -->
+	<!-- <link rel="stylesheet" type="text/css" href="activities/personsofinterest/css/power_popup.css">
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+	<script src="activities/personsofinterest/js/powerpopup.js" type="text/javascript" charset="utf-8"></script>
+	<div class="poweractivitypopup">
+		<a class="poweractivitypopup-close" href="javascript:void(0);"></a>
+	</div>
+	
+	<div class="poweractivityfixed">
+		<a class="poweractivitybtn powerfixedbtn" href="javascript:void(0);"><div class="btncolor"></div><div class="btnimg"></div></a>
+	</div> -->
+	<!-- END POWER POPUP -->
+	
+	<div id="starzNav">
+		<a href="index.html" id="starz_logo" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_LogoHome']);">Starz Entertainment</a>
+		<ul class="starzNavUL">
+			<li><a href="index.html" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_Home']);">Home</a></li>
+			<li><a href="sweepstakes.html" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_EnterToWin']);">Enter To Win</a></li>
+			<!--<li><a href="social.html" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_Social']);">Social LIVE!</a></li>-->
+			<li><a href="sales.html" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_SalesZone']);" class="pageOn">Learning Lounge</a></li>
+			<li>
+				<div class="menudd" href="javascript:void(0);">Programming
+					<ul class="dropdown">
+						<li><a href="http://www.starz.com/schedule" target="_blank" onclick="_gaq.push(['_trackEvent', 'Nav', 'Starz_Schedule']);">STARZ Schedule</a></li>
+						<li><a href="http://encoretv.com/schedule" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Nav', 'Encore_Schedule']);">Encore Schedule</a></li>
+					</ul>
+				</div>
+			</li>
+			<li><a id="askStarzNav" href="mailto:askstarz@starz.com" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_AskStarz']);">Ask STARZ</a></li>
+		</ul>
+	</div><!-- end #starzNav -->
+	
+	<!-- News Ticker -->
+	<ul id="js-news" class="js-hidden">
+		<li class="news-item">If you like comedies and following basketball phemons, you’ll love Survivor’s Remorse on STARZ!</li>
+		<li class="news-item">If you like a great value, you’ll love STARZ.</li>
+	</ul>
+
+	<div id="castvideoPlayerDIV" style="height:435px;">
+		<p style="margin-top: 20px;"><a id="closeCastVideo" href="javascript:void(0);" style="color:#b3b3b3;">Close Video</a></p>
+		<div id="castVideo">
+			<div id="StarzVideoPlayer">
+				<div id="StarzVideoPlayerFallback" class="hidden">
+					<a href="http://www.adobe.com/go/getflashplayer" target="_blank">
+						<img src="http://assets.starz.com/starzvideoplayer/v1-patch30/SiteImagesLib/no-flash-image-980.jpg" alt="Update Flash Player Image" /></a>
+				</div>
+			</div>
+		</div>  
+	</div>
+	
+	<div id="episodevideoPlayerDIV" style="height:435px;">
+		<p style="margin-top: 20px;"><a id="closeEpisodeVideo" href="javascript:void(0);">Close Video</a></p>
+		<div class="episodeVideo"></div>  
+	</div>
+
+	<div id="homemarquee" style="height:340px">
+		<div id="imageBrowser" class="blackBG">
+			<!-- Gallery Image 1 -->
+			<div class="imageBrowserContent">
+				<a href="http://starz.adobeconnect.com/btsalessuitcase/" target="_blank" onclick="_gaq.push(['_trackEvent', 'PDFLink', 'Click_Outlander1B_Suitcase']);">
+					<img src="images/marquee/salessuitcase.jpg" width="960" height="340" alt="Black Sails Suitcase" border="0">
+				</a>
+			</div>
+		</div><!-- end#imageBrowser-->
+	</div><!-- end#homemarquee-->
+
+
+<div id="contentContainer">
+	<!-- CSR HANDOUTS -->
+  <div class="width50 floatLeft">
+		<div class="headerHalf leftMargin">
+			<h2>CSR Handouts</h2>
+		</div>
+        
+        <div class="pdfContainer">
+			<div class="pdfLink">
+				<a href="pdfs/AUG_2015_BT.pdf" target="_blank" onclick="_gaq.push(['_trackEvent', 'PDFLink', 'Click_BT_Informational']);">
+					<p class="dload"><small>&gt;&gt; </small>Download</p>
+					<img src="images/sales/BT_handout.jpg" alt="CSR Handout - Blunt Talk Educational"/>
+					<p>Blunt Talk Educational Handout</p>
+					</a>
+			</div>
+			<div class="pdfLink">
+				<a href="pdfs/AUG_2015_SR.pdf" target="_blank" onclick="_gaq.push(['_trackEvent', 'PDFLink', 'Click_SR_Activity']);">
+					<p class="dload"><small>&gt;&gt; </small>Download</p>
+					<img src="images/sales/SR_handout.jpg" alt="CSR Handout - Survivor's Remorse Educational" />
+					<p>Survivor's Remorse Educational Handout</p>
+				</a>
+			</div>
+			
+		</div>
+    
+	</div>
+
+	<!-- SUPERVISOR HANDOUTS --> 
+	<div class="floatLeft leftPadding" style="width:48%;">
+		<div class="headerHalf">
+			<h2>VIDEOS</h2>
+		</div>
+		<div class="videoContainer">
+			<div class="videolinksales">
+			<a class="videoLinkNew" href="javascript:void(0);" onclick="_gaq.push(['_trackEvent', 'LearningLounge', 'Click_PlayVideoLL_StarzSizzle']);" path="http://preview-g.starz.com/p/promos/34196/34196_starz_3q_2015_originals_combo_spot_600k.mp4" iospath="http://preview-g.starz.com/p/promos/34196/34196_starz_3q_2015_originals_combo_spot_600k.mp4" hd="true">
+				<img src="images/sales/MAR_2015_StarzVideo.jpg" alt="STARZ VIDEO SIZZLE"/></a>
+				<a class="videoLinkNew" href="javascript:void(0);" onclick="_gaq.push(['_trackEvent', 'LearningLounge', 'Click_PlayVideoLL_StarzSizzle']);" path="http://preview-g.starz.com/p/promos/34196/34196_starz_3q_2015_originals_combo_spot_600k.mp4" iospath="http://preview-g.starz.com/p/promos/34196/34196_starz_3q_2015_originals_combo_spot_600k.mp4" hd="true"><p>Watch STARZ<br>Training Sizzle<br>(01:01 SEC)</p>
+				<small>&gt;&gt; </small>Watch</a>
+			</div>
+			<div class="videolinksales">
+			<a class="videoLinkNew" href="javascript:void(0);" onclick="_gaq.push(['_trackEvent', 'LearningLounge', 'Click_PlayVideoLL_EncoreSizzle']);" path="http://preview-g.starz.com/p/promos/34196/34196_encore_pack_sizzle_no_espanol_600k.mp4" iospath="http://preview-g.starz.com/p/promos/34196/34196_encore_pack_sizzle_no_espanol_600k.mp4" hd="true">
+				<img src="images/sales/JUN_2014_EncoreVideo.jpg" alt="ENCORE VIDEO SIZZLE"/></a>
+							<a class="videoLinkNew" href="javascript:void(0);" onclick="_gaq.push(['_trackEvent', 'LearningLounge', 'Click_PlayVideoLL_EncoreSizzle']);" path="http://preview-g.starz.com/p/promos/34196/34196_encore_pack_sizzle_no_espanol_600k.mp4" iospath="http://preview-g.starz.com/p/promos/34196/34196_encore_pack_sizzle_no_espanol_600k.mp4" hd="true"><p>Watch ENCORE<br>Training Sizzle<br>(1:31 SEC)</p>
+				<small>&gt;&gt; </small>Watch</a>
+			</div>
+		</div>
+		<br class="clear">	
+		<div class="headerHalf" style="margin-top:20px;background:none;">
+			<!--h2>JUST FOR YOU</h2>
+		</div>
+		<div class="font14px topMargin" style="width:450px;">Get more information on all the offers, campaigns and incentives available to you.
+Click below and enter the appropriate passcode. </div>
+		<div>
+			<div class="affiliates">
+				<a class="affiliate" style="background-image:url('images/affiliates/coxinbound2.gif');" p="coxinbound" s="54549c7ebfad0c1580e5683b13d45e6f"></a>
+				<a class="affiliate" style="background-image:url('images/affiliates/coxcare.gif');" p="coxcare" s="b35252ab84841d8bb8e899b476898c68"></a>
+				<a class="affiliate" style="background-image:url('images/affiliates/coxretention.gif');" p="coxretention" s="53c219172db68eff47a0b4f42a91967f"></a>
+			</div-->
+		</div>
+	</div><!-- end SUP HANDOUTS -->
+	
+	<br class="clear">
+	
+	<div id="page_footer" style="margin-top:75px;">
+		<p class="disclaimer">
+			Visit starz.com for airdates/times. STARZ and related channels and service marks are the property of Starz Entertainment LLC. Blunt Talk &copy; 2015 MRC II Distribution Company, LP.  All Rights Reserved.  Survivor’s Remorse &copy; 2014 Starz  Entertainment, LL.  All Rights Reserved., Guardians of the Galaxy &copy; Marvel. All Rights Reserved.<br />
+			This site is intended for the private viewing of the recipient only. This site cannot be shared, distributed, circulated or made available to any other person. No portion of the audio or video contained within this site may be copied or incorporated into any other materials without Starz Entertainment, LLC's prior written permission.</p>
+	</div><!-- end#page_footer -->
+</div><!-- end #contentContainer -->
+
+<div id="login">
+	<div class="login-content">
+		<input class="login-password" type="text" value="">
+		<a class="login-submit" href="javascript:void(0);"></a>
+		<a class="login-close" href="javascript:void(0);"></a>
+	</div>
+	<div class="login-incorrect">
+		<a class="login-end" href="javascript:void(0);"></a>
+		<a class="login-close" href="javascript:void(0);"></a>
+	</div>
+</div>
+
+</body>
+</html>

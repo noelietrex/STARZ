@@ -1,0 +1,108 @@
+.poweractivitypopup{
+	background: url(../img/popup/poweractivity_popup_over_shadow.png) center center no-repeat;
+	width:894px;
+	height:560px;
+	position: fixed;
+	top: 135px;
+	z-index: 1000;
+	left:50%;
+	margin-left: -452px;
+	
+	font-family: "Lato", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.poweractivitypopup-close{
+	position: absolute;
+	width: 74px;
+	height: 74px;
+	background: url(../img/popup/poweractivity_close.png) center center no-repeat;
+	top:15px;
+	right:15px;
+}
+
+.powerbottle-copy{
+	text-transform: uppercase;
+	font-size: 14px;
+	text-align: center;
+	width: 200px;
+	position: absolute;
+	left:60px;
+	top: 310px;
+}
+
+.poweractivitypopup-copy{
+	color:black;
+	width: 325px;
+	position:absolute;
+	top: 195px;
+	left:262px;
+	text-align: justify;
+	font-size: 15px;
+}
+
+.poweractivitypopup-copy span{
+	display: block;
+	margin-top: 10px;
+	font-weight: 700;
+}
+
+.poweractivitypopup-copy span strong{
+	font-weight: 900;
+}
+
+.poweractivitybtn {
+  width: 286px;
+  height: 53px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin-top: 10px;
+}
+.poweractivitybtn .btnimg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 286px;
+  height: 53px;
+  background: url(../img/popup/poweractivity_popupbtn.png) center center no-repeat;
+  z-index: 1;
+}
+.poweractivitybtn .btncolor {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 53px;
+  left: 0;
+  width: 286px;
+  height: 53px;
+}
+
+.poweractivityfixed{
+	position:fixed;
+	left:0;
+	top:200px;
+	width:150px;
+	height:150px;
+	background: url(../img/popup/poweractivity_fixed.jpg) center center no-repeat;
+	z-index: 900;
+	display: none;
+}
+
+.powerfixedbtn{
+	margin: 100px auto 0 auto;
+	width:117px;
+	height: 43px;
+}
+
+.powerfixedbtn .btnimg{
+	width:117px;
+	background-image: url(../img/popup/poweractivity_fixedbtn.png);
+	height: 43px;
+}
+
+.powerfixedbtn .btncolor {
+	width:117px;
+	height: 43px;
+}

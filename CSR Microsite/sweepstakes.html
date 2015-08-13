@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>starzCSR.com</title>
+	
+	<!-- Common -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- Others -->
+	<script type="text/javascript" src="Scripts/microsite.js"></script>
+	<script type="text/javascript" src="Scripts/videoPlayer.js"></script>
+	<!-- <script type="text/javascript" src="Scripts/jquery.popupoverlay.js"></script> -->
+	<script type="text/javascript" src="Scripts/jquery.cookie.js"></script>
+	<script type="text/javascript" src="Scripts/th.js"></script>
+	<!-- Styling -->
+	<link rel="stylesheet" type="text/css" href="css/global.css">
+	<link rel="stylesheet" type="text/css" href="css/modal.css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="css/globalIE.css">
+	<![endif]-->
+	
+	<!-- Production Player -->
+    <script src="JsLib/starzVideoPlayer2.js" type="text/javascript" charset="utf-8"></script>	
+
+	<script type="text/javascript">
+		 var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-30386025-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+	
+</head>
+
+<body>	
+	<!-- POWER POPUP -->
+	<!-- <link rel="stylesheet" type="text/css" href="activities/personsofinterest/css/power_popup.css">
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+	<script src="activities/personsofinterest/js/powerpopup.js" type="text/javascript" charset="utf-8"></script>
+	<div class="poweractivitypopup">
+		<a class="poweractivitypopup-close" href="javascript:void(0);"></a>
+	</div>
+	
+	<div class="poweractivityfixed">
+		<a class="poweractivitybtn powerfixedbtn" href="javascript:void(0);"><div class="btncolor"></div><div class="btnimg"></div></a>
+	</div>-->
+	<!-- END POWER POPUP -->
+	
+	<div id="starzNav">
+		<a href="index.html" id="starz_logo" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_LogoHome']);">Starz Entertainment</a>
+		<ul class="starzNavUL">
+			<li><a href="index.html" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_Home']);">Home</a></li>
+			<li><a href="sweepstakes.html" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_EnterToWin']);" class="pageOn">Enter To Win</a></li>
+			<!--<li><a href="social.html" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_Social']);">Social LIVE!</a></li>-->
+			<li><a href="sales.html" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_SalesZone']);">Learning Lounge</a></li>
+			<li>
+				<div class="menudd" href="javascript:void(0);">Programming
+					<ul class="dropdown">
+						<li><a href="http://www.starz.com/schedule" target="_blank" onclick="_gaq.push(['_trackEvent', 'Nav', 'Starz_Schedule']);">STARZ Schedule</a></li>
+						<li><a href="http://encoretv.com/schedule" target="_blank"  onclick="_gaq.push(['_trackEvent', 'Nav', 'Encore_Schedule']);">Encore Schedule</a></li>
+					</ul>
+				</div>
+			</li>
+			<li><a id="askStarzNav" href="mailto:askstarz@starz.com" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_AskStarz']);">Ask STARZ</a></li>
+		</ul>
+	</div><!-- end #starzNav -->
+	
+	<div class="sweepstakesFrame">
+		<a class="closeBtn" href="#" onclick="_gaq.push(['_trackEvent', 'SweepsEnter', 'Click_CloseWindow']);"><img src="images/elements/btn_close.png" width="81" height="23" alt="Click to Close" /></a>
+		<div class="sweepscontent"><iframe name="sweepsFrame" id="sweepsFrame" src="" width="500" height="750" scrolling="no">There seems to have been an error, please try refreshing the page.</iframe></div>
+	</div>
+	
+	<div id="castvideoPlayerDIV" style="height:420px;">
+		<p style="margin-top: 10px; margin-bottom:5px;"><a id="closeCastVideo" href="javascript:void(0);" style="color:#b3b3b3;">Close Video</a></p>
+		<div id="castVideo">
+			<div id="StarzVideoPlayer">
+				<div id="StarzVideoPlayerFallback" class="hidden">
+					<a href="http://www.adobe.com/go/getflashplayer" target="_blank">
+						<img src="images/elements/noflash.jpg" alt="Update Flash Player Image" /></a>
+				</div>
+			</div>
+		</div>  
+	</div>
+	
+	
+	<div id="winmarquee">
+		<div class="entertowinbg" style="background-image:url(images/instantWin/sweeps.jpg);width:960px;height:408px;">
+		</div>
+	</div>
+	
+	<div id="contentContainer">
+		
+				<div id="prevWinners"><a href="docs/Power_Person_Of_Interest_Winners.xls">See previous winners from Power "Person Of Interest" activity</a></div>
+		
+		<div class="headerLarge leftMargin">
+			<h2>STARZ ULTIMATE CSR SWEEPSTAKES</h2>
+		</div>
+		
+		<div class="quiz">
+				<h4 class="quiztext">Enter this sweepstakes every day to increase your chances of winning.</h4>
+				<!--p class="center">Get to know the new STARZ Original series, “Black Sails”</p>
+	
+				 <div>
+                	<img src="images/instantWin/dvd_prizes.jpg" alt="Prize Packages">
+				</div-->
+				
+				<h4 class="blue">Watch the video to help you answer the questions.<br>
+					Answer the questions once. No need to answer them again, simply enter the sweepstakes.</h4>
+				
+				<div class="watchtrailer">
+					<a class="videoLinkNew" style="background:none !important;width:inherit;margin-right:0px;" href="#" onclick="_gaq.push(['_trackEvent', 'EnterToWin', 'Click_PlayVideo_BT/SR_SweepsVid']);" path="http://preview-g.starz.com/p/promos/34377/34377_Blunt_Talk_clip_reel_walter_blunt_breaking_news_clip_600k.mp4" iospath="http://preview-g.starz.com/p/promos/34377/34377_Blunt_Talk_clip_reel_walter_blunt_breaking_news_clip_600k.mp4" hd="true"><img src="images/instantWin/watchvideo.gif" alt="Watch Trailer" width="168" height="41"></a>
+				</div>
+				
+				<div class="questioncontainer" style="margin-left:50px">
+					<div class="question">
+						<div class="questiontext" style="text-align:left;width:200px">What does Walter think he just had?</div>
+						<div class="answers" style="width:290px;">
+							<input type="radio" name="q1" value="a1">A flashback<br>
+							<input type="radio" name="q1" value="a2">A near death experience<br>
+							<input type="radio" name="q1" value="a3">An epiphany
+						</div>
+						<div class="incorrect">Incorrect. Please try again</div>
+					</div>
+					
+					<div class="question">
+						<div class="questiontext" style="text-align:left;width:200px">What does Walter see in “Heaven?”</div>
+						<div class="answers" style="width:260px;">
+							<input type="radio" name="q2" value="a1">Lots of clouds<br>
+							<input type="radio" name="q2" value="a2">His lost pets<br>
+							<input type="radio" name="q2" value="a3">Lots of dancing and joy
+						</div>
+						<div class="incorrect">Incorrect. Please try again</div>
+					</div>
+					
+					<div class="question">
+						<div class="questiontext" style="text-align:left;width:220px">What is the “Breaking News” in the video?</div>
+						<div class="answers" style="width:220px;">
+							<input type="radio" name="q3" value="a1">Walter collapses on air<br>
+							<input type="radio" name="q3" value="a2">Walter admits to being Canadian<br>
+							<input type="radio" name="q3" value="a3">Walter tells America they're wrong
+						</div>
+						<div class="incorrect">Incorrect. Please try again</div>
+					</div>
+					<br class="clear" />
+				</div>
+				
+				<div class="submitBtn">
+					<a id="btn_sweeps"  target="sweepsFrame" onclick="_gaq.push(['_trackEvent', 'SweepsEnter', 'Click_EnterDVDSweeps']);"></a>
+				</div>
+           </div>
+		
+		<div class="headerLarge leftMargin">
+			<h2>ONLINE TRAINING SWEEPSTAKES</h2>
+		</div>
+		
+
+		<div id="visaSweep">
+			<a id="btn_tv" target="_blank" href="http://review.starz.com/affiliate/blunt_survivor_training/" onclick="_gaq.push(['_trackEvent', 'SweepsEnter', 'Click_BT/SR_EModule']);"></a>
+			<img src="images/instantWin/emodule.jpg" alt=" " width="920" height="250">
+		</div>
+		<br class="clear" />
+
+			
+
+		<div class="headerLarge leftMargin" id="toggleWinners">
+			<h2 class="closed">Past Contest Winners!</h2>
+		</div>
+	 	<div id="winnerSection" style="display: none">
+			<div style="margin-top: 25px;">
+
+				<div>
+	                
+	              <div class="winnerDetails">
+				   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+				       <h4>Gail Esperago</h4>
+				    	<p>Mililani, HI<br>
+						Time Warner Cable</p>
+						<p class="orange font12px"><strong>Q2 2015 STARZ Ultimate Sweepstakes<br></strong>
+						Ultimate Prize</p>
+				   </div>  
+				   <div class="winnerDetails">
+				   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+				       <h4>John Castelein</h4>
+				       <p>Cedar Rapids, IA<br>
+				          Mediacom</p>
+				       <p class="orange font12px"><strong>Q2 2015 STARZ Ultimate Sweepstakes<br>
+				       Second Place</strong><br>
+				       Parrot Bebop Drone</p>    
+				   </div>
+				   <div class="winnerDetails">
+				   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+				       <h4>Brandon Maslar</h4>
+				       <p>Vestal, NY<br>
+				          Time Warner Cable</p>
+				       <p class="orange font12px"><strong>Q2 2015 STARZ Ultimate Sweepstakes<br>
+				       Third Place</strong><br>
+				       iPad Air</p>    
+				   </div>
+				   <div class="winnerDetails">
+				   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+				       <h4>Bonnie Foster</h4>
+				       <p>Duncannon, PA<br>
+				          Blue Ridge Communications</p>
+				       <p class="orange font12px"><strong>Outlander Online Emodule<br></strong>
+				       iPad Mini</p>    
+				   </div>
+
+					<br class="clear" />
+					</div>
+
+				<div>
+                
+              <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Kenneth Taylor</h4>
+			       <p>Ft Myers, FL<br>
+			          Comcast</p>
+			       <p class="orange font12px"><strong>Q1 2015 STARZ Ultimate Sweepstakes<br></strong>
+			       $1000 Visa Gift Card 
+			   </div>  
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/morgan_butler.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Morgan Butler</h4>
+			       <p>Christiansburg, VA<br>
+			          DISH Network</p>
+			       <p class="orange font12px"><strong>Q1 2015 STARZ Ultimate Sweepstakes <br>
+			       Second Place</strong><br>
+			       MacBook</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Hannah Lefler</h4>
+			       <p>Chillicothe, IL<br>
+			          Mediacom</p>
+			       <p class="orange font12px"><strong>Q1 2015 STARZ Ultimate Sweepstakes<br>
+			       Third Place</strong><br>
+			       Kindle Fire</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Cathy Ramsey</h4>
+			       <p>Lubbock, TX<br>
+			          Suddenlink</p>
+			       <p class="orange font12px"><strong>Black Sails Online eModule<br></strong>
+			       Kindle Fire</p>    
+			   </div>
+
+				<br class="clear" />
+				</div>
+				
+								
+				<div>
+                
+              <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Robert Jacoby</h4>
+			       <p>Middletown, NY<br>
+			          Time Warner Cable</p>
+			       <p class="orange font12px"><strong>Q4 2014 STARZ Ultimate Sweepstakes<br>
+			       Ultimate Prize</strong> 
+			   </div>  
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Kyla J. Lucarino</h4>
+			       <p>Wilkes Barre, PA<br>
+			          RCN</p>
+			       <p class="orange font12px"><strong>Q4 2014 STARZ Ultimate Sweepstakes<br>
+			       Second Place</strong><br>
+			       $500 Visa Gift Card</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Kinikalela Meeken</h4>
+			       <p>Hilo, Hawaii<br>
+			          Time Warner Cable</p>
+			       <p class="orange font12px"><strong>Q4 2014 STARZ Ultimate Sweepstakes<br>
+			       Third Place</strong><br>
+			       iPad Mini</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Christine Nash</h4>
+			       <p>Parksburg, WV<br>
+			          Suddenlink</p>
+			       <p class="orange font12px"><strong>STARZ Online eModule<br></strong>
+			       iPad Mini</p>    
+			   </div>
+
+				<br class="clear" />
+				</div>
+
+                <div>
+                
+              <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_AutumnKreider.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Autumn Kreider</h4>
+			       <p>Lebanon, PA<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q3 2014 STARZ Ultimate Sweepstakes<br>
+			       Grand Prize</strong><br>
+			       Outlander Prize Package</p>    
+			   </div>  
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Tony Kim Lim</h4>
+			       <p>Fife, WA<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q3 2014 STARZ Ultimate Sweepstakes<br>
+			       Second Place</strong><br>
+			       $500 Visa Gift Card</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Tonya Jackson</h4>
+			       <p>Greensboro, NC<br>
+			          Time Warner Cable</p>
+			       <p class="orange font12px"><strong>Q3 2014 STARZ Ultimate Sweepstakes<br>
+			       Third Place</strong><br>
+			       iPad Mini</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_AndreaSteward.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Andrea Steward</h4>
+			       <p>Cheektowaga, NY<br>
+			          Time Warner Cable</p>
+			       <p class="orange font12px"><strong>Power eModule<br></strong>
+			       iPad Mini</p>    
+			   </div>
+
+				<br class="clear" />
+				</div>
+                				
+                <div>
+                
+<!--               <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_sharon_cox.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Sharon Cox</h4>
+			       <p>Christiansburg, VA<br>
+			          DISH Network</p>
+			       <p class="orange font12px"><strong>Outlander eModule<br></strong>
+			       iPad Mini</p>    
+			   </div>  
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Christine Voyles</h4>
+			       <p>Woodridge, IL<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q2 2014 “Da Vinci’s Demons” Sweepstakes<br>
+			       Grand Prize</strong><br>
+			       Da Vinci’s Demons Prize Package</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>David Heber</h4>
+			       <p>Colorado Springs, CO<br>
+			          Time Warner Cable</p>
+			       <p class="orange font12px"><strong>Q2 2014 “Da Vinci’s Demons” Sweepstakes<br>
+			       Second Prize</strong><br>
+			       $500 Visa<sup>&#174;</sup> Gift Card</p>    
+			   </div>
+			   
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>LeeAnne Riordan</h4>
+			       <p>Tacoma, WA<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q2 2014 “Da Vinci’s Demons” Sweepstakes<br>
+			       Third Prize</strong><br>
+			       iPad<sup>&#174;</sup> Air</p>    
+			   </div>
+			   </div>
+
+				<br class="clear" />
+				</div>
+ -->             
+            <!--div>
+
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_EricBradigan.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>ERIC BRADIGAN<br>(on right)</h4>
+			       <p>York, PA<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q1 2014 “Black Sails” Sweepstakes<br>
+			       Grand Prize</strong><br>
+			       Black Sails Prize Package</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>LaToya Nickerson-Kelly</h4>
+			       <p>Romeoville, IL<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q1 2014 “Black Sails” Sweepstakes<br>
+			       Second Prize</strong><br>
+			       $500 Visa<sup>&#174;</sup> Gift Card</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>Milagros Rodriguez</h4>
+			       <p>Bronx, NY<br>
+			          CABLEVISION</p>
+			       <p class="orange font12px"><strong>Q1 2014 “Black Sails” Sweepstakes<br>
+			       Third Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_jacquieMoore.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>JACQUIE MOORE<br>(on left)</h4>
+			       <p>Marana, AZ<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q4 2013 "Spartacus" Sweepstakes<br>
+			       Grand Prize</strong><br>
+			       Spartacus Prize Package</p>    
+			   </div-->
+
+				<br class="clear" />
+				</div>
+
+				<!--div>
+
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Nancy Johnston!"></p>
+			       <h4>DENISE EBIG</h4>
+			       <p>Butler, PA<br>
+			          ARMSTRONG CABLE</p>
+			       <p class="orange font12px"><strong>Q4 2013 "Spartacus" Sweepstakes<br>
+			       First Prize</strong><br>
+			       $500 Visa<sup>&#174;</sup> Gift Card</p>    
+			   </div>
+				<div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations CRAIG CANTOR!"></p>
+			       <h4>LISA TAYLOR</h4>
+			       <p>Walker, MI<br>
+			          CHARTER</p>
+			       <p class="orange font12px"><strong>Q4 2013 "Spartacus" Sweepstakes<br>
+			       Second Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>  
+			   </div>
+			  <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>TIAUNA SIMKINS</h4>
+			       <p>BAJA BROADBAND</p>
+			       <p class="orange font12px"><strong>Q3 2013 Sweepstakes <br> Grand Prize</strong><br>
+			       $500 Visa<sup>&#174;</sup> Gift Card</p>  
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>DEBRA BELL</h4>
+			       <p>DISH</p>
+			       <p class="orange font12px"><strong>Q3 2013 Sweepstakes <br> Second Prize</strong><br>
+			       iPad<sup>&#174;</sup> Gift Card</p>  
+			   </div>
+
+				<br class="clear" />
+				</div>
+
+				<div>
+
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>CAREY TAYLOR</h4>
+			       <p>DIRECTV</p>
+			       <p class="orange font12px"><strong>Q3 2013 Sweepstakes <br> Third Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>  
+			   </div>
+				<div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_chrisBaclay.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>CHRIS BACLAY</h4>
+			       <p>Las Vegas, NV<br>
+			          COX COMMUNICATIONS</p>
+			       <p class="orange font12px"><strong>Q2 2013 "Da Vinci’s Demons" Sweepstakes<br>
+			       Grand Prize</strong><br>
+			       $500 Visa<sup>&#174;</sup> Gift Card</p>  
+			   </div>
+               <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>SUSAN MURRAY</h4>
+			       <p>Plymouth, MA<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q2 2013 "Da Vinci’s Demons" Sweepstakes<br>
+			       Second Prize</strong><br>
+			       iPad<sup>&#174;</sup></p>    
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_NancyJohnston.jpg" width="200" height="200" alt="Congratulations Nancy Johnston!"></p>
+			       <h4>NANCY JOHNSTON</h4>
+			       <p>Gonzales, LA<br>
+			          EATEL</p>
+			       <p class="orange font12px"><strong>Q2 2013 "Da Vinci’s Demons" Sweepstakes<br>
+			       Third Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>    
+			   </div>
+
+				<br class="clear" />
+				</div>
+
+				<div>
+				<div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_craigCantor.jpg" width="200" height="200" alt="Congratulations CRAIG CANTOR!"></p>
+			       <h4>CRAIG CANTOR</h4>
+			       <p>Lebanon, PA<br>
+			          COMCAST</p>
+			       <p class="orange font12px"><strong>Q1 2013 "Spartacus" Sweepstakes<br>
+			       Grand Prize</strong><br>
+			       $500 Visa<sup>&#174;</sup> Gift Card</p>  
+			   </div>
+			  <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_jeffreyPhillips.jpg" width="200" height="200" alt="Congratulations JEFFREY PHILLIPS!"></p>
+			       <h4>JEFFREY PHILLIPS</h4>
+			       <p>Cumberland, MD<br>
+			         ATLANTIC BROADBAND</p>
+			       <p class="orange font12px"><strong>Q1 2013 "Spartacus" Sweepstakes<br>
+			       Bonus Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>  
+			   </div>
+               <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_DanaHassa.jpg" width="200" height="200" alt="Congratulations DANA HASSA!"></p>
+			       <h4>DANA HASSA (on right)</h4>
+			       <p>Butler, PA<br>
+			          ARMSTRONG CABLE SERVICES</p>
+			       <p class="orange font12px"><strong>Q1 2013 "Spartacus" Sweepstakes<br>
+			       Bonus Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>  
+			   </div>
+				<div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>STEFFONY COSTELLO</h4>
+			       <p>Leighton, PA<br>
+			          BLUE RIDGE COMMUNICATIONS</p>
+			       <p class="orange font12px"><strong>Q1 2013 "Spartacus" Sweepstakes<br>
+			       Grand Prize</strong><br>
+			       $500 Visa<sup>&#174;</sup> Gift Card</p>  
+			   </div>
+
+				<br class="clear" />
+				</div>
+
+				<div>
+
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>ROXANNE DANIHEL</h4>
+			       <p>La Crosse, WI<br>
+			          CENTURYLINK</p>
+			       <p class="orange font12px"><strong>Q1 2013 "Spartacus" Sweepstakes<br>
+			       Bonus Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>  
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_generic.jpg" width="200" height="200" alt="Congratulations Winner!"></p>
+			       <h4>ABRAHAM GARCIA</h4>
+			       <p>El Paso, TX<br>
+			          DISH NETWORK</p>
+			       <p class="orange font12px"><strong>Q1 2013 "Spartacus" Sweepstakes<br>
+			       Grand Prize</strong><br>
+			       $500 Visa<sup>&#174;</sup> Gift Card</p>  
+			   </div>
+               <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_micheleDonvito.jpg" width="200" height="200" alt="Congratulations MICHELE DONVITO!"></p>
+			       <h4>MICHELE DONVITO</h4>
+			       <p>Palmer, PA<br>
+			         BLUE RIDGE COMMUNICATIONS</p>
+			       <p class="orange font12px"><strong>Q1 2013 "Spartacus" Sweepstakes<br>
+			       Bonus Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>  
+			   </div>
+			   <div class="winnerDetails">
+			   	<p><img class="lightBorder" src="images/sweepsWinners/winner_lasarahReid.jpg" width="200" height="200" alt="Congratulations LASARAH REID!"></p>
+			       <h4>LASARAH REID</h4>
+			       <p>Hollywood, FL<br>
+			         COMCAST</p>
+			       <p class="orange font12px"><strong>Q1 2013 "Spartacus" Sweepstakes<br>
+			       Bonus Prize</strong><br>
+			       iPad<sup>&#174;</sup> Mini</p>  
+			   </div>
+			   <br class="clear" />	
+			</div-->
+
+		</div><!-- end #winnerSection -->
+		
+				
+		<!--<div class="headerLarge leftMargin" style="margin-top: 40px;">
+			<h2>INSTANT WIN Sweepstakes</h2>
+		</div>
+		<h4 style="display: block; width:auto; margin: 5px 0px 10px 30px;text-align:left;">One in four cards wins! Are you an INSTANT WINNER?</h4>
+		<div id="instantWin">
+			<img src="images/instantWin/instantWin_siteImage_Jan2014.jpg" width="920" height="237" alt="Instant Win Sweepstakes"/><br />
+			<a id="btn_instantWin" href="http://promotions.starz.com/starz2013q2/" target="sweepsFrame" onclick="_gaq.push(['_trackEvent', 'SweepsEnter', 'Click_InstantWin_Q2_2013']);"><img src="images/instantWin/instantWin_enterButton.jpg" width="593" height="51" alt="Instant Win Sweepstakes - Click to Enter" /></a>	
+			<br class="clear" />
+		</div> end #instantWin -->
+		
+		<div id="page_footer">
+			<p class="disclaimer">Visit starz.com for airdates/times. Starz and related channels and service marks are the property of Starz Entertainment LLC. Blunt Talk &copy; 2015 MRC II Distribution Company, LP.  All Rights Reserved.  Survivor’s Remorse &copy; 2014 Starz  Entertainment, LL.  All Rights Reserved., Xbox®, Xbox Live®, the Xbox logos, and/or other Microsoft products referenced herein are either trademarks or registered trademarks of Microsoft Corporation., Sweepstakes runs through Q3: July 1, 2015 - September 30, 2015. Visit starzCSR.com/sweepstakes.html for full terms and conditions. iPad and iPad Air are the trademarks of Apple, Inc, registered in the U.S. and other countries. Visa is a registered trademark of Visa International Service Association. All rights reserved. Apple and Visa International Service Association are not sponsors or participants of this promotion.</p>
+		</div><!-- end #page_footer-->
+	</div><!-- end #contentContainer -->
+	
+	<!-- modal popup -->
+	<div id="my_modal"style="display:none;margin:1em;">
+		<div class="modalcontent">
+			<a href="photohunt.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'PopUp', 'DVD_DarkSide_Popup']);"><img src="images/elements/popupImage_pwr_photo.jpg" alt="Power Photo Hunt" border="0" width="810" height="400"/></a>
+		</div>
+		
+		<a href="#" class="my_modal_close" style="position:absolute;top:5px;right:5px;z-index:5;padding:2px 0.4em;color:#A09F9F; font-size:14px;font-weight:normal; border: 1px solid #A09F9F;">X</a>
+		
+		<!--<a id="pirateButton" href="pirates.html"style="text-align:center;"><img src="images/piratize/popupLinkButton.png" alt="Visit the Black Sails Loot Section!" /></a>
+	   <h1 style="font-weight:bold;padding-bottom:10px;">New poll questions are now available!</h1>
+	   <a id="surveyButton" href="#" class="my_modal_close" style="text-align:center;">Go There Now</a>-->
+	</div>	
+	<script>
+		$('#toggleWinners').click(function() {
+			$(this).children('h2').toggleClass('closed expanded');
+			$('#winnerSection').toggle('fast', function() {});
+		});
+		
+		/*if ($.cookie('csrCookie') != 'PWR_PhotoHunt') {
+			$('#my_modal').popup({
+				'vertical' : 'center',
+				'autoopen': true,
+				'opacity': 0.6,
+				'onClose': function(){
+				   	$('.modalcontent').html("");
+				   	$('#my_modal').remove();
+				}
+			});
+				
+			$.cookie('csrCookie', 'PWR_PhotoHunt');
+		}*/
+
+	</script>
+
+</body>
+</html>

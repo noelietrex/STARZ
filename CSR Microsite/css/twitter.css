@@ -1,0 +1,80 @@
+/******************
+Common
+******************/
+.twitter {
+	display:none;
+	clear:both;
+	height:350px;
+	width:320px;
+	overflow: hidden;
+	margin-bottom:10px;
+}
+
+.twitter-container{
+	width:50000px;
+	height:50000px;
+	position: absolute;
+}
+
+.twitter-text{
+	float:left;
+}
+	
+.twitter-image {
+	width:60px;
+	float:left;
+}
+	
+.twitter-user {
+	font-size:12px;
+	font-weight:bold;
+}
+
+.twitter-user a {
+	color:#4D4D4D;
+}
+	
+.twitter-time {
+	font-size:10px;
+	color:#717171;
+}
+	
+.twitter-tweet {
+	font-size:12px;
+	margin-top: 10px;
+}
+
+.twitter-item {
+	list-style: none;
+	color:#717171;
+}
+.twitter-item a,
+.twitter-item a:visited {
+	color:#2C2C2C;
+}
+.twitter-item a:hover,
+.twitter-item a:active {
+	color:#BD5A03;
+}
+
+.twitter-title {
+	margin-bottom: 25px;
+}
+
+.twitter ul {
+	margin:0;
+	padding:0;
+}
+
+.twitter-horzscroll .twitter-item {
+	float:left;
+}
+
+.twitter-vertscroll .twitter-item {
+	
+}
+
+.twitter-links {
+	text-align: center;
+	margin-bottom: 30px;
+}

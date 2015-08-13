@@ -1,0 +1,92 @@
+.puzzle {
+	margin:10px 0 0 20px;
+	border:1px solid black;
+}
+#puzzle-navigation { 
+	list-style: none; 
+	margin: 0; 
+	padding: 0;
+	font-size: 1.2em;
+	white-space: nowrap;
+}
+
+#puzzle-navigation li{
+	font-family: "Century Gothic", Verdana, Arial, Sans-Serif;
+	font-size: 55%;
+	float: left;
+	position: relative;
+	display: block;
+	padding: 2px 6px 5px 6px;
+	text-decoration: none;
+	color: #ddd;
+	cursor: pointer;
+}
+
+#puzzle-navigation li:hover{
+	color: #fff;
+}
+
+#puzzle-navigation li:hover ul {display: block;}
+#puzzle-navigation ul{
+	float: none;
+	display: none;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	top: 1.9em;
+	left: 0;
+	position: absolute;
+}
+
+#puzzle-navigation ul li{
+	float: none;
+	clear: none;
+	margin: 0;
+	padding: 0;
+	background: #999;
+}
+
+#puzzle-navigation li:hover ul li,
+#puzzle-navigation ul li{
+	font-size: 100%;
+	line-height: 100%;
+	display: block;
+	padding: 2px 6px 2px 6px;
+	float: none;
+	text-transform: lowercase;
+	color: #666;
+	background: white;
+}
+
+#puzzle-navigation li:hover ul li:hover,
+#puzzle-navigation ul li:hover{
+	font-size: 100%;
+	background: #999;
+	color: #fff;	
+}
+
+.popupwindow2{
+	z-index:100;
+	position: absolute;	
+	width:600px;
+	height:550px;
+	left:50%;
+	border:5px solid #000;
+	margin-left: -300px;
+	display: none;
+	top:275px;
+}
+
+.hidebtn{
+	display: block;
+	width:30px;
+	height:30px;
+	position: absolute;
+	top:5px;
+	right:5px;
+}
+
+a.hidebtn{
+	font-size:2em;
+	color:#fff;
+}

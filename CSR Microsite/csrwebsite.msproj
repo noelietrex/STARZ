@@ -1,0 +1,30 @@
+<Project DefaultTargets="Dist" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+<Import Project="$(MSBuildExtensionsPath)\MSBuildCommunityTasks\MSBuild.Community.Tasks.Targets"/>
+
+	<PropertyGroup>
+	<DistDir>$(MSBuildProjectDirectory)\_build</DistDir>
+	<ContinueOnError>false</ContinueOnError>
+	<StopOnFirstFailure>true</StopOnFirstFailure>
+	</PropertyGroup>
+
+	<!-- Builds the distribution package for Bamboo to use as the deployment artifact -->
+	<Target Name="Dist">
+
+	<RemoveDir Directories="$(DistDir)"
+		Condition="Exists($(DistDir))">
+	</RemoveDir>
+	<MakeDir Directories="$(DistDir)"/>
+
+	<ItemGroup>
+	  <ZipFiles Include="$(MSBuildProjectDirectory)\**\*.*"
+				Exclude="$(MSBuildProjectDirectory)\**\.svn\**; $(MSBuildProjectDirectory)\**\*.zip; $(MSBuildProjectDirectory)\**\*.msproj "/>
+	</ItemGroup>
+
+	<Zip Files="@(ZipFiles)"
+		 WorkingDirectory="$(MSBuildProjectDirectory)"
+		 ZipFileName="$(DistDir)\csrwebsite.zip"
+	/>
+	</Target> 
+  
+</Project>

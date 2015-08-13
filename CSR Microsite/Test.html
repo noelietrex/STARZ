@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Starz Video Player</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"
+            charset="utf-8"></script>
+    <script src="JsLib/starzVideoPlayer2.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+        var myFooterEnabled = true;
+
+        var options = {
+            src: "rtmp://cp67126.edgefcs.net/ondemand/mediapm/osmf/content/test/akamai_10_year_f8_512K",
+            srcApple: "http://starzcontent.starz.com/downloads/access_global/hls/spartacus/25679_spartacus_season_preview.m3u8",
+            ccUri: "",
+            poster: "SiteImagesLib/starz_lightBkgd_685x385.jpg",
+            skin: "/SiteImagesLib/VideoSkins/spartacus_s3.xml",
+            title: "",
+            description: "This is a Test Player",
+            embedVideoViewPath: "",
+            embedLink: "",
+            width: 640,
+            height: 420,
+            forceHtml5: false,
+            forceNoFlash: false,
+            autoPlay: false,
+            trackingEnabled: false,
+            footerEnabled: myFooterEnabled,
+            shareEnabled: true
+        };
+
+        jQuery(document).ready(function () {
+
+            $(".play").bind("click", function (event) {
+                starzVideoPlayer2.play();
+            });
+
+            $(".pause").bind("click", function (event) {
+                starzVideoPlayer2.pause();
+            });
+
+            $(".stop").bind("click", function (event) {
+                starzVideoPlayer2.stop();
+            });
+
+            $(".load").bind("click", function (event) {
+                setNewSource();
+            });
+
+            $(".description").bind("click", function (event) {
+                toggleFooter();
+            });
+
+            starzVideoPlayer2.init(options);
+        });
+
+        function setNewSource(event) {
+            var optionsReload = {
+                src: jQuery("#videoUrl").val(),
+                srcApple: jQuery("#appleVideoUrl").val(),
+                ccUri: jQuery("#videoCcUrl").val(),
+                poster: jQuery("#posterImgUrl").val(),
+                footerEnabled: myFooterEnabled,
+                shareEnabled: myFooterEnabled
+            };
+
+            starzVideoPlayer2.showVideo(optionsReload);
+        }
+
+        function toggleFooter(event) {
+            myFooterEnabled = !myFooterEnabled;
+
+            if (myFooterEnabled) {
+                $("#MyPlayer").height(420);
+            } else {
+                $("#MyPlayer").height(360);
+            }
+
+            var optionsReload = {
+                footerEnabled: myFooterEnabled,
+                shareEnabled: myFooterEnabled
+            };
+
+            starzVideoPlayer2.showVideo(optionsReload);
+        }
+
+    </script>
+
+    <style type="text/css">
+            /* This is Critical */
+        #StarzVideoPlayer {
+            width: 640px;
+            height: 360px;
+        }
+
+        #MyPlayer {
+            width: 640px;
+            height: 420px;
+            background-color: black;
+        }
+
+        input {
+            width: 535px;
+        }
+
+        .controls {
+            margin: 20px 0 10px 168px;
+        }
+
+        .button {
+            background-color: black;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            padding: 5px;
+        }
+
+        table {
+            margin-left: 20px;
+        }
+
+        td {
+            color: black;
+            font-weight: bold;
+            text-align: right
+        }
+    </style>
+
+</head>
+
+<body>
+<div id="MyPlayer">
+    <div id="StarzVideoPlayerWrapper">
+        <div id="StarzVideoPlayer">
+            <div id="StarzVideoPlayerFallback">
+                <a href="http://www.adobe.com/go/getflashplayer" target="_blank"> <img
+                        src="SiteImagesLib/no-flash-image-685.jpg" alt="Update Flash Player Image"/></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="controls">
+    <span class="play button">Play</span>
+    <span class="pause button">Pause</span>
+    <span class="stop button">Stop</span>
+    <span class="load button">Load</span>
+    <span class="description button">Toggle Footer</span>
+</div>
+
+<table>
+    <tr>
+        <td>Poster</td>
+        <td>
+            <input id="posterImgUrl" value="https://blogs.akamai.com/Rich%20blog%20picture%201.png"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Video URL</td>
+        <td>
+            <input id="videoUrl"
+                   value="rtmp://cp67126.edgefcs.net/ondemand/mediapm/osmf/content/test/akamai_10_year_f8_512K"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Apple Video URL</td>
+        <td>
+            <input id="appleVideoUrl"
+                   value="http://starzcontent.starz.com/downloads/access_global/hls/spartacus/25679_spartacus_season_preview.m3u8"/>
+        </td>
+    </tr>
+    <tr>
+        <td>CC URL</td>
+        <td>
+            <input id="videoCcUrl"
+                   value="http://mediapm.edgesuite.net/osmf/content/test/captioning/akamai_sample_caption.xml"/>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

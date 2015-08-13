@@ -1,0 +1,159 @@
+.videoWrapper
+{
+	position:absolute;
+	top:0px;
+}
+
+#VideoPlayerWrapper #StarzVideoPlayer
+{
+	position: inherit; 
+}
+
+#StarzVideoPlayerFallback
+{
+	display:none;
+	overflow: hidden;
+}
+.hidden
+{
+	display: none;
+}
+
+.page_videoEmbed
+{
+	background-color:#000000;
+	color:#ffffff;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.page_videoEmbed a,
+.page_videoEmbed a:link,
+.page_videoEmbed a:visited,
+.page_videoEmbed a:hover
+{
+	color:#ffffff;
+}
+
+#preAgeGate
+{
+	text-align:center; 
+	cursor:pointer;  
+	position:absolute; 
+}
+
+.roundPlayButton2
+{
+	cursor:pointer; 
+	position:absolute;
+	background-image:url('/SiteImagesLib/roundPlayButton2_Overlay.png');
+	background-repeat:no-repeat;
+	width: 150px;
+	height: 150px;
+}
+.roundPlayButton2:hover
+{
+	background-image:url('/SiteImagesLib/roundPlayButton2_OverlayOver.png');
+}
+
+#ageGate
+{
+	position:absolute;
+	background-image:url(/SiteImagesLib/ageGateBG.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	width:325px;
+	height:190px;
+	text-align:center;
+	color:#E5E5E5 !Important;
+	font-family:Tahoma,Geneva,sans-serif;font-size:14px;
+}
+
+.ageGateWarning
+{
+	width: 97px;
+	height:16px;
+	background:url(/SiteImagesLib/ageGate_warning.png) no-repeat center;
+	vertical-align:middle;
+	padding-top:30px;
+}
+
+.ageGateForm
+{
+	padding-top:10px;
+}
+
+.ageGateForm span
+{
+	margin-right: 5px;
+}
+
+.ageGateSubmit2
+{
+	background:url(/SiteImagesLib/ageGate_submit.png);
+	height:20px;
+	width:75px;
+	cursor:pointer;
+}
+
+#VideoDescriptionWrapper
+{ 
+	height:60px;
+	background-color: #000000;
+}
+
+#VideoDescCopy
+{
+	padding: 10px 0px 0px 10px;
+	width:81%;
+	float:left;
+}
+
+#VideoDescCopy span 
+{
+	font-size: 11px;
+	line-height: 15px;
+	color: white;
+}
+
+#VideoSocialShare
+{
+	width:96px;
+	float:right;
+	padding: 10px 0px 0px 0px;
+}
+
+#shareBtnFacebook
+{
+	background-image:url('/SiteImagesLib/facebookLogo.png');
+}
+
+#shareBtnTwitter
+{ 
+	background-image:url('/SiteImagesLib/twitterLogo.png');
+}
+
+.socialBtn
+{
+    float: left;
+    height: 44px;
+	width: 44px;
+	cursor: pointer;
+	padding: 0 4px 0 0;
+	background-repeat: no-repeat;	
+}
+
+#emClose
+{
+	position:absolute; 
+	top:15px; 
+	right:20px; 
+	width:30px; 
+	height:30px; 
+	cursor: pointer;
+}
+
+video 
+{
+	position:absolute; 
+	-webkit-transform-style: preserve-3d;
+}
