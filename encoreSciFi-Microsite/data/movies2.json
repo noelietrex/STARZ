@@ -1,0 +1,3146 @@
+{
+  "fulldailylineup": [
+    {
+      "contentId": "22213",
+      "name": "Alien",
+      "title": "ALIEN",
+      "subtitle": null,
+      "description": "The original classic! The frightening, intense story of the discovery of a vicious alien species by blue-collar space crew has become a sci-fi landmark. Oscar-winner for Best Visual Effects, directed by Ridley Scott.",
+      "assetName": "[22213] Alien (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "22213",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/315bcda5-0b07-49b4-9a3d-5759ffde6b35.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/315bcda5-0b07-49b4-9a3d-5759ffde6b35.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/16072ef5-4a5b-4dbd-8cf6-ced322dba569.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/16072ef5-4a5b-4dbd-8cf6-ced322dba569.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-10-10 08:30:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Tom Skerritt, Sigourney Weaver, John Hurt, Veronica Cartwright, Harry Dean Stanton, Ian Holm, Yaphet Kotto",
+          "Channel": "STARZ InBlack",
+          "Copyright": "© 1979 20TH CENTURY FOX",
+          "Description": "The original classic! The frightening, intense story of the discovery of a vicious alien species by blue-collar space crew has become a sci-fi landmark. Oscar-winner for Best Visual Effects, directed by Ridley Scott.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+          "MediaId": "22213",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1979",
+          "RunTime": "116",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Alien",
+          "URLSafeTitle": "alien",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "10394",
+      "name": "Johnny Mnemonic",
+      "title": "JOHNNY MNEMONIC",
+      "subtitle": null,
+      "description": "Bad guys and a crazed cyborg pursue a data courier - a man whose job is to transport classified information on a computer chip implanted in his head - before his brain melts! Screenplay by cyberpunk author William Gibson.",
+      "assetName": "[10394] Johnny Mnemonic (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "10394",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/7939f105-f1bc-4ad1-a186-3ffc87877c4e.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/7939f105-f1bc-4ad1-a186-3ffc87877c4e.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/cea64182-4768-476b-abf8-762ebc2f513b.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/cea64182-4768-476b-abf8-762ebc2f513b.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/cea64182-4768-476b-abf8-762ebc2f513b.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/cea64182-4768-476b-abf8-762ebc2f513b.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10394/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-10-15 12:00:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Keanu Reeves, Dolph Lundgren, Takeshi, Ice-T, Dina Meyer, Udo Kier, Denis Akiyama, Henry Rollins, Tracy Tweed, Don Francks, Barbara Sukowa",
+          "Channel": "STARZ InBlack",
+          "Copyright": "© 1995 COLUMBIA/TRISTAR PICTURES",
+          "Description": "Bad guys and a crazed cyborg pursue a data courier - a man whose job is to transport classified information on a computer chip implanted in his head - before his brain melts! Screenplay by cyberpunk author William Gibson.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10394/type/KEY/dimension/182X270",
+          "MediaId": "10394",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10394/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10394/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/7939f105-f1bc-4ad1-a186-3ffc87877c4e.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1995",
+          "RunTime": "96",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Johnny Mnemonic",
+          "URLSafeTitle": "johnny-mnemonic",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24479",
+      "name": "Phantoms",
+      "title": "PHANTOMS",
+      "subtitle": null,
+      "description": "A professor reduced to selling his supernatural theories to tabloids realizes - when a small Colorado ski town gets wiped out - that the Ancient Enemy, destroyer of civilizations, has returned! With Ben Affleck, Liev Schrieber.",
+      "assetName": "[24479] Phantoms (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24479",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24479/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Peter O'Toole, Rose McGowan, Ben Affleck, Joanna Going, Liev Schreiber, Nicky Katt, Clifton Powell, Rick Otto, Rachel Shane, Adam Nelson, John Hammil, John Scott Clough, Michael DeLorenzo",
+          "Channel": null,
+          "Copyright": "Unknown",
+          "Description": "A professor reduced to selling his supernatural theories to tabloids realizes - when a small Colorado ski town gets wiped out - that the Ancient Enemy, destroyer of civilizations, has returned! With Ben Affleck, Liev Schrieber.",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24479/type/KEY/dimension/182X270",
+          "MediaId": "24479",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24479/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24479/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1998",
+          "RunTime": "96",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Phantoms",
+          "URLSafeTitle": "phantoms",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "19982",
+      "name": "Fire In The Sky",
+      "title": "FIRE IN THE SKY",
+      "subtitle": null,
+      "description": "In the White Mountains of Arizona, a man disappears after being hit by a light from the sky. When he suddenly reappears five days later, he has terrifying memories of an alien abduction.",
+      "assetName": "[19982] Fire In The Sky (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "19982",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/86f6b4d8-a087-4a80-a7f1-d888a933981c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/86f6b4d8-a087-4a80-a7f1-d888a933981c.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/0663ba56-1eb6-4e95-8244-6c9440c0f0bf.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/0663ba56-1eb6-4e95-8244-6c9440c0f0bf.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/e3143cf5-aa9b-42f3-9377-6403bc96eab5.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/e3143cf5-aa9b-42f3-9377-6403bc96eab5.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/19982/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "D.B. Sweeney, Robert Patrick, Craig Sheffer, Peter Berg, James Garner, Henry Thomas, Bradley Gregg, Noble Willingham, Kathleen Wilhoite, Georgia Emelin, Scott MacDonald, Wayne Grace",
+          "Channel": null,
+          "Copyright": "© 1993 PARAMOUNT PICTURES",
+          "Description": "In the White Mountains of Arizona, a man disappears after being hit by a light from the sky. When he suddenly reappears five days later, he has terrifying memories of an alien abduction.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/19982/type/KEY/dimension/182X270",
+          "MediaId": "19982",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/19982/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/19982/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/86f6b4d8-a087-4a80-a7f1-d888a933981c.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "1993",
+          "RunTime": "109",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Fire In The Sky",
+          "URLSafeTitle": "fire-in-the-sky",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "15527",
+      "name": "The Butterfly Effect",
+      "title": "BUTTERFLY EFFECT, THE",
+      "subtitle": null,
+      "description": "A young man discovers he has the ability to project himself back through time, where he tries to alter tragic incidents in his history - but that causes problems in the present in this mind-blowing thriller.",
+      "assetName": "[15527] The Butterfly Effect (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "15527",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/15527/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-10-04 15:20:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Ashton Kutcher, Amy Smart, William Lee Scott, Elden Henson, Melora Walters, Eric Stoltz, Callum Keith Rennie, Ethan Suplee, Kevin Schmidt, Logan Lerman, Irene Gorovaia, Jesse James, John Patrick Amedori",
+          "Channel": "STARZ",
+          "Copyright": "© 2004 NEW LINE PRODUCTIONS, INC..",
+          "Description": "A young man discovers he has the ability to project himself back through time, where he tries to alter tragic incidents in his history - but that causes problems in the present in this mind-blowing thriller.",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/15527/type/KEY/dimension/182X270",
+          "MediaId": "15527",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/15527/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/15527/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "2003",
+          "RunTime": "113",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "The Butterfly Effect",
+          "URLSafeTitle": "the-butterfly-effect",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24165",
+      "name": "WarGames",
+      "title": "WARGAMES",
+      "subtitle": null,
+      "description": "Matthew Broderick stars as a computer gaming whiz who hacks into a military network, and accidentally starts the countdown to World War III. Can he stop the countdown before it launches the ultimate endgame?",
+      "assetName": "[24165] WarGames (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24165",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/e2d952bb-a775-4d1e-bfec-5d41eda5f034.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/e2d952bb-a775-4d1e-bfec-5d41eda5f034.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/05e343a2-186e-41dc-8c83-a1e817fb4f9f.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/05e343a2-186e-41dc-8c83-a1e817fb4f9f.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/05e343a2-186e-41dc-8c83-a1e817fb4f9f.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/05e343a2-186e-41dc-8c83-a1e817fb4f9f.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24165/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-10-03 06:30:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Matthew Broderick, Dabney Coleman, Ally Sheedy, John Wood, Barry Corbin, Juanin Clay",
+          "Channel": "STARZ",
+          "Copyright": "© 1983 UNITED ARTISTS CORPORATION",
+          "Description": "Matthew Broderick stars as a computer gaming whiz who hacks into a military network, and accidentally starts the countdown to World War III. Can he stop the countdown before it launches the ultimate endgame?",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24165/type/KEY/dimension/182X270",
+          "MediaId": "24165",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24165/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24165/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/e2d952bb-a775-4d1e-bfec-5d41eda5f034.MP4",
+          "Rating": "PG",
+          "ReleaseYear": "1983",
+          "RunTime": "112",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "WarGames",
+          "URLSafeTitle": "wargames",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23362",
+      "name": "Guardians Of The Galaxy",
+      "title": "GUARDIANS OF THE GALAXY",
+      "subtitle": null,
+      "description": "The Marvel comic comes to life! Five crazy loners - including a sharpshooting raccoon and a humanoid tree - discover they must band together to save the universe in this whip-smart, wise-cracking sci-fi adventure.",
+      "assetName": "[23362] Guardians Of The Galaxy (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23362",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-29 21:05:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, Benicio Del Toro, John C Reilly, Glenn Close, Laura Haddock, Sean Gunn, Peter Serafinowicz, Christopher Fairbank",
+          "Channel": "STARZ Kids & Family",
+          "Copyright": "© MARVEL. ALL RIGHTS RESERVED",
+          "Description": "The Marvel comic comes to life! Five crazy loners - including a sharpshooting raccoon and a humanoid tree - discover they must band together to save the universe in this whip-smart, wise-cracking sci-fi adventure.",
+          "HasPreview": true,
+          "InstantPreviewSmall": "http://preview-g.starz.com/p/previews/d864b59b-2fd2-4755-9dab-5ade07eb4120.MP4",
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+          "MediaId": "23362",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2014",
+          "RunTime": "120",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:aa1dba89-8f4b-4a69-a3d9-9c20a9ce3eee",
+          "Title": "Guardians Of The Galaxy",
+          "URLSafeTitle": "guardians-of-the-galaxy",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "9376",
+      "name": "Gattaca",
+      "title": "GATTACA",
+      "subtitle": null,
+      "description": "In a future where genetic engineered people are favored, an imperfect young man assumes another's identity to gain a job as an astronaut - but his deception is discovered in this thoughtful sci-fi drama. With Jude Law.",
+      "assetName": "[9376] Gattaca (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "9376",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/dfdadf1f-8d52-4481-9e41-ba4a20b3c601.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/dfdadf1f-8d52-4481-9e41-ba4a20b3c601.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/9a0340fc-fc2b-47d6-be9e-a0003d2c8d70.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/9a0340fc-fc2b-47d6-be9e-a0003d2c8d70.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/19bc192f-9af3-486c-a10e-b52919a1b415.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/19bc192f-9af3-486c-a10e-b52919a1b415.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9376/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-17 14:00:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Ethan Hawke, Uma Thurman, Jude Law, Gore Vidal, Alan Arkin, Loren Dean, Jayne Brook, Elias Koteas, Chad Christ, William Lee Scott, Tony Shalhoub, Ernest Borgnine",
+          "Channel": "STARZ Cinema",
+          "Copyright": "© 1997 COLUMBIA PICTURES INDUSTRIES INC",
+          "Description": "In a future where genetic engineered people are favored, an imperfect young man assumes another's identity to gain a job as an astronaut - but his deception is discovered in this thoughtful sci-fi drama. With Jude Law.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9376/type/KEY/dimension/182X270",
+          "MediaId": "9376",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9376/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9376/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/dfdadf1f-8d52-4481-9e41-ba4a20b3c601.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "1997",
+          "RunTime": "106",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:8240a2f9-c23d-4626-b6d8-c081676e822f",
+          "Title": "Gattaca",
+          "URLSafeTitle": "gattaca",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23697",
+      "name": "Alien Vs. Predator",
+      "title": "ALIEN VS. PREDATOR",
+      "subtitle": null,
+      "description": "Scientists converge in Antarctica, where strange heat pulses reveal an ancient civilization, a massive under-the-ice pyramid - and an all out war between the Aliens and Predators!",
+      "assetName": "[23697] Alien Vs. Predator (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23697",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/213480ed-dad0-43b4-a577-a4bd73c59013.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/213480ed-dad0-43b4-a577-a4bd73c59013.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/f94f6407-902c-44c2-aa9d-6d50ccb0ff8f.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/f94f6407-902c-44c2-aa9d-6d50ccb0ff8f.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/f94f6407-902c-44c2-aa9d-6d50ccb0ff8f.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/f94f6407-902c-44c2-aa9d-6d50ccb0ff8f.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23697/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-20 04:25:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Lance Henriksen, Sanaa Lathan, Raoul Bova, Ewen Bremner, Colin Salmon, Tommy Flanagan, Joseph Rye, Carsten Norgaard, Sam Troughton, Ian Whyte",
+          "Channel": "STARZ InBlack",
+          "Copyright": "Unknown",
+          "Description": "Scientists converge in Antarctica, where strange heat pulses reveal an ancient civilization, a massive under-the-ice pyramid - and an all out war between the Aliens and Predators!",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23697/type/KEY/dimension/182X270",
+          "MediaId": "23697",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23697/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23697/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/213480ed-dad0-43b4-a577-a4bd73c59013.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2004",
+          "RunTime": "100",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:20345368-969d-4ef8-8232-1d0070c3a664",
+          "Title": "Alien Vs. Predator",
+          "URLSafeTitle": "alien-vs-predator",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24004",
+      "name": "The Arrival",
+      "title": "ARRIVAL, THE",
+      "subtitle": null,
+      "description": "An astrophysicist stumbles upon an extraterrestrial signal from outer space. But when his discovery is buried, he visits a secret South American research center and finds that shapeshifting aliens have begun terraforming the planet.",
+      "assetName": "[24004] The Arrival (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24004",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24004/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Charlie Sheen, Ron Silver, Lindsay Crouse, Teri Polo, Richard Schiff, Tony T Johnson, Leon Rippy, Buddy Joe Hooker",
+          "Channel": null,
+          "Copyright": "Unknown",
+          "Description": "An astrophysicist stumbles upon an extraterrestrial signal from outer space. But when his discovery is buried, he visits a secret South American research center and finds that shapeshifting aliens have begun terraforming the planet.",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24004/type/KEY/dimension/182X270",
+          "MediaId": "24004",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24004/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24004/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "PG13",
+          "ReleaseYear": "1996",
+          "RunTime": "115",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "The Arrival",
+          "URLSafeTitle": "the-arrival",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24468",
+      "name": "Doom",
+      "title": "DOOM",
+      "subtitle": null,
+      "description": "A group of space marines are sent to investigate strange events at a remote research facility on Mars, but once they arrive, they find themselves at the mercy of genetically altered killing machines.",
+      "assetName": "[24468] Doom (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24468",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24468/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "The Rock, Dhobi Oparei, Karl Urban, Dwayne \"The Rock\" Johnson, Rosamund Pike, Ben Daniels, Razaaq Adoti, Yao Chin, Dexter Fletcher, Raz Adoti, Al Weaver, Deobia Oparei, Brian Steele, Daniel York, Ian Hughes, Robert Russell, Sara Houghton, Richard Brake",
+          "Channel": null,
+          "Copyright": "Unknown",
+          "Description": "A group of space marines are sent to investigate strange events at a remote research facility on Mars, but once they arrive, they find themselves at the mercy of genetically altered killing machines.",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24468/type/KEY/dimension/182X270",
+          "MediaId": "24468",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24468/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24468/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "2005",
+          "RunTime": "104",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Doom",
+          "URLSafeTitle": "doom",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24475",
+      "name": "John Carpenter's They Live",
+      "title": "JOHN CARPENTER'S THEY LIVE",
+      "subtitle": null,
+      "description": "A drifter discovers a pair of sunglasses that reveal the true nature of the world - aliens in human disguise are running the planet! Now he begins a one-man war to defeat the invaders in John Carpenter's (Halloween) cult classic!",
+      "assetName": "[24475] John Carpenter's They Live (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24475",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Roddy Piper, Keith David, Meg Foster, George \"Buck\" Flower, Peter Jason, Raymond St. Jacques, Jason Robards II, Larry Franco, Jason Robards, Jason Robards III, George ``Buck'' Flower",
+          "Channel": null,
+          "Copyright": "© UNIVERSAL STUDIOS",
+          "Description": "A drifter discovers a pair of sunglasses that reveal the true nature of the world - aliens in human disguise are running the planet! Now he begins a one-man war to defeat the invaders in John Carpenter's (Halloween) cult classic!",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+          "MediaId": "24475",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1988",
+          "RunTime": "93",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "John Carpenter's They Live",
+          "URLSafeTitle": "john-carpenter-s-they-live",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24021",
+      "name": "Terminator 2: Judgment Day",
+      "title": "TERMINATOR 2: JUDGMENT DAY",
+      "subtitle": null,
+      "description": "A decade after the original Terminator was destroyed, a second killing machine arrives from 2029 - but this time his mission is to protect her son, the future leader of the human resistance, from an even deadlier cyborg.",
+      "assetName": "[24021] Terminator 2: Judgment Day (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24021",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/26b9ec88-af4a-4784-9ff4-ca5dd9001861.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/26b9ec88-af4a-4784-9ff4-ca5dd9001861.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/2ab113e5-a055-469d-9e97-5fb4dcebe29c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/2ab113e5-a055-469d-9e97-5fb4dcebe29c.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/2ab113e5-a055-469d-9e97-5fb4dcebe29c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/2ab113e5-a055-469d-9e97-5fb4dcebe29c.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24021/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-04 23:55:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick, Earl Boen, Joe Morton, S. Epatha Merkerson, Castulo Guerra, Danny Cooksey, Jeanette Goldstein, Xander Berkeley, Jenette Goldstein",
+          "Channel": "STARZ",
+          "Copyright": "© 1991 CAROLCO PICTURES INC.",
+          "Description": "A decade after the original Terminator was destroyed, a second killing machine arrives from 2029 - but this time his mission is to protect her son, the future leader of the human resistance, from an even deadlier cyborg.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24021/type/KEY/dimension/182X270",
+          "MediaId": "24021",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24021/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24021/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/26b9ec88-af4a-4784-9ff4-ca5dd9001861.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1991",
+          "RunTime": "137",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Terminator 2: Judgment Day",
+          "URLSafeTitle": "terminator-2-judgment-day",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "8907",
+      "name": "Mad Max",
+      "title": "MAD MAX",
+      "subtitle": null,
+      "description": "The original Australian cult classic: in the near future, an ex-cop searches the dangerous outback for the vicious cycle gang who killed his wife and child. The film that put Mel Gibson on the map, followed by two big-budget sequels.",
+      "assetName": "[8907] Mad Max (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "8907",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/9075bcb7-bdaf-4375-bca7-cca562f1a87f.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/9075bcb7-bdaf-4375-bca7-cca562f1a87f.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/032c6056-d2e5-4545-b555-93c7dd0f5518.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/032c6056-d2e5-4545-b555-93c7dd0f5518.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/032c6056-d2e5-4545-b555-93c7dd0f5518.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/032c6056-d2e5-4545-b555-93c7dd0f5518.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/8907/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley, Roger Ward, Vincent Gil, Tim Burns, Geoff Parry, Paul Johnstone, John Ley, Jonathan Hardy, Sheila Florence",
+          "Channel": null,
+          "Copyright": "© 1979 MGM STUDIOS INC",
+          "Description": "The original Australian cult classic: in the near future, an ex-cop searches the dangerous outback for the vicious cycle gang who killed his wife and child. The film that put Mel Gibson on the map, followed by two big-budget sequels.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/8907/type/KEY/dimension/182X270",
+          "MediaId": "8907",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/8907/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/8907/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/9075bcb7-bdaf-4375-bca7-cca562f1a87f.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1979",
+          "RunTime": "93",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Mad Max",
+          "URLSafeTitle": "mad-max",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "13853",
+      "name": "Videodrome",
+      "title": "VIDEODROME",
+      "subtitle": null,
+      "description": "A sleazy cable tv operator happens upon a mysterious, violent torture show - and discovers it's gruesome tool designed for global mind control! A cult classic from director David Cronenberg (The Fly).",
+      "assetName": "[13853] Videodrome (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "13853",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/13853/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "James Woods, Deborah Harry, Sonja Smits, Peter Dvorsky, Les Carlson, Jack Creley, Lynne Gorman, Julie Khaner",
+          "Channel": null,
+          "Copyright": "© 1983 UNIVERSAL CITY STUDIOS, INC.",
+          "Description": "A sleazy cable tv operator happens upon a mysterious, violent torture show - and discovers it's gruesome tool designed for global mind control! A cult classic from director David Cronenberg (The Fly).",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/13853/type/KEY/dimension/182X270",
+          "MediaId": "13853",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/13853/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/13853/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1983",
+          "RunTime": "87",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Videodrome",
+          "URLSafeTitle": "videodrome",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "12373",
+      "name": "Flash Gordon",
+      "title": "FLASH GORDON",
+      "subtitle": null,
+      "description": "The intrepid sci-fi comic book hero and his beautiful girlfriend battle interstellar menace Ming the Merciless as he attempts to conquer planet Earth. Music by Queen.",
+      "assetName": "[12373] Flash Gordon (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "12373",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/12373/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Sam Jones, II, Melody Anderson, Max von Sydow, Topol, Ornella Muti, Timothy Dalton, Brian Blessed, Peter Wyngarde, Mariangela Melato, John Osborne, Richard O'Brien, John Hallam, Philip Stone, Suzanne Danielle, William Hootkins, Bobbie Brown, Ted Carroll, Adrienne Kronenberg, Robbie Coltrane, Sam Jones",
+          "Channel": null,
+          "Copyright": "© 1980 MGM STUDIOS INC.",
+          "Description": "The intrepid sci-fi comic book hero and his beautiful girlfriend battle interstellar menace Ming the Merciless as he attempts to conquer planet Earth. Music by Queen.",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/12373/type/KEY/dimension/182X270",
+          "MediaId": "12373",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/12373/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/12373/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "PG",
+          "ReleaseYear": "1980",
+          "RunTime": "111",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Flash Gordon",
+          "URLSafeTitle": "flash-gordon",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "22803",
+      "name": "Aliens",
+      "title": "ALIENS",
+      "subtitle": null,
+      "description": "The rip-roaring sequel to Alien! Ripley heads back to the monster-infested planet when she joins a military contingent sent to investigate. Non-stop action, Oscar-winner for Best Visual Effects.",
+      "assetName": "[22803] Aliens (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "22803",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/249d963b-a981-46b8-ad18-249218d9a351.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/249d963b-a981-46b8-ad18-249218d9a351.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/34f24fec-957c-4970-bbee-0696b3622e14.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/34f24fec-957c-4970-bbee-0696b3622e14.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/751f4b75-569a-416c-bc2c-623ec2f9e7e9.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/751f4b75-569a-416c-bc2c-623ec2f9e7e9.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22803/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-01 05:25:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Bill Paxton, William Hope, Jeanette Goldstein, Al Matthews, Mark Rolston, Ricco Ross, Colette Hiller, Daniel Kash, Cynthia Scott, Tip Tipping, Trevor Steedman, Paul Maxwell, Valerie Colgan, Alan Polonsky, Alibe Parsons, Jenette Goldstein, Cynthia Dale Scott",
+          "Channel": "STARZ Edge",
+          "Copyright": "© 1986 20TH CENTURY FOX",
+          "Description": "The rip-roaring sequel to Alien! Ripley heads back to the monster-infested planet when she joins a military contingent sent to investigate. Non-stop action, Oscar-winner for Best Visual Effects.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22803/type/KEY/dimension/182X270",
+          "MediaId": "22803",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22803/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22803/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/249d963b-a981-46b8-ad18-249218d9a351.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1986",
+          "RunTime": "137",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Aliens",
+          "URLSafeTitle": "aliens",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "16345",
+      "name": "Invasion Of The Body Snatchers",
+      "title": "INVASION OF THE BODY SNATCHERS",
+      "subtitle": null,
+      "description": "San Francisco residents are slowly being replaced by emotionless replicas, and it's up to a handful of humans to stop the invasion! A chilling remake of the sci-fi classic, with Leonard Nimoy.",
+      "assetName": "[16345] Invasion Of The Body Snatchers (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "16345",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/85232081-e7da-4ad1-b9ee-1d215d068c98.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/85232081-e7da-4ad1-b9ee-1d215d068c98.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/00e5279d-e1de-4ec0-9fef-8fb5d7bc5b09.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/00e5279d-e1de-4ec0-9fef-8fb5d7bc5b09.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/3fecab82-b9fb-4a1b-b733-ff1b394d1f0e.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/3fecab82-b9fb-4a1b-b733-ff1b394d1f0e.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/16345/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Donald Sutherland, Brooke Adams, Leonard Nimoy, Veronica Cartwright, Jeff Goldblum, Art Hindle, Lelia Goldoni, Kevin McCarthy",
+          "Channel": null,
+          "Copyright": "© 1978 UNITED ARTISTS CORPORATION",
+          "Description": "San Francisco residents are slowly being replaced by emotionless replicas, and it's up to a handful of humans to stop the invasion! A chilling remake of the sci-fi classic, with Leonard Nimoy.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/16345/type/KEY/dimension/182X270",
+          "MediaId": "16345",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/16345/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/16345/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/85232081-e7da-4ad1-b9ee-1d215d068c98.MP4",
+          "Rating": "PG",
+          "ReleaseYear": "1978",
+          "RunTime": "115",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Invasion Of The Body Snatchers",
+          "URLSafeTitle": "invasion-of-the-body-snatchers",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23054",
+      "name": "Starman",
+      "title": "STARMAN",
+      "subtitle": null,
+      "description": "A Wisconsin widow falls for the alien who has recreated her late husband's face and body - and both head for the west, on the run from government agencies in this smart, romantic sci-fi adventure.",
+      "assetName": "[23054] Starman (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23054",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/b1c5b5f8-2069-4207-90e2-613edc0b4013.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/b1c5b5f8-2069-4207-90e2-613edc0b4013.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/7a98db8d-176a-4ee6-b5cc-893cbdf93f54.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/7a98db8d-176a-4ee6-b5cc-893cbdf93f54.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/94244576-ed43-48f9-9d6d-a476409189de.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/94244576-ed43-48f9-9d6d-a476409189de.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23054/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-18 10:20:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Jeff Bridges, Karen Allen, Charles Martin Smith, Richard Jaeckel, Robert Phalen, Anthony Edwards, Tony Edwards, John Walter Davis, Ted White",
+          "Channel": "STARZ Kids & Family",
+          "Copyright": "© COLUMBIA/TRISTAR",
+          "Description": "A Wisconsin widow falls for the alien who has recreated her late husband's face and body - and both head for the west, on the run from government agencies in this smart, romantic sci-fi adventure.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23054/type/KEY/dimension/182X270",
+          "MediaId": "23054",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23054/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23054/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/b1c5b5f8-2069-4207-90e2-613edc0b4013.MP4",
+          "Rating": "PG",
+          "ReleaseYear": "1984",
+          "RunTime": "114",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Starman",
+          "URLSafeTitle": "starman",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "9087",
+      "name": "Predator 2",
+      "title": "PREDATOR 2",
+      "subtitle": null,
+      "description": "L.A. is in the middle of a brutal gang war, the streets are a war zone - but now there's a third party involved in the bloodshed. It's not human, and its weaponry is definitely alien!",
+      "assetName": "[9087] Predator 2 (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "9087",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9087/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Danny Glover, Gary Busey, Ruben Blades, Maria Conchita Alonso, Bill Paxton, Kevin Peter Hall, Robert Davi, Adam Baldwin, Kent McCord, Morton Downey Jr., Calvin Lockhart",
+          "Channel": null,
+          "Copyright": "© 1990 TWENTIETH CENTURY FOX FILM CORPORATION",
+          "Description": "L.A. is in the middle of a brutal gang war, the streets are a war zone - but now there's a third party involved in the bloodshed. It's not human, and its weaponry is definitely alien!",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9087/type/KEY/dimension/182X270",
+          "MediaId": "9087",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9087/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9087/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1990",
+          "RunTime": "107",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Predator 2",
+          "URLSafeTitle": "predator-2",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "10712",
+      "name": "Men In Black",
+      "title": "MEN IN BLACK",
+      "subtitle": null,
+      "description": "Hilarious sci-fi adventure about two secret government agents whose job is to police alien activity on Earth. The men in black must track down an intergalactic terrorist and prevent the planet's destruction.",
+      "assetName": "[10712] Men In Black (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "10712",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/2f6cde9d-94f1-410c-b3ca-e4af0a038a85.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/2f6cde9d-94f1-410c-b3ca-e4af0a038a85.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/da0fa055-e5ad-4c62-8abf-f34598ec5fd3.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/da0fa055-e5ad-4c62-8abf-f34598ec5fd3.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-25 09:20:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent Phillip D'Onofrio, Rip Torn, Tony Shalhoub, Sergio Calderon, Siobhan Fallon, Carel Struycken, Michael Willis, Vincent D'Onofrio",
+          "Channel": "STARZ InBlack",
+          "Copyright": "© 1997 COLUMBIA PICTURES INDUSTRIES INC",
+          "Description": "Hilarious sci-fi adventure about two secret government agents whose job is to police alien activity on Earth. The men in black must track down an intergalactic terrorist and prevent the planet's destruction.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+          "MediaId": "10712",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "1997",
+          "RunTime": "97",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:82e64927-0680-4072-8107-bbd733cfe58f",
+          "Title": "Men In Black",
+          "URLSafeTitle": "men-in-black",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "18814",
+      "name": "The Cave",
+      "title": "CAVE, THE",
+      "subtitle": null,
+      "description": "Bloodthirsty creatures await a pack of divers who become trapped in an underwater cave network.",
+      "assetName": "[18814] The Cave (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "18814",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/d96f4154-9a6d-41e0-81e8-1844fad9ae85.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/d96f4154-9a6d-41e0-81e8-1844fad9ae85.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/0f5ed1f3-7892-4088-8330-64eca2ca8b85.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/0f5ed1f3-7892-4088-8330-64eca2ca8b85.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/0f5ed1f3-7892-4088-8330-64eca2ca8b85.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/0f5ed1f3-7892-4088-8330-64eca2ca8b85.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/18814/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Cole Hauser, Morris Chestnut, Eddie Cibrian, Daniel Dae Kim, Rick Ravanello, Marcel Iures, Kieran Darcy-Smith, Lena Headey, Piper Perabo, Brian Steele",
+          "Channel": null,
+          "Copyright": "© 2005 SCREEN GEMS",
+          "Description": "Bloodthirsty creatures await a pack of divers who become trapped in an underwater cave network.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/18814/type/KEY/dimension/182X270",
+          "MediaId": "18814",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/18814/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/18814/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/d96f4154-9a6d-41e0-81e8-1844fad9ae85.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2005",
+          "RunTime": "97",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "The Cave",
+          "URLSafeTitle": "the-cave",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24029",
+      "name": "Wing Commander",
+      "title": "WING COMMANDER",
+      "subtitle": null,
+      "description": "In the year 2564, Earth is under attack by the frog-like warriors of the Kilrathi empire - and a new breed of young fighters emerges, blasting into space to save the planet!",
+      "assetName": "[24029] Wing Commander (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24029",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24029/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-04 15:25:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Freddie Prinze Jr., Matthew Lillard, Saffron Burrows, Jurgen Prochnow, Tcheky Karyo, David Warner, David Suchet, Ginny Holder, John Bondi, Ken Bones, Richard Dillane, David Fahm, Fraser James, Simon MacCorkindale, Mark Powley, Hugh Quarshie, Raph Taylor",
+          "Channel": "STARZ",
+          "Copyright": "Unknown",
+          "Description": "In the year 2564, Earth is under attack by the frog-like warriors of the Kilrathi empire - and a new breed of young fighters emerges, blasting into space to save the planet!",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24029/type/KEY/dimension/182X270",
+          "MediaId": "24029",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24029/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24029/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "PG13",
+          "ReleaseYear": "1999",
+          "RunTime": "100",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Wing Commander",
+          "URLSafeTitle": "wing-commander",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "21037",
+      "name": "The Amazing Spider-Man 2",
+      "title": "AMAZING SPIDER-MAN 2, THE",
+      "subtitle": null,
+      "description": "The amazing web-slinger returns! While Peter Parker and Gwen Stacy's romance grows, Spider-Man must contend with supervillians Electro, Rhino and the Green Goblin! With Jamie Foxx.",
+      "assetName": "[21037] The Amazing Spider-Man 2 (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "21037",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/86c45fb1-017d-4026-8980-90e729dcc96a.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/86c45fb1-017d-4026-8980-90e729dcc96a.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/2bf56702-7b3a-4f83-886c-09a7ebf87424.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/2bf56702-7b3a-4f83-886c-09a7ebf87424.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/75c457e7-9467-46bb-a6ed-045e05a48161.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/75c457e7-9467-46bb-a6ed-045e05a48161.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/21037/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-25 05:15:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Sally Field, Colm Feore, Felicity Jones, Paul Giamatti, Embeth Davidtz, Campbell Scott, Marton Csokas, Louis Cancelmi, Max Charles, B.J. Novak, Sarah Gadon, Jorge Vega",
+          "Channel": "STARZ InBlack",
+          "Copyright": "© 2014 CPII AND LSC. SPIDER-MAN AND RELATED CHARACTERS AND ELEMETS: TM & (C) 2014 MARVEL. ALL RIGHTS RESERVED.",
+          "Description": "The amazing web-slinger returns! While Peter Parker and Gwen Stacy's romance grows, Spider-Man must contend with supervillians Electro, Rhino and the Green Goblin! With Jamie Foxx.",
+          "HasPreview": true,
+          "InstantPreviewSmall": "http://preview-g.starz.com/p/previews/815e0877-deae-4500-b9b8-9817c89ed189.MP4",
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/21037/type/KEY/dimension/182X270",
+          "MediaId": "21037",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/21037/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/21037/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/86c45fb1-017d-4026-8980-90e729dcc96a.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2014",
+          "RunTime": "141",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:3233a4bb-23eb-423e-8523-811978343a46",
+          "Title": "The Amazing Spider-Man 2",
+          "URLSafeTitle": "the-amazing-spider-man-2",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "22763",
+      "name": "Captain America: The Winter Soldier",
+      "title": "CAPTAIN AMERICA: THE WINTER SOLDIER",
+      "subtitle": null,
+      "description": "Captain America faces an insidious plot within S.H.I.E.L.D, and with colleague Black Widow takes on his most powerful nemesis yet: The Winter Soldier! With Robert Redford.",
+      "assetName": "[22763] Captain America: The Winter Soldier (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "22763",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/20a9d724-31dd-464d-a6dc-33d183e8e22a.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/20a9d724-31dd-464d-a6dc-33d183e8e22a.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/ea7df17d-9830-4cfb-b643-554875131312.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ea7df17d-9830-4cfb-b643-554875131312.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/3a22a52a-5c8f-4a0f-9480-215c2bf3a7b3.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/3a22a52a-5c8f-4a0f-9480-215c2bf3a7b3.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22763/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-22 22:10:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Chris Evans, Scarlett Johansson, Samuel L Jackson, Sebastian Stan, Robert Redford, Anthony Mackie, Cobie Smulders, Frank Grillo, Emily VanCamp, Hayley Atwell, Toby Jones, Stan Lee, Callan Mulvey, Jenny Agutter, Bernard White",
+          "Channel": "STARZ Edge",
+          "Copyright": "© MARVEL. ALL RIGHTS RESERVED",
+          "Description": "Captain America faces an insidious plot within S.H.I.E.L.D, and with colleague Black Widow takes on his most powerful nemesis yet: The Winter Soldier! With Robert Redford.",
+          "HasPreview": true,
+          "InstantPreviewSmall": "http://preview-g.starz.com/p/previews/dc7a5f6e-e791-405b-ba62-8759ebe8b7d4.MP4",
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22763/type/KEY/dimension/182X270",
+          "MediaId": "22763",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22763/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22763/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/20a9d724-31dd-464d-a6dc-33d183e8e22a.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2014",
+          "RunTime": "135",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:cbe35769-5586-4ab9-8ed5-7cfa22d5a0c3",
+          "Title": "Captain America: The Winter Soldier",
+          "URLSafeTitle": "captain-america-the-winter-soldier",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23922",
+      "name": "Ghost Rider",
+      "title": "GHOST RIDER",
+      "subtitle": null,
+      "description": "The Marvel comics hero comes life! Stunt cyclist Johnny Blaze sells his soul to the devil to save his dad. Years later, the evil one makes another offer - become the supernatural Ghost Rider!\r\n\r\n",
+      "assetName": "[23922] Ghost Rider (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23922",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/3a44a78d-197a-4567-a2fb-5a1eb3aba021.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/3a44a78d-197a-4567-a2fb-5a1eb3aba021.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/de3be3cd-57e3-492c-8a1f-e590535b1221.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/de3be3cd-57e3-492c-8a1f-e590535b1221.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/de3be3cd-57e3-492c-8a1f-e590535b1221.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/de3be3cd-57e3-492c-8a1f-e590535b1221.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23922/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-06 00:00:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Nicolas Cage, Eva Mendes, Sam Elliot, Peter Fonda, Wes Bentley, Donal Logue, Sam Elliott, Eddie Baroo, Jessica Napier",
+          "Channel": "STARZ",
+          "Copyright": "© 2007 COLUMBIA PICTURES INDUSTRIES, INC & GHOST RIDER CHARACTER TM (C) 2007 MARVEL CHARACTERS, INC.",
+          "Description": "The Marvel comics hero comes life! Stunt cyclist Johnny Blaze sells his soul to the devil to save his dad. Years later, the evil one makes another offer - become the supernatural Ghost Rider!\r\n\r\n",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23922/type/KEY/dimension/182X270",
+          "MediaId": "23922",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23922/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23922/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/3a44a78d-197a-4567-a2fb-5a1eb3aba021.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2007",
+          "RunTime": "110",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:37cf57a3-7725-4da6-8f94-060452750e98",
+          "Title": "Ghost Rider",
+          "URLSafeTitle": "ghost-rider",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23254",
+      "name": "X-Men 2",
+      "title": "X2: X-MEN UNITED",
+      "subtitle": null,
+      "description": "As Magneto's mutants come close to murdering the president, the military sets up a plan to eradicate Charles Xavier's school - the X-Men now have two foes to conquer!",
+      "assetName": "[23254] X-Men 2 (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23254",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/70bb0cd5-7a35-492c-92ed-7e816a10f13c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/70bb0cd5-7a35-492c-92ed-7e816a10f13c.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/93ddee13-4345-47cc-a8ef-7b41649c7cad.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/93ddee13-4345-47cc-a8ef-7b41649c7cad.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/9f126560-22f8-4c71-b1b9-05004eb09661.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/9f126560-22f8-4c71-b1b9-05004eb09661.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23254/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-19 20:45:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Patrick Stewart, Hugh Jackman, Ian McKellen, Halle Berry, Famke Janssen, James Marsden, Rebecca Romijn-Stamos, Anna Paquin, Aaron Stanford, Kelly Hu, Brian Cox, Alan Cumming, Bruce Davison, Shawn Ashmore, Katie Stuart, Kea Wong",
+          "Channel": "STARZ",
+          "Copyright": "© 2003 20TH CENTURY FOX FILM CORP. X-MEN CHARACTER NAMES AND THEIR DISTINCTIVE LIKENESS TM & (C) 2003 MARVEL ENTERTAINMENT LLC AND ITS SUBSIDIARIES. ALL RIGHTS RESERVED",
+          "Description": "As Magneto's mutants come close to murdering the president, the military sets up a plan to eradicate Charles Xavier's school - the X-Men now have two foes to conquer!",
+          "HasPreview": true,
+          "InstantPreviewSmall": "http://preview-g.starz.com/p/previews/9fdecde4-a04f-44ed-b285-a41e76709649.MP4",
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23254/type/KEY/dimension/182X270",
+          "MediaId": "23254",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23254/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23254/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/70bb0cd5-7a35-492c-92ed-7e816a10f13c.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2003",
+          "RunTime": "133",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:235498a7-85e8-4c9e-8f0b-b3adfc92605f",
+          "Title": "X-Men 2",
+          "URLSafeTitle": "x-men-2",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "9551",
+      "name": "The Thing",
+      "title": "THING, THE",
+      "subtitle": null,
+      "description": "Exciting, gory remake of the sci-fi classic: a frozen survivor of an ancient space ship thaws out and wreaks havoc in a remote Antarctic outpost. Directed by John Carpenter (\"Halloween\").",
+      "assetName": "[9551] The Thing (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "9551",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9551/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Kurt Russell, Wilford Brimley, T.K. Carter, Richard A Dysart, Richard Masur, Donald Moffat, David Clennon, A. Wilford Brimley, Keith David",
+          "Channel": null,
+          "Copyright": "© 1982 UNIVERSAL CITY STUDIOS, INC.",
+          "Description": "Exciting, gory remake of the sci-fi classic: a frozen survivor of an ancient space ship thaws out and wreaks havoc in a remote Antarctic outpost. Directed by John Carpenter (\"Halloween\").",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9551/type/KEY/dimension/182X270",
+          "MediaId": "9551",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9551/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9551/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1982",
+          "RunTime": "108",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "The Thing",
+          "URLSafeTitle": "the-thing",
+          "Type": "movie"
+        }
+      ]
+    }
+  ],
+  "friday_2015_11_27": [
+    {
+      "contentId": "23922",
+      "name": "Ghost Rider",
+      "title": "GHOST RIDER",
+      "subtitle": null,
+      "description": "The Marvel comics hero comes life! Stunt cyclist Johnny Blaze sells his soul to the devil to save his dad. Years later, the evil one makes another offer - become the supernatural Ghost Rider!\r\n\r\n",
+      "assetName": "[23922] Ghost Rider (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23922",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/3a44a78d-197a-4567-a2fb-5a1eb3aba021.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/3a44a78d-197a-4567-a2fb-5a1eb3aba021.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/de3be3cd-57e3-492c-8a1f-e590535b1221.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/de3be3cd-57e3-492c-8a1f-e590535b1221.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/de3be3cd-57e3-492c-8a1f-e590535b1221.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/de3be3cd-57e3-492c-8a1f-e590535b1221.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23922/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-06 00:00:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Nicolas Cage, Eva Mendes, Sam Elliot, Peter Fonda, Wes Bentley, Donal Logue, Sam Elliott, Eddie Baroo, Jessica Napier",
+          "Channel": "STARZ",
+          "Copyright": "© 2007 COLUMBIA PICTURES INDUSTRIES, INC & GHOST RIDER CHARACTER TM (C) 2007 MARVEL CHARACTERS, INC.",
+          "Description": "The Marvel comics hero comes life! Stunt cyclist Johnny Blaze sells his soul to the devil to save his dad. Years later, the evil one makes another offer - become the supernatural Ghost Rider!\r\n\r\n",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23922/type/KEY/dimension/182X270",
+          "MediaId": "23922",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23922/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23922/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/3a44a78d-197a-4567-a2fb-5a1eb3aba021.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2007",
+          "RunTime": "110",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:37cf57a3-7725-4da6-8f94-060452750e98",
+          "Title": "Ghost Rider",
+          "URLSafeTitle": "ghost-rider",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "22213",
+      "name": "Alien",
+      "title": "ALIEN",
+      "subtitle": null,
+      "description": "The original classic! The frightening, intense story of the discovery of a vicious alien species by blue-collar space crew has become a sci-fi landmark. Oscar-winner for Best Visual Effects, directed by Ridley Scott.",
+      "assetName": "[22213] Alien (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "22213",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/315bcda5-0b07-49b4-9a3d-5759ffde6b35.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/315bcda5-0b07-49b4-9a3d-5759ffde6b35.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/16072ef5-4a5b-4dbd-8cf6-ced322dba569.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/16072ef5-4a5b-4dbd-8cf6-ced322dba569.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-10-10 08:30:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Tom Skerritt, Sigourney Weaver, John Hurt, Veronica Cartwright, Harry Dean Stanton, Ian Holm, Yaphet Kotto",
+          "Channel": "STARZ InBlack",
+          "Copyright": "© 1979 20TH CENTURY FOX",
+          "Description": "The original classic! The frightening, intense story of the discovery of a vicious alien species by blue-collar space crew has become a sci-fi landmark. Oscar-winner for Best Visual Effects, directed by Ridley Scott.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+          "MediaId": "22213",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1979",
+          "RunTime": "116",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Alien",
+          "URLSafeTitle": "alien",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24468",
+      "name": "Doom",
+      "title": "DOOM",
+      "subtitle": null,
+      "description": "A group of space marines are sent to investigate strange events at a remote research facility on Mars, but once they arrive, they find themselves at the mercy of genetically altered killing machines.",
+      "assetName": "[24468] Doom (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24468",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24468/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "The Rock, Dhobi Oparei, Karl Urban, Dwayne \"The Rock\" Johnson, Rosamund Pike, Ben Daniels, Razaaq Adoti, Yao Chin, Dexter Fletcher, Raz Adoti, Al Weaver, Deobia Oparei, Brian Steele, Daniel York, Ian Hughes, Robert Russell, Sara Houghton, Richard Brake",
+          "Channel": null,
+          "Copyright": "Unknown",
+          "Description": "A group of space marines are sent to investigate strange events at a remote research facility on Mars, but once they arrive, they find themselves at the mercy of genetically altered killing machines.",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24468/type/KEY/dimension/182X270",
+          "MediaId": "24468",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24468/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24468/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "2005",
+          "RunTime": "104",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Doom",
+          "URLSafeTitle": "doom",
+          "Type": "movie"
+        }
+      ]
+    }
+  ],
+  "saturday_2015_11_28": [
+    {
+      "contentId": "24004",
+      "name": "The Arrival",
+      "title": "ARRIVAL, THE",
+      "subtitle": null,
+      "description": "An astrophysicist stumbles upon an extraterrestrial signal from outer space. But when his discovery is buried, he visits a secret South American research center and finds that shapeshifting aliens have begun terraforming the planet.",
+      "assetName": "[24004] The Arrival (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24004",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24004/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Charlie Sheen, Ron Silver, Lindsay Crouse, Teri Polo, Richard Schiff, Tony T Johnson, Leon Rippy, Buddy Joe Hooker",
+          "Channel": null,
+          "Copyright": "Unknown",
+          "Description": "An astrophysicist stumbles upon an extraterrestrial signal from outer space. But when his discovery is buried, he visits a secret South American research center and finds that shapeshifting aliens have begun terraforming the planet.",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24004/type/KEY/dimension/182X270",
+          "MediaId": "24004",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24004/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24004/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "PG13",
+          "ReleaseYear": "1996",
+          "RunTime": "115",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "The Arrival",
+          "URLSafeTitle": "the-arrival",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "22803",
+      "name": "Aliens",
+      "title": "ALIENS",
+      "subtitle": null,
+      "description": "The rip-roaring sequel to Alien! Ripley heads back to the monster-infested planet when she joins a military contingent sent to investigate. Non-stop action, Oscar-winner for Best Visual Effects.",
+      "assetName": "[22803] Aliens (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "22803",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/249d963b-a981-46b8-ad18-249218d9a351.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/249d963b-a981-46b8-ad18-249218d9a351.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/34f24fec-957c-4970-bbee-0696b3622e14.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/34f24fec-957c-4970-bbee-0696b3622e14.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/751f4b75-569a-416c-bc2c-623ec2f9e7e9.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/751f4b75-569a-416c-bc2c-623ec2f9e7e9.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22803/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-01 05:25:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Bill Paxton, William Hope, Jeanette Goldstein, Al Matthews, Mark Rolston, Ricco Ross, Colette Hiller, Daniel Kash, Cynthia Scott, Tip Tipping, Trevor Steedman, Paul Maxwell, Valerie Colgan, Alan Polonsky, Alibe Parsons, Jenette Goldstein, Cynthia Dale Scott",
+          "Channel": "STARZ Edge",
+          "Copyright": "© 1986 20TH CENTURY FOX",
+          "Description": "The rip-roaring sequel to Alien! Ripley heads back to the monster-infested planet when she joins a military contingent sent to investigate. Non-stop action, Oscar-winner for Best Visual Effects.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22803/type/KEY/dimension/182X270",
+          "MediaId": "22803",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22803/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22803/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/249d963b-a981-46b8-ad18-249218d9a351.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1986",
+          "RunTime": "137",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Aliens",
+          "URLSafeTitle": "aliens",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23054",
+      "name": "Starman",
+      "title": "STARMAN",
+      "subtitle": null,
+      "description": "A Wisconsin widow falls for the alien who has recreated her late husband's face and body - and both head for the west, on the run from government agencies in this smart, romantic sci-fi adventure.",
+      "assetName": "[23054] Starman (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23054",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/b1c5b5f8-2069-4207-90e2-613edc0b4013.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/b1c5b5f8-2069-4207-90e2-613edc0b4013.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/7a98db8d-176a-4ee6-b5cc-893cbdf93f54.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/7a98db8d-176a-4ee6-b5cc-893cbdf93f54.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/94244576-ed43-48f9-9d6d-a476409189de.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/94244576-ed43-48f9-9d6d-a476409189de.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23054/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-18 10:20:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Jeff Bridges, Karen Allen, Charles Martin Smith, Richard Jaeckel, Robert Phalen, Anthony Edwards, Tony Edwards, John Walter Davis, Ted White",
+          "Channel": "STARZ Kids & Family",
+          "Copyright": "© COLUMBIA/TRISTAR",
+          "Description": "A Wisconsin widow falls for the alien who has recreated her late husband's face and body - and both head for the west, on the run from government agencies in this smart, romantic sci-fi adventure.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23054/type/KEY/dimension/182X270",
+          "MediaId": "23054",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23054/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23054/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/b1c5b5f8-2069-4207-90e2-613edc0b4013.MP4",
+          "Rating": "PG",
+          "ReleaseYear": "1984",
+          "RunTime": "114",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Starman",
+          "URLSafeTitle": "starman",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "640",
+      "name": "Frequency",
+      "title": "FREQUENCY",
+      "subtitle": null,
+      "description": "In this sci-fi mystery, a troubled cop - whose fireman father died a hero thirty years earlier - discovers a way to communicate with his dad and prevent his death. But changing the past creates a disastrous new future!",
+      "assetName": "[640] Frequency (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "640",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/d3ff09ca-0979-447c-af73-f1dabfc196ba.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/d3ff09ca-0979-447c-af73-f1dabfc196ba.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/06f3c05b-dda5-4430-9250-fa60f227779a.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/06f3c05b-dda5-4430-9250-fa60f227779a.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/06f3c05b-dda5-4430-9250-fa60f227779a.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/06f3c05b-dda5-4430-9250-fa60f227779a.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/640/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-23 02:55:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Dennis Quaid, Jim Caviezel, Elizabeth Mitchell, Andre Braugher, Dougray Scott, Howard (Hawk) Koch Jr., Noah Emmerich, Shawn Doyle, Jordan Bridges, Melissa Errico, Daniel Henson, Frank McAnulty, Stephen Joffe, Michael Cera",
+          "Channel": "STARZ Kids & Family",
+          "Copyright": "© 2000 NEW LINE PRODUCTIONS, INC.",
+          "Description": "In this sci-fi mystery, a troubled cop - whose fireman father died a hero thirty years earlier - discovers a way to communicate with his dad and prevent his death. But changing the past creates a disastrous new future!",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/640/type/KEY/dimension/182X270",
+          "MediaId": "640",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/640/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/640/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/d3ff09ca-0979-447c-af73-f1dabfc196ba.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2000",
+          "RunTime": "118",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:c0bf3c4d-54d9-4674-a375-d4cf5f90e983",
+          "Title": "Frequency",
+          "URLSafeTitle": "frequency",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "8907",
+      "name": "Mad Max",
+      "title": "MAD MAX",
+      "subtitle": null,
+      "description": "The original Australian cult classic: in the near future, an ex-cop searches the dangerous outback for the vicious cycle gang who killed his wife and child. The film that put Mel Gibson on the map, followed by two big-budget sequels.",
+      "assetName": "[8907] Mad Max (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "8907",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/9075bcb7-bdaf-4375-bca7-cca562f1a87f.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/9075bcb7-bdaf-4375-bca7-cca562f1a87f.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/032c6056-d2e5-4545-b555-93c7dd0f5518.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/032c6056-d2e5-4545-b555-93c7dd0f5518.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/032c6056-d2e5-4545-b555-93c7dd0f5518.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/032c6056-d2e5-4545-b555-93c7dd0f5518.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/8907/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley, Roger Ward, Vincent Gil, Tim Burns, Geoff Parry, Paul Johnstone, John Ley, Jonathan Hardy, Sheila Florence",
+          "Channel": null,
+          "Copyright": "© 1979 MGM STUDIOS INC",
+          "Description": "The original Australian cult classic: in the near future, an ex-cop searches the dangerous outback for the vicious cycle gang who killed his wife and child. The film that put Mel Gibson on the map, followed by two big-budget sequels.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/8907/type/KEY/dimension/182X270",
+          "MediaId": "8907",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/8907/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/8907/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/9075bcb7-bdaf-4375-bca7-cca562f1a87f.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1979",
+          "RunTime": "93",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Mad Max",
+          "URLSafeTitle": "mad-max",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23703",
+      "name": "End Of Days",
+      "title": "END OF DAYS",
+      "subtitle": null,
+      "description": "As the millenium approaches, the Devil arrives in New York City to impregnate a young woman and create an evil empire that will take control of the universe - it's up to an atheist ex-cop to stop him!",
+      "assetName": "[23703] End Of Days (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23703",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/4ac3b796-1252-4aec-acc2-928728340c4a.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/4ac3b796-1252-4aec-acc2-928728340c4a.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/4495dcb1-64fe-43c2-bdac-46a96f0408cd.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/4495dcb1-64fe-43c2-bdac-46a96f0408cd.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/4495dcb1-64fe-43c2-bdac-46a96f0408cd.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/4495dcb1-64fe-43c2-bdac-46a96f0408cd.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23703/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-01 21:35:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Arnold Schwarzenegger, Gabriel Byrne, Robin Tunney, Kevin Pollak, Rod Steiger, CCH Pounder, Miriam Margolyes, Udo Kier, Derrick O'Connor, Mark Margolis, Michael O'Hagan, Victor Varnado",
+          "Channel": "STARZ",
+          "Copyright": "© 1999 BEACON COMMUNICATIONS LLC",
+          "Description": "As the millenium approaches, the Devil arrives in New York City to impregnate a young woman and create an evil empire that will take control of the universe - it's up to an atheist ex-cop to stop him!",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23703/type/KEY/dimension/182X270",
+          "MediaId": "23703",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23703/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23703/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/4ac3b796-1252-4aec-acc2-928728340c4a.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1999",
+          "RunTime": "122",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "End Of Days",
+          "URLSafeTitle": "end-of-days",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "9087",
+      "name": "Predator 2",
+      "title": "PREDATOR 2",
+      "subtitle": null,
+      "description": "L.A. is in the middle of a brutal gang war, the streets are a war zone - but now there's a third party involved in the bloodshed. It's not human, and its weaponry is definitely alien!",
+      "assetName": "[9087] Predator 2 (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "9087",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9087/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Danny Glover, Gary Busey, Ruben Blades, Maria Conchita Alonso, Bill Paxton, Kevin Peter Hall, Robert Davi, Adam Baldwin, Kent McCord, Morton Downey Jr., Calvin Lockhart",
+          "Channel": null,
+          "Copyright": "© 1990 TWENTIETH CENTURY FOX FILM CORPORATION",
+          "Description": "L.A. is in the middle of a brutal gang war, the streets are a war zone - but now there's a third party involved in the bloodshed. It's not human, and its weaponry is definitely alien!",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9087/type/KEY/dimension/182X270",
+          "MediaId": "9087",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9087/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9087/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1990",
+          "RunTime": "107",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Predator 2",
+          "URLSafeTitle": "predator-2",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "22213",
+      "name": "Alien",
+      "title": "ALIEN",
+      "subtitle": null,
+      "description": "The original classic! The frightening, intense story of the discovery of a vicious alien species by blue-collar space crew has become a sci-fi landmark. Oscar-winner for Best Visual Effects, directed by Ridley Scott.",
+      "assetName": "[22213] Alien (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "22213",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/315bcda5-0b07-49b4-9a3d-5759ffde6b35.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/315bcda5-0b07-49b4-9a3d-5759ffde6b35.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/16072ef5-4a5b-4dbd-8cf6-ced322dba569.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/16072ef5-4a5b-4dbd-8cf6-ced322dba569.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-10-10 08:30:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Tom Skerritt, Sigourney Weaver, John Hurt, Veronica Cartwright, Harry Dean Stanton, Ian Holm, Yaphet Kotto",
+          "Channel": "STARZ InBlack",
+          "Copyright": "© 1979 20TH CENTURY FOX",
+          "Description": "The original classic! The frightening, intense story of the discovery of a vicious alien species by blue-collar space crew has become a sci-fi landmark. Oscar-winner for Best Visual Effects, directed by Ridley Scott.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+          "MediaId": "22213",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22213/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/5b84a312-3d85-4da1-a245-6166eeb19ad9.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1979",
+          "RunTime": "116",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Alien",
+          "URLSafeTitle": "alien",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24021",
+      "name": "Terminator 2: Judgment Day",
+      "title": "TERMINATOR 2: JUDGMENT DAY",
+      "subtitle": null,
+      "description": "A decade after the original Terminator was destroyed, a second killing machine arrives from 2029 - but this time his mission is to protect her son, the future leader of the human resistance, from an even deadlier cyborg.",
+      "assetName": "[24021] Terminator 2: Judgment Day (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24021",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/26b9ec88-af4a-4784-9ff4-ca5dd9001861.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/26b9ec88-af4a-4784-9ff4-ca5dd9001861.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/2ab113e5-a055-469d-9e97-5fb4dcebe29c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/2ab113e5-a055-469d-9e97-5fb4dcebe29c.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/2ab113e5-a055-469d-9e97-5fb4dcebe29c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/2ab113e5-a055-469d-9e97-5fb4dcebe29c.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24021/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-04 23:55:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick, Earl Boen, Joe Morton, S. Epatha Merkerson, Castulo Guerra, Danny Cooksey, Jeanette Goldstein, Xander Berkeley, Jenette Goldstein",
+          "Channel": "STARZ",
+          "Copyright": "© 1991 CAROLCO PICTURES INC.",
+          "Description": "A decade after the original Terminator was destroyed, a second killing machine arrives from 2029 - but this time his mission is to protect her son, the future leader of the human resistance, from an even deadlier cyborg.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24021/type/KEY/dimension/182X270",
+          "MediaId": "24021",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24021/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24021/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/26b9ec88-af4a-4784-9ff4-ca5dd9001861.MP4",
+          "Rating": "R",
+          "ReleaseYear": "1991",
+          "RunTime": "137",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Terminator 2: Judgment Day",
+          "URLSafeTitle": "terminator-2-judgment-day",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23254",
+      "name": "X-Men 2",
+      "title": "X2: X-MEN UNITED",
+      "subtitle": null,
+      "description": "As Magneto's mutants come close to murdering the president, the military sets up a plan to eradicate Charles Xavier's school - the X-Men now have two foes to conquer!",
+      "assetName": "[23254] X-Men 2 (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23254",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/70bb0cd5-7a35-492c-92ed-7e816a10f13c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/70bb0cd5-7a35-492c-92ed-7e816a10f13c.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/93ddee13-4345-47cc-a8ef-7b41649c7cad.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/93ddee13-4345-47cc-a8ef-7b41649c7cad.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/9f126560-22f8-4c71-b1b9-05004eb09661.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/9f126560-22f8-4c71-b1b9-05004eb09661.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23254/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-19 20:45:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Patrick Stewart, Hugh Jackman, Ian McKellen, Halle Berry, Famke Janssen, James Marsden, Rebecca Romijn-Stamos, Anna Paquin, Aaron Stanford, Kelly Hu, Brian Cox, Alan Cumming, Bruce Davison, Shawn Ashmore, Katie Stuart, Kea Wong",
+          "Channel": "STARZ",
+          "Copyright": "© 2003 20TH CENTURY FOX FILM CORP. X-MEN CHARACTER NAMES AND THEIR DISTINCTIVE LIKENESS TM & (C) 2003 MARVEL ENTERTAINMENT LLC AND ITS SUBSIDIARIES. ALL RIGHTS RESERVED",
+          "Description": "As Magneto's mutants come close to murdering the president, the military sets up a plan to eradicate Charles Xavier's school - the X-Men now have two foes to conquer!",
+          "HasPreview": true,
+          "InstantPreviewSmall": "http://preview-g.starz.com/p/previews/9fdecde4-a04f-44ed-b285-a41e76709649.MP4",
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23254/type/KEY/dimension/182X270",
+          "MediaId": "23254",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23254/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23254/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/70bb0cd5-7a35-492c-92ed-7e816a10f13c.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2003",
+          "RunTime": "133",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:235498a7-85e8-4c9e-8f0b-b3adfc92605f",
+          "Title": "X-Men 2",
+          "URLSafeTitle": "x-men-2",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "10712",
+      "name": "Men In Black",
+      "title": "MEN IN BLACK",
+      "subtitle": null,
+      "description": "Hilarious sci-fi adventure about two secret government agents whose job is to police alien activity on Earth. The men in black must track down an intergalactic terrorist and prevent the planet's destruction.",
+      "assetName": "[10712] Men In Black (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "10712",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/2f6cde9d-94f1-410c-b3ca-e4af0a038a85.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/2f6cde9d-94f1-410c-b3ca-e4af0a038a85.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/da0fa055-e5ad-4c62-8abf-f34598ec5fd3.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/da0fa055-e5ad-4c62-8abf-f34598ec5fd3.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-25 09:20:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent Phillip D'Onofrio, Rip Torn, Tony Shalhoub, Sergio Calderon, Siobhan Fallon, Carel Struycken, Michael Willis, Vincent D'Onofrio",
+          "Channel": "STARZ InBlack",
+          "Copyright": "© 1997 COLUMBIA PICTURES INDUSTRIES INC",
+          "Description": "Hilarious sci-fi adventure about two secret government agents whose job is to police alien activity on Earth. The men in black must track down an intergalactic terrorist and prevent the planet's destruction.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+          "MediaId": "10712",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "1997",
+          "RunTime": "97",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:82e64927-0680-4072-8107-bbd733cfe58f",
+          "Title": "Men In Black",
+          "URLSafeTitle": "men-in-black",
+          "Type": "movie"
+        }
+      ]
+    }
+  ],
+  "sunday_2015_11_29": [
+    {
+      "contentId": "15527",
+      "name": "The Butterfly Effect",
+      "title": "BUTTERFLY EFFECT, THE",
+      "subtitle": null,
+      "description": "A young man discovers he has the ability to project himself back through time, where he tries to alter tragic incidents in his history - but that causes problems in the present in this mind-blowing thriller.",
+      "assetName": "[15527] The Butterfly Effect (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "15527",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/15527/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-10-04 15:20:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Ashton Kutcher, Amy Smart, William Lee Scott, Elden Henson, Melora Walters, Eric Stoltz, Callum Keith Rennie, Ethan Suplee, Kevin Schmidt, Logan Lerman, Irene Gorovaia, Jesse James, John Patrick Amedori",
+          "Channel": "STARZ",
+          "Copyright": "© 2004 NEW LINE PRODUCTIONS, INC..",
+          "Description": "A young man discovers he has the ability to project himself back through time, where he tries to alter tragic incidents in his history - but that causes problems in the present in this mind-blowing thriller.",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/15527/type/KEY/dimension/182X270",
+          "MediaId": "15527",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/15527/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/15527/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "2003",
+          "RunTime": "113",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "The Butterfly Effect",
+          "URLSafeTitle": "the-butterfly-effect",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "13853",
+      "name": "Videodrome",
+      "title": "VIDEODROME",
+      "subtitle": null,
+      "description": "A sleazy cable tv operator happens upon a mysterious, violent torture show - and discovers it's gruesome tool designed for global mind control! A cult classic from director David Cronenberg (The Fly).",
+      "assetName": "[13853] Videodrome (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "13853",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/13853/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "James Woods, Deborah Harry, Sonja Smits, Peter Dvorsky, Les Carlson, Jack Creley, Lynne Gorman, Julie Khaner",
+          "Channel": null,
+          "Copyright": "© 1983 UNIVERSAL CITY STUDIOS, INC.",
+          "Description": "A sleazy cable tv operator happens upon a mysterious, violent torture show - and discovers it's gruesome tool designed for global mind control! A cult classic from director David Cronenberg (The Fly).",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/13853/type/KEY/dimension/182X270",
+          "MediaId": "13853",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/13853/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/13853/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1983",
+          "RunTime": "87",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Videodrome",
+          "URLSafeTitle": "videodrome",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24475",
+      "name": "John Carpenter's They Live",
+      "title": "JOHN CARPENTER'S THEY LIVE",
+      "subtitle": null,
+      "description": "A drifter discovers a pair of sunglasses that reveal the true nature of the world - aliens in human disguise are running the planet! Now he begins a one-man war to defeat the invaders in John Carpenter's (Halloween) cult classic!",
+      "assetName": "[24475] John Carpenter's They Live (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24475",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Roddy Piper, Keith David, Meg Foster, George \"Buck\" Flower, Peter Jason, Raymond St. Jacques, Jason Robards II, Larry Franco, Jason Robards, Jason Robards III, George ``Buck'' Flower",
+          "Channel": null,
+          "Copyright": "© UNIVERSAL STUDIOS",
+          "Description": "A drifter discovers a pair of sunglasses that reveal the true nature of the world - aliens in human disguise are running the planet! Now he begins a one-man war to defeat the invaders in John Carpenter's (Halloween) cult classic!",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+          "MediaId": "24475",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1988",
+          "RunTime": "93",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "John Carpenter's They Live",
+          "URLSafeTitle": "john-carpenter-s-they-live",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "22668",
+      "name": "Invasion Of The Body Snatchers",
+      "title": "INVASION OF THE BODY SNATCHERS",
+      "subtitle": null,
+      "description": "The original sci-fi classic! A couple discover that plant-life pods from outer space are replacing ordinary citizens in their small town.",
+      "assetName": "[22668] Invasion Of The Body Snatchers (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "22668",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/4d72fd62-5731-49b2-a670-acddbb2ebb8b.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/4d72fd62-5731-49b2-a670-acddbb2ebb8b.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/602f5b80-a682-4b05-b874-04576f8c0cdb.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/602f5b80-a682-4b05-b874-04576f8c0cdb.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/602f5b80-a682-4b05-b874-04576f8c0cdb.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/602f5b80-a682-4b05-b874-04576f8c0cdb.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22668/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Kevin McCarthy, Dana Wynter, Carolyn Jones, Larry Cates, King Donovan, Jean Willes, Ralph Dumke, Virginia Christine, Tom Fadden, Kenneth Patterson, Guy Way, Pat O'Malley, Whit Bissell, Larry Gates",
+          "Channel": null,
+          "Copyright": "© 1956 PARAMOUNT PICTURES",
+          "Description": "The original sci-fi classic! A couple discover that plant-life pods from outer space are replacing ordinary citizens in their small town.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22668/type/KEY/dimension/182X270",
+          "MediaId": "22668",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22668/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/22668/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/4d72fd62-5731-49b2-a670-acddbb2ebb8b.MP4",
+          "Rating": "TVPG",
+          "ReleaseYear": "1956",
+          "RunTime": "80",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Invasion Of The Body Snatchers",
+          "URLSafeTitle": "invasion-of-the-body-snatchers",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "16345",
+      "name": "Invasion Of The Body Snatchers",
+      "title": "INVASION OF THE BODY SNATCHERS",
+      "subtitle": null,
+      "description": "San Francisco residents are slowly being replaced by emotionless replicas, and it's up to a handful of humans to stop the invasion! A chilling remake of the sci-fi classic, with Leonard Nimoy.",
+      "assetName": "[16345] Invasion Of The Body Snatchers (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "16345",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/85232081-e7da-4ad1-b9ee-1d215d068c98.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/85232081-e7da-4ad1-b9ee-1d215d068c98.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/00e5279d-e1de-4ec0-9fef-8fb5d7bc5b09.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/00e5279d-e1de-4ec0-9fef-8fb5d7bc5b09.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/3fecab82-b9fb-4a1b-b733-ff1b394d1f0e.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/3fecab82-b9fb-4a1b-b733-ff1b394d1f0e.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/16345/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Donald Sutherland, Brooke Adams, Leonard Nimoy, Veronica Cartwright, Jeff Goldblum, Art Hindle, Lelia Goldoni, Kevin McCarthy",
+          "Channel": null,
+          "Copyright": "© 1978 UNITED ARTISTS CORPORATION",
+          "Description": "San Francisco residents are slowly being replaced by emotionless replicas, and it's up to a handful of humans to stop the invasion! A chilling remake of the sci-fi classic, with Leonard Nimoy.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/16345/type/KEY/dimension/182X270",
+          "MediaId": "16345",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/16345/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/16345/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/85232081-e7da-4ad1-b9ee-1d215d068c98.MP4",
+          "Rating": "PG",
+          "ReleaseYear": "1978",
+          "RunTime": "115",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Invasion Of The Body Snatchers",
+          "URLSafeTitle": "invasion-of-the-body-snatchers",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24029",
+      "name": "Wing Commander",
+      "title": "WING COMMANDER",
+      "subtitle": null,
+      "description": "In the year 2564, Earth is under attack by the frog-like warriors of the Kilrathi empire - and a new breed of young fighters emerges, blasting into space to save the planet!",
+      "assetName": "[24029] Wing Commander (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24029",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24029/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-09-04 15:25:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Freddie Prinze Jr., Matthew Lillard, Saffron Burrows, Jurgen Prochnow, Tcheky Karyo, David Warner, David Suchet, Ginny Holder, John Bondi, Ken Bones, Richard Dillane, David Fahm, Fraser James, Simon MacCorkindale, Mark Powley, Hugh Quarshie, Raph Taylor",
+          "Channel": "STARZ",
+          "Copyright": "Unknown",
+          "Description": "In the year 2564, Earth is under attack by the frog-like warriors of the Kilrathi empire - and a new breed of young fighters emerges, blasting into space to save the planet!",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24029/type/KEY/dimension/182X270",
+          "MediaId": "24029",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24029/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24029/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "PG13",
+          "ReleaseYear": "1999",
+          "RunTime": "100",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Wing Commander",
+          "URLSafeTitle": "wing-commander",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23362",
+      "name": "Guardians Of The Galaxy",
+      "title": "GUARDIANS OF THE GALAXY",
+      "subtitle": null,
+      "description": "The Marvel comic comes to life! Five crazy loners - including a sharpshooting raccoon and a humanoid tree - discover they must band together to save the universe in this whip-smart, wise-cracking sci-fi adventure.",
+      "assetName": "[23362] Guardians Of The Galaxy (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23362",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-29 21:05:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, Benicio Del Toro, John C Reilly, Glenn Close, Laura Haddock, Sean Gunn, Peter Serafinowicz, Christopher Fairbank",
+          "Channel": "STARZ Kids & Family",
+          "Copyright": "© MARVEL. ALL RIGHTS RESERVED",
+          "Description": "The Marvel comic comes to life! Five crazy loners - including a sharpshooting raccoon and a humanoid tree - discover they must band together to save the universe in this whip-smart, wise-cracking sci-fi adventure.",
+          "HasPreview": true,
+          "InstantPreviewSmall": "http://preview-g.starz.com/p/previews/d864b59b-2fd2-4755-9dab-5ade07eb4120.MP4",
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+          "MediaId": "23362",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2014",
+          "RunTime": "120",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:aa1dba89-8f4b-4a69-a3d9-9c20a9ce3eee",
+          "Title": "Guardians Of The Galaxy",
+          "URLSafeTitle": "guardians-of-the-galaxy",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24165",
+      "name": "WarGames",
+      "title": "WARGAMES",
+      "subtitle": null,
+      "description": "Matthew Broderick stars as a computer gaming whiz who hacks into a military network, and accidentally starts the countdown to World War III. Can he stop the countdown before it launches the ultimate endgame?",
+      "assetName": "[24165] WarGames (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24165",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/e2d952bb-a775-4d1e-bfec-5d41eda5f034.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/e2d952bb-a775-4d1e-bfec-5d41eda5f034.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/05e343a2-186e-41dc-8c83-a1e817fb4f9f.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/05e343a2-186e-41dc-8c83-a1e817fb4f9f.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/05e343a2-186e-41dc-8c83-a1e817fb4f9f.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/05e343a2-186e-41dc-8c83-a1e817fb4f9f.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24165/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-10-03 06:30:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Matthew Broderick, Dabney Coleman, Ally Sheedy, John Wood, Barry Corbin, Juanin Clay",
+          "Channel": "STARZ",
+          "Copyright": "© 1983 UNITED ARTISTS CORPORATION",
+          "Description": "Matthew Broderick stars as a computer gaming whiz who hacks into a military network, and accidentally starts the countdown to World War III. Can he stop the countdown before it launches the ultimate endgame?",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24165/type/KEY/dimension/182X270",
+          "MediaId": "24165",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24165/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24165/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/e2d952bb-a775-4d1e-bfec-5d41eda5f034.MP4",
+          "Rating": "PG",
+          "ReleaseYear": "1983",
+          "RunTime": "112",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "WarGames",
+          "URLSafeTitle": "wargames",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "19982",
+      "name": "Fire In The Sky",
+      "title": "FIRE IN THE SKY",
+      "subtitle": null,
+      "description": "In the White Mountains of Arizona, a man disappears after being hit by a light from the sky. When he suddenly reappears five days later, he has terrifying memories of an alien abduction.",
+      "assetName": "[19982] Fire In The Sky (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "19982",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/86f6b4d8-a087-4a80-a7f1-d888a933981c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/86f6b4d8-a087-4a80-a7f1-d888a933981c.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/0663ba56-1eb6-4e95-8244-6c9440c0f0bf.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/0663ba56-1eb6-4e95-8244-6c9440c0f0bf.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/e3143cf5-aa9b-42f3-9377-6403bc96eab5.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/e3143cf5-aa9b-42f3-9377-6403bc96eab5.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/19982/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "D.B. Sweeney, Robert Patrick, Craig Sheffer, Peter Berg, James Garner, Henry Thomas, Bradley Gregg, Noble Willingham, Kathleen Wilhoite, Georgia Emelin, Scott MacDonald, Wayne Grace",
+          "Channel": null,
+          "Copyright": "© 1993 PARAMOUNT PICTURES",
+          "Description": "In the White Mountains of Arizona, a man disappears after being hit by a light from the sky. When he suddenly reappears five days later, he has terrifying memories of an alien abduction.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/19982/type/KEY/dimension/182X270",
+          "MediaId": "19982",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/19982/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/19982/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/86f6b4d8-a087-4a80-a7f1-d888a933981c.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "1993",
+          "RunTime": "109",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "Fire In The Sky",
+          "URLSafeTitle": "fire-in-the-sky",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "10712",
+      "name": "Men In Black",
+      "title": "MEN IN BLACK",
+      "subtitle": null,
+      "description": "Hilarious sci-fi adventure about two secret government agents whose job is to police alien activity on Earth. The men in black must track down an intergalactic terrorist and prevent the planet's destruction.",
+      "assetName": "[10712] Men In Black (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "10712",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/2f6cde9d-94f1-410c-b3ca-e4af0a038a85.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/2f6cde9d-94f1-410c-b3ca-e4af0a038a85.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/da0fa055-e5ad-4c62-8abf-f34598ec5fd3.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/da0fa055-e5ad-4c62-8abf-f34598ec5fd3.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-25 09:20:00",
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent Phillip D'Onofrio, Rip Torn, Tony Shalhoub, Sergio Calderon, Siobhan Fallon, Carel Struycken, Michael Willis, Vincent D'Onofrio",
+          "Channel": "STARZ InBlack",
+          "Copyright": "© 1997 COLUMBIA PICTURES INDUSTRIES INC",
+          "Description": "Hilarious sci-fi adventure about two secret government agents whose job is to police alien activity on Earth. The men in black must track down an intergalactic terrorist and prevent the planet's destruction.",
+          "HasPreview": true,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+          "MediaId": "10712",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/10712/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/4cff76e7-6944-4538-9f8f-7d4f0e5ee96c.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "1997",
+          "RunTime": "97",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:82e64927-0680-4072-8107-bbd733cfe58f",
+          "Title": "Men In Black",
+          "URLSafeTitle": "men-in-black",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23362",
+      "name": "Guardians Of The Galaxy",
+      "title": "GUARDIANS OF THE GALAXY",
+      "subtitle": null,
+      "description": "The Marvel comic comes to life! Five crazy loners - including a sharpshooting raccoon and a humanoid tree - discover they must band together to save the universe in this whip-smart, wise-cracking sci-fi adventure.",
+      "assetName": "[23362] Guardians Of The Galaxy (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23362",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-29 21:05:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, Benicio Del Toro, John C Reilly, Glenn Close, Laura Haddock, Sean Gunn, Peter Serafinowicz, Christopher Fairbank",
+          "Channel": "STARZ Kids & Family",
+          "Copyright": "© MARVEL. ALL RIGHTS RESERVED",
+          "Description": "The Marvel comic comes to life! Five crazy loners - including a sharpshooting raccoon and a humanoid tree - discover they must band together to save the universe in this whip-smart, wise-cracking sci-fi adventure.",
+          "HasPreview": true,
+          "InstantPreviewSmall": "http://preview-g.starz.com/p/previews/d864b59b-2fd2-4755-9dab-5ade07eb4120.MP4",
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+          "MediaId": "23362",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2014",
+          "RunTime": "120",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:aa1dba89-8f4b-4a69-a3d9-9c20a9ce3eee",
+          "Title": "Guardians Of The Galaxy",
+          "URLSafeTitle": "guardians-of-the-galaxy",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "9551",
+      "name": "The Thing",
+      "title": "THING, THE",
+      "subtitle": null,
+      "description": "Exciting, gory remake of the sci-fi classic: a frozen survivor of an ancient space ship thaws out and wreaks havoc in a remote Antarctic outpost. Directed by John Carpenter (\"Halloween\").",
+      "assetName": "[9551] The Thing (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "9551",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9551/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Kurt Russell, Wilford Brimley, T.K. Carter, Richard A Dysart, Richard Masur, Donald Moffat, David Clennon, A. Wilford Brimley, Keith David",
+          "Channel": null,
+          "Copyright": "© 1982 UNIVERSAL CITY STUDIOS, INC.",
+          "Description": "Exciting, gory remake of the sci-fi classic: a frozen survivor of an ancient space ship thaws out and wreaks havoc in a remote Antarctic outpost. Directed by John Carpenter (\"Halloween\").",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9551/type/KEY/dimension/182X270",
+          "MediaId": "9551",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9551/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/9551/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1982",
+          "RunTime": "108",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "The Thing",
+          "URLSafeTitle": "the-thing",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "24475",
+      "name": "John Carpenter's They Live",
+      "title": "JOHN CARPENTER'S THEY LIVE",
+      "subtitle": null,
+      "description": "A drifter discovers a pair of sunglasses that reveal the true nature of the world - aliens in human disguise are running the planet! Now he begins a one-man war to defeat the invaders in John Carpenter's (Halloween) cult classic!",
+      "assetName": "[24475] John Carpenter's They Live (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "24475",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": null,
+          "AvailableOndemand": false,
+          "AvailableOnStarzPlay": false,
+          "Cast": "Roddy Piper, Keith David, Meg Foster, George \"Buck\" Flower, Peter Jason, Raymond St. Jacques, Jason Robards II, Larry Franco, Jason Robards, Jason Robards III, George ``Buck'' Flower",
+          "Channel": null,
+          "Copyright": "© UNIVERSAL STUDIOS",
+          "Description": "A drifter discovers a pair of sunglasses that reveal the true nature of the world - aliens in human disguise are running the planet! Now he begins a one-man war to defeat the invaders in John Carpenter's (Halloween) cult classic!",
+          "HasPreview": false,
+          "InstantPreviewSmall": null,
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+          "MediaId": "24475",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/24475/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/",
+          "Rating": "R",
+          "ReleaseYear": "1988",
+          "RunTime": "93",
+          "StarzPlayURL": "http://www.starzplay.com",
+          "Title": "John Carpenter's They Live",
+          "URLSafeTitle": "john-carpenter-s-they-live",
+          "Type": "movie"
+        }
+      ]
+    },
+    {
+      "contentId": "23362",
+      "name": "Guardians Of The Galaxy",
+      "title": "GUARDIANS OF THE GALAXY",
+      "subtitle": null,
+      "description": "The Marvel comic comes to life! Five crazy loners - including a sharpshooting raccoon and a humanoid tree - discover they must band together to save the universe in this whip-smart, wise-cracking sci-fi adventure.",
+      "assetName": "[23362] Guardians Of The Galaxy (Preview)",
+      "playerType": null,
+      "playerName": "StarzJW Player",
+      "mediaId": "23362",
+      "videoUrlDesktop": [
+        "http://preview-g.starz.com/p/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4"
+      ],
+      "videoUrlTablet": [
+        "http://preview-g.starz.com/p/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4"
+      ],
+      "videoUrlHandset": [
+        "http://preview-g.starz.com/p/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4",
+        "rtmp://video.starz.com/ondemand/mp4:/previews/ad947d21-2cac-440d-8239-74ad9f1fbe33.MP4"
+      ],
+      "ccUrl": null,
+      "posterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+      "autoplay": false,
+      "ageRestricted": false,
+      "isLiveStream": false,
+      "contentType": "Preview",
+      "contentSource": "Dezmund",
+      "details": [
+        {
+          "AirDateTime": "2015-08-29 21:05:00",
+          "AvailableOndemand": true,
+          "AvailableOnStarzPlay": true,
+          "Cast": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, Benicio Del Toro, John C Reilly, Glenn Close, Laura Haddock, Sean Gunn, Peter Serafinowicz, Christopher Fairbank",
+          "Channel": "STARZ Kids & Family",
+          "Copyright": "© MARVEL. ALL RIGHTS RESERVED",
+          "Description": "The Marvel comic comes to life! Five crazy loners - including a sharpshooting raccoon and a humanoid tree - discover they must band together to save the universe in this whip-smart, wise-cracking sci-fi adventure.",
+          "HasPreview": true,
+          "InstantPreviewSmall": "http://preview-g.starz.com/p/previews/d864b59b-2fd2-4755-9dab-5ade07eb4120.MP4",
+          "InstantPreviewLarge": null,
+          "LandscapeBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+          "MediaId": "23362",
+          "PortraitBoxArt": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/960x1440",
+          "PosterUrl": "http://imagedata.starz.com/metadata-service/image/partner/starzcom/contentId/23362/type/KEY/dimension/182X270",
+          "PreviewDesktop": "http://preview-g.starz.com/p/previews/5c2ea6c7-d167-4506-bee2-e29ff02de886.MP4",
+          "Rating": "PG13",
+          "ReleaseYear": "2014",
+          "RunTime": "120",
+          "StarzPlayURL": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:aa1dba89-8f4b-4a69-a3d9-9c20a9ce3eee",
+          "Title": "Guardians Of The Galaxy",
+          "URLSafeTitle": "guardians-of-the-galaxy",
+          "Type": "movie"
+        }
+      ]
+    }
+  ]
+}

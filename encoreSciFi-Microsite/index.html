@@ -16,5 +16,35 @@
 </head>
 
 <body>
+
+	<h1>Nightly Flicks</h1>
+	<hr>
+
+	<script id="json-carousel-titles" type="text/template">
+		<ul class="carousel-titles">
+			{{#fulldailylineup}}
+				<li class="carousel-title">
+					<p class="date">{{AirDateTime}}</p>
+					<div class="carousel-thumb"><img src="{{posterUrl}}"></div>
+				</li>
+			{{/fulldailylineup}}
+		</ul>
+	</script>
+
+	<h2>Weekend Marathon Lineup</h2>
+	<hr>
+
+	<script id="json-carousel-dates" type="text/template">
+		<ul class="carousel-dates">
+			{{#fulldailylineup}}
+				<li class="carousel-date">
+					<p class="date">{{AirDateTime}}</p>
+					<p class="time">{{AirDateTime}}</p> <!--- get time --->
+					<div class="carousel-thumb"><img src="{{posterUrl}}"></div>
+				</li>
+			{{/fulldailylineup}}
+		</ul>
+	</script>
+
 </body>
 </html>
