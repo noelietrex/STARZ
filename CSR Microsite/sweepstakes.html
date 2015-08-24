@@ -10,9 +10,9 @@
 	<!-- Others -->
 	<script type="text/javascript" src="Scripts/microsite.js"></script>
 	<script type="text/javascript" src="Scripts/videoPlayer.js"></script>
-	<!-- <script type="text/javascript" src="Scripts/jquery.popupoverlay.js"></script> -->
 	<script type="text/javascript" src="Scripts/jquery.cookie.js"></script>
-	<script type="text/javascript" src="Scripts/th.js"></script>
+	<script type="text/javascript" src="Scripts/jquery.csrtreasurehunt.min.js"></script>
+	
 	<!-- Styling -->
 	<link rel="stylesheet" type="text/css" href="css/global.css">
 	<link rel="stylesheet" type="text/css" href="css/modal.css">
@@ -38,18 +38,15 @@
 </head>
 
 <body>	
-	<!-- POWER POPUP -->
-	<!-- <link rel="stylesheet" type="text/css" href="activities/personsofinterest/css/power_popup.css">
-	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
-	<script src="activities/personsofinterest/js/powerpopup.js" type="text/javascript" charset="utf-8"></script>
-	<div class="poweractivitypopup">
-		<a class="poweractivitypopup-close" href="javascript:void(0);"></a>
-	</div>
-	
-	<div class="poweractivityfixed">
-		<a class="poweractivitybtn powerfixedbtn" href="javascript:void(0);"><div class="btncolor"></div><div class="btnimg"></div></a>
-	</div>-->
-	<!-- END POWER POPUP -->
+	<!--- TREASURE HUNT --->
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$.get("treasurehunt.html", function(data){
+			$('body').prepend(data);
+		});
+	});
+	</script>
+	<!--- TREASURE HUNT --->
 	
 	<div id="starzNav">
 		<a href="index.html" id="starz_logo" onclick="_gaq.push(['_trackEvent', 'Nav', 'Click_LogoHome']);">Starz Entertainment</a>
@@ -161,8 +158,8 @@
 
 		<div id="visaSweep">
 			<a id="btn_tv" target="_blank" href="http://review.starz.com/affiliate/blunt_survivor_training/" onclick="_gaq.push(['_trackEvent', 'SweepsEnter', 'Click_BT/SR_EModule']);"></a>
-			<p><b>COMPLETE THE <a href="#" class="thirdclue">(3 MIN)</a> ONLINE TRAINING MODULE</b><br>
-				for your change to win an iPad Air</p>
+			<p><b>COMPLETE THE <a href="#" class="th-clue3">(3 MIN)</a> ONLINE TRAINING MODULE</b><br>
+				for your chance to win an iPad Air</p>
 		</div>
 		<br class="clear" />
 

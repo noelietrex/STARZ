@@ -1,0 +1,87 @@
+<script>
+$(document).ready(function(){
+	
+	//--------------------SET UP TREASURE HUNT ----------------//
+	$.csrTreasureHunt({
+		cookie:'csrsrtest5', //change per treasure hunt
+		items:3, //how many items need to be found in treasure hunt. 
+		quiz:false, //set if there is a quiz / video 
+			quizanswer:2, //ignore if quiz is false
+			quizvideo: true, //set if there is a video that 
+				videoproperties: { 
+					width:420,
+					height:260,
+					videopath: "http://preview-g.starz.com/p/promos/31756/31756_4q_starz_image_spot_600k.mp4",
+					autoplay:true,
+					poster:"http://assets.starz.com/starzvideoplayer/v1-patch30/Assets/starz_darkBkgd_685x385.jpg",
+					fallbackimg: "http://assets.starz.com/starzvideoplayer/v1-patch30/SiteImagesLib/no-flash-image-980.jpg",
+					videoplayerid: 'StarzVideoPlayerPopup'
+				}	
+	});
+	
+	//--------------------CLASSES FOR ITEMS ------------------//
+		// clues - "th-clue1", "th-clue2", "th-clue3" , etc
+			
+		// popups - "th-popup1", "th-popup2", "th-popup3", etc
+				// close button for popups - "th-closebtn"
+				
+			// quiz popup class name - "th-quiz"
+				// video class - "th-videodiv"								
+					//if JS, video path store in attr - <div class="th-videodiv" path="http://videopath.mp4"></div>
+				// error class - "th-errormessage"
+			// enter to win popup - "th-entertowin"	
+			
+		// side buttons- "th-cluebtn1", "th-cluebtn2", "th-cluebtn3", etc
+	//--------------------END CLASSES-----------------------//				
+});
+</script>
+
+<div class="th-popup1 leftth thpopup" id="treasurehunt">
+	<a class="closeth th-closebtn" href="#"><img alt="" class="close" src="images/treasurehunt/close.png"></a> <img alt="" class="logo" src="images/treasurehunt/header.png">
+	<hr>
+	<img alt="" class="rightth" src="images/treasurehunt/prize.jpg">
+
+	<h2 class="headlineleft">Don't Get Scavenger's Remorse</h2>
+
+	<p>Use the clues to navigate to the different sections of the website and select the golden text to get the next clue.</p>
+
+	<p>Complete the scavenger hunt between August 19th - September 2nd and enter the drawing to win one of 200 "Survivor's Remorse" Basketball Binders.</p>
+
+	<p><em>Your future could include something shiny and new.</em></p><a class="closeth" href="#">
+	<p class="clue"><strong>Your 1st clue:</strong><br>
+	Spot the video that highlights all the original series and hit movies available on STARZ.</p></a>
+</div>
+
+<div class="th-popup2 thpopup" id="treasurehunt">
+	<a class="closeth th-closebtn" href="#"><img alt="" class="close" src="images/treasurehunt/close.png"></a> <img alt="" class="logo" src="images/treasurehunt/header.png">
+	<hr>
+	<h2>Slam dunk!</h2>
+	<p>You found the 1st clue. Don't be afraid to gloat!</p>
+	<a class="closeth" href="#">
+		<p class="clue"><strong>Next clue:</strong><br>
+		Find the premiere date of <i>Into The Woods</i>.</p>
+	</a>
+</div>
+
+<div class="th-popup3 thpopup" id="treasurehunt">
+	<a class="closeth th-closebtn" href="#"><img alt="" class="close" src="images/treasurehunt/close.png"></a> <img alt="" class="logo" src="images/treasurehunt/header.png">
+	<hr>
+	<h2>You are on a roll!</h2>
+	<p>You found the 2nd Clue! Can you clench the win and find the final clue?</p>
+	<a class="closeth" href="#">
+		<p class="clue"><strong>Last clue:</strong><br>
+		Find the length of the Blunt Talk/ Survivor's Remorse Online Training.</p>
+	</a>
+</div>
+
+<div class="th-entertowin thpopup" id="treasurehunt">
+	<a class="closeth th-closebtn" href="#"><img alt="" class="close" src="images/treasurehunt/close.png"></a> <img alt="" class="logo" src="images/treasurehunt/header.png">
+	<hr>
+
+	<h2>Enjoy the Limelight!</h2><img alt="" class="centerth" src="images/treasurehunt/prize.jpg">
+
+	<p class="center">Congratulations! You have been entered into the drawing for one of 200 "Survivor's Remorse" Basketball Binders.<br>
+	<br>
+	200 agents will recieve their binder 2-3 weeks from the end of the activity. Check back for a list of winners.</p><a class="winBtn" href="http://www.starztraining.com/starz7/" target="_blank">
+	<p class="clue">Claim Your Prize</p></a>
+</div>
