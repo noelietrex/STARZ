@@ -328,7 +328,7 @@
 		"name": "Home Sweet Hell",
 		"playstart": "September 1 2015",
 		"playend": "February 28 2017",
-		"detaildate": "September 4 23:59:59",
+		"detaildate": "September 4 2015 23:59:59",
 		"displaydate": "September 4",
 		"detailtime": "9pm",
 		"headerphoto": "header-home-sweet-hell.jpg",
@@ -341,7 +341,7 @@
 		"name": "Into the Woods",
 		"playstart": "September 11 2015",
 		"playend": "February 28 2017",
-		"detaildate": "September 11 23:59:59",
+		"detaildate": "September 11 2015 23:59:59",
 		"displaydate": "September 11",
 		"detailtime": "9pm",
 		"headerphoto": "header-into-the-woods.jpg",
@@ -352,9 +352,9 @@
 		"copyright": "Into the Woods &copy; Disney Enterprises, Inc. All Rights Reserved"
 	},{
 		"name": "Fury",
-		"playstart": " ",
-		"playend": " ",
-		"detaildate": "September 18 23:59:59",
+		"playstart": "September 18 2015",
+		"playend": "February 28 2017",
+		"detaildate": "September 18 2015 23:59:59",
 		"displaydate": "September 18",
 		"detailtime": "9pm",
 		"headerphoto": "header-fury.jpg",
@@ -365,9 +365,9 @@
 		"copyright": "Fury &copy; 2015 Columbia Pictures Industries, Inc."
 	},{
 		"name": "Reach Me",
-		"playstart": " ",
-		"playend": " ",
-		"detaildate": "September 25 23:59:59",
+		"playstart": "September 28 2015",
+		"playend": "February 28 2017",
+		"detaildate": "September 25 2015 23:59:59",
 		"displaydate": "September 25",
 		"detailtime": "9pm",
 		"headerphoto": "header-reach-me.jpg",
@@ -376,5 +376,57 @@
 		"buttonlearn": "http://www.starz.com/movies/detail/reach-me",
 		"buttonwatch": "http://www.starz.com/movies/detail/reach-me",
 		"copyright": "Reach Me &copy; 2014"
+	},{
+		"name": "McFarland, USA",
+		"playstart": "September 17 2015",
+		"playend": "March 17 2017",
+		"detaildate": "October 2 2015 23:59:59",
+		"displaydate": "October 2",
+		"detailtime": "9pm",
+		"headerphoto": "header-mcfarland-usa.jpg",
+		"galleryphotos": ["mcfarland-usa1.jpg", "mcfarland-usa2.jpg", "mcfarland-usa3.jpg"],
+		"mobileimg": "mobile-mcfarland-usa.jpg",
+		"buttonlearn": "http://www.starz.com/movies/detail/mcfarland-usa",
+		"buttonwatch": "http://www.starz.com/movies/detail/mcfarland-usa",
+		"copyright": "McFarland USA &copy; 2015"
+	},{
+		"name": "Just Before I Go",
+		"playstart": "October 1 2015",
+		"playend": "March 31 2017",
+		"detaildate": "October 9 2015 23:59:59",
+		"displaydate": "October 9",
+		"detailtime": "9pm",
+		"headerphoto": "header-just-before-I-go.jpg",
+		"galleryphotos": ["just-before-I-go1.jpg", "just-before-I-go2.jpg", "just-before-I-go3.jpg"],
+		"mobileimg": "mobile-just-before-I-go.jpg",
+		"buttonlearn": "http://www.starz.com/movies/detail/just-before-I-go",
+		"buttonwatch": "http://www.starz.com/movies/detail/just-before-I-go",
+		"copyright": "Just Before I Go &copy; 2015"
+	},{
+		"name": "Still Alice",
+		"playstart": "September 16 2015",
+		"playend": "February 26 2017",
+		"detaildate": "October 16 2015 23:59:59",
+		"displaydate": "October 16",
+		"detailtime": "9pm",
+		"headerphoto": "header-still-alice.jpg",
+		"galleryphotos": ["still-alice1.jpg", "still-alice2.jpg", "still-alice3.jpg"],
+		"mobileimg": "mobile-still-alice.jpg",
+		"buttonlearn": "http://www.starz.com/movies/detail/still-alice",
+		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:2ad3456b-3834-41fd-8aa4-3061aea2e279",
+		"copyright": "Still Alice &copy; 2014 BSM STUDIO SAS. ALL RIGHTS RESERVED."
+	},{
+		"name": "The Raven",
+		"playstart": "September 1 2015",
+		"playend": "August 8 2017",
+		"detaildate": "October 23 2015 23:59:59",
+		"displaydate": "October 23",
+		"detailtime": "9pm",
+		"headerphoto": "header-raven.jpg",
+		"galleryphotos": ["raven1.jpg", "raven2.jpg", "raven3.jpg"],
+		"mobileimg": "mobile-raven.jpg",
+		"buttonlearn": "http://www.starz.com/movies/detail/the-raven",
+		"buttonwatch": "http://www.starzplay.com/PlayMedia?id=md:cid:org:bydeluxe.com:f65c8d26-1a7e-48d2-bb12-5e2c620840cd",
+		"copyright": "The Rave &copy; 2014"
 	}]
 }
