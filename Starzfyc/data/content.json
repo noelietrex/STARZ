@@ -1,0 +1,32 @@
+{
+	"shows":[
+		{
+			"name": "Black Sails",
+			"safe_name": "blacksails", 
+			"thumbnail" : "img/thumbnails/showtn_black_sails.jpg",
+			"titleart" : "img/titleart/showta_blacksails.png",
+			"playlistId": "4160515667001",
+			"acclaim": "data/acclaim/blacksails.html",
+			"categories": "data/categories/blacksails.html",
+			"nominations": "img/nominations/blacksailsnoms.png"
+		},{
+			"name": "Outlander",
+			"safe_name": "outlander",
+			"thumbnail" : "img/thumbnails/showtn_outlander.jpg",
+			"titleart" : "img/titleart/showta_outlander.png",
+			"playlistId": "4160515668001",
+			"acclaim": "data/acclaim/outlander.html",
+			"categories": "data/categories/outlander.html",
+			"nominations": "img/nominations/outlandernoms.png"
+		},{
+			"name": "The Missing",
+			"safe_name": "themissing",
+			"thumbnail" : "img/thumbnails/showtn_themissing.jpg",
+			"titleart" : "img/titleart/showta_themissing.png",
+			"playlistId": "4160515671001",
+			"acclaim": "data/acclaim/themissing.html",
+			"categories": "data/categories/themissing.html",
+			"nominations": "img/nominations/missingnoms.png"
+		}
+	]
+}
