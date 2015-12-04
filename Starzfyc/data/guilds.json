@@ -1,0 +1,44 @@
+{
+	"guilds":[{
+		"guildname": "Art Directors Guild",
+		"guildtitle1": "Art",
+		"guildtitle2": "Directors",
+		"guildtitle3": "Guild",
+		"safe_name": "artdirectors",
+		"link": "artdirectors.html",
+		"acclaim": "data/acclaim/artdirectors.html",
+		"image" : "img/home1.jpg",
+		"alttext" : "Ash vs Evil Dead mystical circle on ground with candles"
+	},{
+		"guildname": "Cinema Audio Society",
+		"guildtitle1": "Cinema",
+		"guildtitle2": "Audio",
+		"guildtitle3": "Society",
+		"safe_name": "cinemaaudio", 
+		"link": "cinemaaudio.html",
+		"acclaim": "data/acclaim/cinemaaudio.html",
+		"image" : "img/home2.jpg",
+		"alttext" : "Black Sails scene with camera and sound crew"
+	},{
+		"guildname": "Make-Up Artist Hair Stylists Guild",
+		"guildtitle1": "Make-Up Artist",
+		"guildtitle2": "Hair Stylists",
+		"guildtitle3": "Guild",
+		"safe_name": "makeuphair",
+		"link": "makeuphair.html",
+		"acclaim": "data/acclaim/makeuphair.html",
+		"image" : "img/home3.jpg",
+		"alttext" : "Black Sails characters woman with elaborate updo man with ponytail"
+	},{
+		"guildname": "Costume Designers Guild",
+		"guildtitle1": "Costume",
+		"guildtitle2": "Designers",
+		"guildtitle3": "Guild",
+		"safe_name": "costume",
+		"link": "costume.html",
+		"acclaim": "data/acclaim/costume.html",
+		"image" : "img/home4.jpg",
+		"alttext" : "Outlander characters in elaborate dress and suit"
+	}]
+
+}

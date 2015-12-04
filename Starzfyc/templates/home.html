@@ -1,16 +1,16 @@
 <div class="row clearfix">
 
-
-	{{#shows}}
-	<div class="col-md-4 item">
-			<a href="#/{{safe_name}}" class="homeitem" path="{{safe_name}}">
-				<p>See All Episodes</p>
-				<img src="{{thumbnail}}" />
-			</a><br><br>
-            <a href="#/{{safe_name}}" class="homeitem" path="{{safe_name}}">
-            	<img src="{{nominations}}" />
-            </a>
+{{#guilds}}
+<a href="{{link}}">
+	<div class="col-md-6 home-block">
+		<p>{{guildtitle1}}<br>
+			{{guildtitle2}}<br>
+			{{guildtitle3}}</p>
+		<div class="border">
+			<img src="{{image}}" alt="{{alttext}}" />
 		</div>
-	{{/shows}}
-	
+	</div>
+</a>
+{{/guilds}}
+
 </div>

@@ -4,9 +4,9 @@ var STARZ = STARZ || {};
 	START THE PARTY
 	****************/
 	STARZ.FYC = ( function(){
-		var PATH = "data/guilds.json",
+		var PATH = "data/contentmakeup.json",
 			$content, 
-			HOME = "templates/home.html", 
+			HOME = "templates/guilds.html", 
 			SHOW = "templates/show.html";
 			AWARD = "templates/award.html";
 			OLD = "templates/old.html";

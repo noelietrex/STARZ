@@ -1,0 +1,32 @@
+{
+	"shows":[
+		{
+			"name": "Outlander",
+			"safe_name": "outlander",
+			"thumbnail" : "img/thumbnails/showtn_outlander.jpg",
+			"titleart" : "img/titleart/showta_outlander.png",
+			"playlistId": "4160515668001",
+			"acclaim": "data/acclaim/outlander.html",
+			"categories": "data/categories/outlander.html",
+			"nominations": "img/nominations/outlandernoms.png"
+		},{
+			"name": "Black Sails",
+			"safe_name": "blacksails", 
+			"thumbnail" : "img/thumbnails/showtn_black_sails.jpg",
+			"titleart" : "img/titleart/showta_blacksails.png",
+			"playlistId": "4160515667001",
+			"acclaim": "data/acclaim/blacksails.html",
+			"categories": "data/categories/blacksails.html",
+			"nominations": "img/nominations/blacksailsnoms.png"
+		},{
+			"name": "Ash vs Evil Dead",
+			"safe_name": "aved",
+			"thumbnail" : "img/thumbnails/showtn_aved.jpg",
+			"titleart" : "img/titleart/showta_aved.png",
+			"playlistId": "4160515668001",
+			"acclaim": "data/acclaim/outlander.html",
+			"categories": "data/categories/outlander.html",
+			"nominations": "img/nominations/outlandernoms.png"
+		}
+	]
+}
