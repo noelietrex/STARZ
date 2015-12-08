@@ -6,36 +6,36 @@
 			"thumbnail" : "img/thumbnails/showtn_outlander.jpg",
 			"titleart" : "img/titleart/showta_outlander.png",
 			"playlistId": "4160515668001",
-			"acclaim": "data/acclaim/outlander.html",
-			"categories": "data/categories/outlander.html",
-			"nominations": "img/nominations/outlandernoms.png"
+			"category": "<b>Category</b>: Television Series, One Hour",
+			"episode": "<b>Episode</b>: 116, &#34;To Ransom A Man's Soul&#34;",
+			"people": "<b>Production Mixer Name</b>: Brian Milliken <br> <b>Re-recording Mixer #1 Name</b>: Nello Torri <br> <b>Re-recording Mixer #2 Name</b>: Alan Decker <br> <b>ADR Mixer Name</b>: Vince Balunas <br> <b>Foley Mixer Name</b>: Matt Manselle"
 		},{
 			"name": "Ash vs Evil Dead",
 			"safe_name": "aved",
 			"thumbnail" : "img/thumbnails/showtn_aved.jpg",
 			"titleart" : "img/titleart/showta_aved.png",
 			"playlistId": " ",
-			"acclaim": " ",
-			"categories": " ",
-			"nominations": " "
+			"category": "<b>Category</b>: Television Series, Half Hour",
+			"episode": "<b>Episode</b>: 103, &#34;Books From Beyond&#34;",
+			"people": "<b>Production Mixer Name</b>: David Madigan <br> <b>Re-recording Mixer #1 Name</b>: Brent Burge"
 		},{
 			"name": "Black Sails",
 			"safe_name": "blacksails", 
 			"thumbnail" : "img/thumbnails/showtn_black_sails.jpg",
 			"titleart" : "img/titleart/showta_blacksails.png",
 			"playlistId": "4160515667001",
-			"acclaim": "data/acclaim/blacksails.html",
-			"categories": "data/categories/blacksails.html",
-			"nominations": "img/nominations/blacksailsnoms.png"
+			"category": "<b>Category</b>: Television Series, One Hour",
+			"episode": "<b>Episode</b>: 201, &#34;IX&#34;",
+			"people": "<b>Production Mixer Name</b>: Conrad Kuhne <br> <b>Re-recording Mixer #1 Name</b>: Onnalee Blank <br> <b>Re-recording Mixer #2 Name</b>: Mathew Waters<br> <b>ADR Mixer Name</b>: Stefan Henrix<br> <b>Foley Mixer Name</b>: Brett Voss"
 		},{
 			"name": "POWER",
 			"safe_name": "power",
 			"thumbnail" : "img/thumbnails/showtn_power.jpg",
 			"titleart" : "img/titleart/showta_power.png",
 			"playlistId": " ",
-			"acclaim": " ",
-			"categories": " ",
-			"nominations": " "
+			"category": "<b>Category</b>: Television Series, One Hour",
+			"episode": "<b>Episode</b>: 210, &#34;Ghost is Dead&#34;",
+			"people": "<b>Production Mixer Name</b>: Timothia Sellers-Hogan <br> <b>Re-recording Mixer #1 Name</b>: Dennis Kirk <br> <b>Re-recording Mixer #2 Name</b>: Todd Orr"
 		}
 	]
 }
