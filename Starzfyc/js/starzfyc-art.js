@@ -98,12 +98,14 @@ var STARZ = STARZ || {};
 			
 			for ( i in STARZ.SHOWS ){
 				var d = STARZ.SHOWS[i];
+				var text = STARZ.SHOWS.stringify(json);
 				d["current"] = ( i==t ) ? true : false;
 				temp["shows"].push(d);
 			}
 			
 			$.get(SHOW, function(template){
 				var html = Mustache.to_html(template, temp);
+				var shows = SHOW.stringify(json);
 				$content.html(html);
 				
 				$('*[data-html]').each(loadHtml);
@@ -166,7 +168,3 @@ var STARZ = STARZ || {};
 		STARZ.FYC.init();
 	});
 })();
-
-
-
-

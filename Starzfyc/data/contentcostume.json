@@ -10,6 +10,15 @@
 			"categories": "data/categories/outlander.html",
 			"nominations": "img/nominations/outlandernoms.png"
 		},{
+			"name": "Ash vs Evil Dead",
+			"safe_name": "aved",
+			"thumbnail" : "img/thumbnails/showtn_aved.jpg",
+			"titleart" : "img/titleart/showta_aved.png",
+			"playlistId": " ",
+			"acclaim": " ",
+			"categories": " ",
+			"nominations": " "
+		},{
 			"name": "Black Sails",
 			"safe_name": "blacksails", 
 			"thumbnail" : "img/thumbnails/showtn_black_sails.jpg",
@@ -19,14 +28,14 @@
 			"categories": "data/categories/blacksails.html",
 			"nominations": "img/nominations/blacksailsnoms.png"
 		},{
-			"name": "Ash vs Evil Dead",
-			"safe_name": "aved",
-			"thumbnail" : "img/thumbnails/showtn_aved.jpg",
-			"titleart" : "img/titleart/showta_aved.png",
-			"playlistId": "4160515668001",
-			"acclaim": "data/acclaim/outlander.html",
-			"categories": "data/categories/outlander.html",
-			"nominations": "img/nominations/outlandernoms.png"
+			"name": "POWER",
+			"safe_name": "power",
+			"thumbnail" : "img/thumbnails/showtn_power.jpg",
+			"titleart" : "img/titleart/showta_power.png",
+			"playlistId": " ",
+			"acclaim": " ",
+			"categories": " ",
+			"nominations": " "
 		}
 	]
 }

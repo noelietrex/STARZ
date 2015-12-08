@@ -1,32 +1,42 @@
 {
 	"shows":[
 		{
-			"name": "Outlander",
-			"safe_name": "outlander",
-			"thumbnail" : "img/thumbnails/showtn_outlander.jpg",
-			"titleart" : "img/titleart/showta_outlander.png",
-			"playlistId": "4160515668001",
-			"acclaim": "data/acclaim/outlander.html",
-			"categories": "data/categories/outlander.html",
-			"nominations": "img/nominations/outlandernoms.png"
-		},{
 			"name": "Black Sails",
 			"safe_name": "blacksails", 
 			"thumbnail" : "img/thumbnails/showtn_black_sails.jpg",
 			"titleart" : "img/titleart/showta_blacksails.png",
 			"playlistId": "4160515667001",
-			"acclaim": "data/acclaim/blacksails.html",
-			"categories": "data/categories/blacksails.html",
-			"nominations": "img/nominations/blacksailsnoms.png"
+			"category": "<b>Category</b>: Best Period Hair Styling and/or Character Make Up",
+			"episode": "<b>Episode</b>: 201, &#34;IX&#34;",
+			"people": "Pamela Haddock, Dept. Head <br> Louise Coles, Key"
+		},{
+			"name": "Outlander",
+			"safe_name": "outlander",
+			"thumbnail" : "img/thumbnails/showtn_outlander.jpg",
+			"titleart" : "img/titleart/showta_outlander.png",
+			"playlistId": "4160515668001",
+			"category": "<b>Category</b>: Best Period Hair Styling and/or Character Hair Styling",
+			"episode": "<b>Episode</b>: 111, &#34;The Devil's Mark&#34;",
+			"people": "Ann McEwan, Dept. Head"
 		},{
 			"name": "Ash vs Evil Dead",
 			"safe_name": "aved",
 			"thumbnail" : "img/thumbnails/showtn_aved.jpg",
 			"titleart" : "img/titleart/showta_aved.png",
-			"playlistId": "4160515668001",
-			"acclaim": "data/acclaim/outlander.html",
-			"categories": "data/categories/outlander.html",
-			"nominations": "img/nominations/outlandernoms.png"
+			"playlistId": " ",
+			"category": "<b>Category</b>: Best Contemporary Hair Styling",
+			"episode": "<b>Episode</b>: 101, &#34;El Jefe&#34;",
+			"people": "Denise Kum, Dept. Head <br> Vanessa Hurley, Key",
+			"extended": "<br> <b>Category</b>: Best Contemporary Hair Styling</p> <p><b>Episode</b>: 106, &#34;The Killer of Killers&#34;</p> <p>Jane O’Kane, Dept. Head <br> Vanessa Hurley, Key</p> <p><b>Category</b>: Best Special Make Up Effects</p> <p><b>Episode</b>: 101, &#34;El Jefe&#34;</p> <p>"
+		},{
+			"name": "POWER",
+			"safe_name": "power",
+			"thumbnail" : "img/thumbnails/showtn_power.jpg",
+			"titleart" : "img/titleart/showta_power.png",
+			"playlistId": " ",
+			"category": "<b>Category</b>: Excellence in Period Television",
+			"episode": " ",
+			"people": "<b>Costume Designer</b>: Terry Dresbach"
 		}
 	]
 }
