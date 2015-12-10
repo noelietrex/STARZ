@@ -73,11 +73,11 @@ var STARZ = STARZ || {};
 		Password
 		****************/
 		function Prompt(t){
-			var c = $.cookie('starzfyc2015');
-			if(c!=CryptoJS.MD5("starzfyc2015")){
+			var c = $.cookie('starzfycADG');
+			if(c!=CryptoJS.MD5("starzfycADG")){
 				var a = prompt('Please enter your password to view this content');
-				if (  CryptoJS.MD5(a) ==  "64dd2c0944eacbca53121f629005921c") {
-					$.cookie('starzfyc2015',CryptoJS.MD5("starzfyc2015").toString(),  {expires: 1});
+				if ( CryptoJS.MD5(a) ==  "f585f4ff776ce6eeb28440d2b0e07cf1") {
+					$.cookie('starzfycADG',CryptoJS.MD5("starzfycADG").toString(),  {expires: 1});
 					loadShow(t);
 				} else {
 					alert('Incorrect password');
@@ -98,14 +98,12 @@ var STARZ = STARZ || {};
 			
 			for ( i in STARZ.SHOWS ){
 				var d = STARZ.SHOWS[i];
-				var text = STARZ.SHOWS.stringify(json);
 				d["current"] = ( i==t ) ? true : false;
 				temp["shows"].push(d);
 			}
 			
 			$.get(SHOW, function(template){
 				var html = Mustache.to_html(template, temp);
-				var shows = SHOW.stringify(json);
 				$content.html(html);
 				
 				$('*[data-html]').each(loadHtml);
@@ -121,9 +119,11 @@ var STARZ = STARZ || {};
 			var t = $(this);
 			var path = t.attr('data-html');
 			
-			$.get(path, function(html){
-				t.html(html);
-			});
+			if (path.length>3){
+				$.get(path, function(html){
+					t.html(html);
+				});
+			}
 		}	
 		
 		/***************

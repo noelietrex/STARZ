@@ -235,7 +235,7 @@ a .button {
 .episodes{
 	text-align: center;
 	float: right;
-	background-color: #3F4C56;
+	background-color: grey;
 	padding: 0;
 	width: 30%;
 	line-height: 24px;
@@ -465,7 +465,7 @@ p.quote i {
 	clear: both;
 	padding: 0;
 	margin: 0 0 1px 0;
-	background-color: #3F4C56;
+	background-color: grey;
 }
 
 /*  COLUMN SETUP  */

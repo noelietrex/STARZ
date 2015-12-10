@@ -119,9 +119,11 @@ var STARZ = STARZ || {};
 			var t = $(this);
 			var path = t.attr('data-html');
 			
-			$.get(path, function(html){
-				t.html(html);
-			});
+			if (path.length>3){
+				$.get(path, function(html){
+					t.html(html);
+				});
+			}
 		}	
 		
 		/***************

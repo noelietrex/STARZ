@@ -16,9 +16,9 @@ var STARZ = STARZ || {};
 		****************/
 		function init(){
 			$content = $('#content');
-			
+
 			if(  document.addEventListener  ){
-		       loadShows();
+				loadShows();
 			} else {
 			    $.get(OLD, function(template){
 					var html = Mustache.to_html(template, {});
@@ -37,12 +37,12 @@ var STARZ = STARZ || {};
 			$.getJSON(PATH, function (data) {
 				STARZ.DATA = data;
 				STARZ.SHOWS = [];
-				
+
 				var app = $.sammy(function () {
 					var pg = this;
 					
 					pg.get('#/', function () {
-	                  loadHome();
+						loadHome();
 	              	});
 					
 					$.each( data["shows"], function(i, field){
@@ -73,12 +73,12 @@ var STARZ = STARZ || {};
 		Password
 		****************/
 		function Prompt(t){
-			var c = $.cookie('starzfyc2015');
-			if(c!=CryptoJS.MD5("starzfyc2015")){
+			var c = $.cookie('starzfycCAS');
+			if(c!=CryptoJS.MD5("starzfycCAS")){
 				var a = prompt('Please enter your password to view this content');
-				if (  CryptoJS.MD5(a) ==  "64dd2c0944eacbca53121f629005921c") {
-					$.cookie('starzfyc2015',CryptoJS.MD5("starzfyc2015").toString(),  {expires: 1});
-					loadShow(t);
+				if (  CryptoJS.MD5(a) ==  "ce5b89dae54a0dcae5780536fc7692d6") {
+					$.cookie('starzfycCAS',CryptoJS.MD5("starzfycCAS").toString(),  {expires: 1});
+			 		loadShow(t);
 				} else {
 					alert('Incorrect password');
 					window.location.hash = '#/';
@@ -94,20 +94,19 @@ var STARZ = STARZ || {};
 		function loadShow(t){
 			$(window).scrollTop(0);
 			
-			var temp = {"shows":[]};
+			 var temp = {"shows":[]};
 			
 			for ( i in STARZ.SHOWS ){
 				var d = STARZ.SHOWS[i];
 				d["current"] = ( i==t ) ? true : false;
 				temp["shows"].push(d);
 			}
-			
+
 			$.get(SHOW, function(template){
 				var html = Mustache.to_html(template, temp);
 				$content.html(html);
 				
 				$('*[data-html]').each(loadHtml);
-				
 				brightcove.createExperiences();
 			});
 		}
@@ -117,11 +116,14 @@ var STARZ = STARZ || {};
 		****************/
 		function loadHtml(){
 			var t = $(this);
+			
 			var path = t.attr('data-html');
 			
-			$.get(path, function(html){
-				t.html(html);
-			});
+			if (path.length>3){
+				$.get(path, function(html){
+					t.html(html);
+				});
+			}
 		}	
 		
 		/***************

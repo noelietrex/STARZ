@@ -73,11 +73,11 @@ var STARZ = STARZ || {};
 		Password
 		****************/
 		function Prompt(t){
-			var c = $.cookie('starzfyc2015');
-			if(c!=CryptoJS.MD5("starzfyc2015")){
+			var c = $.cookie('starzfycCDG');
+			if(c!=CryptoJS.MD5("starzfycCDG")){
 				var a = prompt('Please enter your password to view this content');
-				if (  CryptoJS.MD5(a) ==  "64dd2c0944eacbca53121f629005921c") {
-					$.cookie('starzfyc2015',CryptoJS.MD5("starzfyc2015").toString(),  {expires: 1});
+				if (  CryptoJS.MD5(a) ==  "8a68663f5aa970affdca1dbe2f904ba7") {
+					$.cookie('starzfycCDG',CryptoJS.MD5("starzfycCDG").toString(),  {expires: 1});
 					loadShow(t);
 				} else {
 					alert('Incorrect password');
@@ -119,9 +119,11 @@ var STARZ = STARZ || {};
 			var t = $(this);
 			var path = t.attr('data-html');
 			
-			$.get(path, function(html){
-				t.html(html);
-			});
+			if (path.length>3){
+				$.get(path, function(html){
+					t.html(html);
+				});
+			}
 		}	
 		
 		/***************
