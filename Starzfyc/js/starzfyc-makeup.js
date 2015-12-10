@@ -72,11 +72,12 @@ var STARZ = STARZ || {};
 		/***************
 		Password
 		****************/
+		console.log( CryptoJS.MD5("STARZFYCMUAHS").toString());
 		function Prompt(t){
 			var c = $.cookie('starzfycMUAHS');
 			if(c!=CryptoJS.MD5("starzfycMUAHS")){
 				var a = prompt('Please enter your password to view this content');
-				if (  CryptoJS.MD5(a) ==  "54468f100dd4f019cb39bc3a301ce6f7") {
+				if (  CryptoJS.MD5(a) ==  "b324633ae6a9a1658b55f4488bfabbe2") {
 					$.cookie('starzfycMUAHS',CryptoJS.MD5("starzfycMUAHS").toString(),  {expires: 1});
 					loadShow(t);
 				} else {

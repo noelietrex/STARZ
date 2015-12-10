@@ -76,7 +76,7 @@ var STARZ = STARZ || {};
 			var c = $.cookie('starzfycCDG');
 			if(c!=CryptoJS.MD5("starzfycCDG")){
 				var a = prompt('Please enter your password to view this content');
-				if (  CryptoJS.MD5(a) ==  "8a68663f5aa970affdca1dbe2f904ba7") {
+				if (  CryptoJS.MD5(a) ==  "73c4b6f961b6c5cabaa95010f10edabd") {
 					$.cookie('starzfycCDG',CryptoJS.MD5("starzfycCDG").toString(),  {expires: 1});
 					loadShow(t);
 				} else {
