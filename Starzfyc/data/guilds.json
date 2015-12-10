@@ -1,42 +1,38 @@
 {
 	"guilds":[{
 		"guildname": "Art Directors Guild",
-		"guildtitle1": "Art",
-		"guildtitle2": "Directors",
-		"guildtitle3": "Guild",
+		"guildtitle": "Art Directors Guild",
+		"color": "red",
 		"safe_name": "artdirectors",
-		"link": "artdirectors.html",
-		"acclaim": "data/acclaim/artdirectors.html",
+		"link": "ADG.html",
+		"acclaim": "data/acclaim/ADG.html",
 		"image" : "img/home1.jpg",
 		"alttext" : "Ash vs Evil Dead mystical circle on ground with candles"
 	},{
 		"guildname": "Cinema Audio Society",
-		"guildtitle1": "Cinema",
-		"guildtitle2": "Audio",
-		"guildtitle3": "Society",
+		"guildtitle": "Cinema Audio Society",
+		"color": "brown",
 		"safe_name": "cinemaaudio", 
-		"link": "cinemaaudio.html",
-		"acclaim": "data/acclaim/cinemaaudio.html",
+		"link": "CAS.html",
+		"acclaim": "data/acclaim/CAS.html",
 		"image" : "img/home2.jpg",
 		"alttext" : "Black Sails scene with camera and sound crew"
 	},{
 		"guildname": "Make-Up Artist Hair Stylists Guild",
-		"guildtitle1": "Make-Up Artist",
-		"guildtitle2": "Hair Stylists",
-		"guildtitle3": "Guild",
+		"guildtitle": "Make-Up Artist Hair Stylists Guild",
+		"color": "blue",
 		"safe_name": "makeuphair",
-		"link": "makeuphair.html",
-		"acclaim": "data/acclaim/makeuphair.html",
+		"link": "MUAHS.html",
+		"acclaim": "data/acclaim/MUAHS.html",
 		"image" : "img/home3.jpg",
 		"alttext" : "Black Sails characters woman with elaborate updo man with ponytail"
 	},{
 		"guildname": "Costume Designers Guild",
-		"guildtitle1": "Costume",
-		"guildtitle2": "Designers",
-		"guildtitle3": "Guild",
+		"guildtitle": "Costume Designers Guild",
+		"color": "green",
 		"safe_name": "costume",
-		"link": "costume.html",
-		"acclaim": "data/acclaim/costume.html",
+		"link": "CDG.html",
+		"acclaim": "data/acclaim/CDG.html",
 		"image" : "img/home4.jpg",
 		"alttext" : "Outlander characters in elaborate dress and suit"
 	}]

@@ -4,29 +4,41 @@
 			"name": "Outlander",
 			"safe_name": "outlander",
 			"thumbnail" : "img/thumbnails/showtn_outlander.jpg",
+			"logo": "img/logos/logo_outlander.jpg",
+			"side": "left",
+			"infocolor": "green",
 			"titleart" : "img/titleart/showta_outlander.png",
 			"playlistId": "4160515668001",
 			"category": "<b>Category</b>: One Hour Period or Fantasy Single-Camera Series",
 			"episode": "<b>Episodes</b>: 112, &#34;Lallybroch&#34; and 113, &#34;The Watch&#34;",
-			"people": "<b>Production Designer</b>: John Gary Steel"
+			"people": "<b>Production Designer</b>: John Gary Steel",
+			"quote": "&#8220;Truly one of the best tv shows not just currently on the air, but of all time&#8221; &#8211;<i>E! Online</i>"
 		},{
 			"name": "Black Sails",
 			"safe_name": "blacksails", 
 			"thumbnail" : "img/thumbnails/showtn_black_sails.jpg",
+			"logo": "img/logos/logo_blacksails.jpg",
+			"side": "right",
+			"infocolor": "blue",
 			"titleart" : "img/titleart/showta_blacksails.png",
 			"playlistId": "4160515667001",
 			"category": "<b>Category</b>: Half Hour Single-Camera Series",
 			"episode": "<b>Episode</b>: 101, &#34;El Jefe&#34; ",
-			"people": "<b>Production Designer</b>: Nick Bassett"
+			"people": "<b>Production Designer</b>: Nick Bassett",
+			"quote": "&#8220;Entertaining and spectacular pirate series&#8221; &#8211;<i>Los Angeles Daily News</i>"
 		},{
 			"name": "Ash vs Evil Dead",
 			"safe_name": "aved",
 			"thumbnail" : "img/thumbnails/showtn_aved.jpg",
+			"logo": "img/logos/logo_aved.jpg",
+			"side": "left",
+			"infocolor": "red",
 			"titleart" : "img/titleart/showta_aved.png",
 			"playlistId": " ",
 			"category": "<b>Category</b>: One Hour Period or Fantasy Single-Camera Series",
 			"episode": "<b>Episode</b>: 209, &#34;XVII&#34;",
-			"people": "<b>Production Designer</b>: Wolf Kroeger"
+			"people": "<b>Production Designer</b>: Wolf Kroeger",
+			"quote": "&#8220;Ash vs Evil dead looks fantastic &#8211; funny, gory, and delightfully messed up&#8221; &#8211;<i>io9</i>"
 		}
 	]
 }

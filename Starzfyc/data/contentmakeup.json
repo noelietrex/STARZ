@@ -4,40 +4,56 @@
 			"name": "Black Sails",
 			"safe_name": "blacksails", 
 			"thumbnail" : "img/thumbnails/showtn_black_sails.jpg",
+			"logo": "img/logos/logo_blacksails.jpg",
+			"side": "left",
+			"infocolor": "blue",
 			"titleart" : "img/titleart/showta_blacksails.png",
 			"playlistId": "4160515667001",
 			"category": "<b>Category</b>: Best Period Hair Styling and/or Character Make Up",
 			"episode": "<b>Episode</b>: 201, &#34;IX&#34;",
-			"people": "Pamela Haddock, Dept. Head <br> Louise Coles, Key"
+			"people": "Pamela Haddock, Dept. Head <br> Louise Coles, Key",
+			"quote": "&#8220;Handsomely Produced&#8221; &#8211;<i>Los Angeles Daily News</i>"
 		},{
 			"name": "Outlander",
 			"safe_name": "outlander",
 			"thumbnail" : "img/thumbnails/showtn_outlander.jpg",
+			"logo": "img/logos/logo_outlander.jpg",
+			"side": "right",
+			"infocolor": "green",
 			"titleart" : "img/titleart/showta_outlander.png",
 			"playlistId": "4160515668001",
 			"category": "<b>Category</b>: Best Period Hair Styling and/or Character Hair Styling",
 			"episode": "<b>Episode</b>: 111, &#34;The Devil's Mark&#34;",
-			"people": "Ann McEwan, Dept. Head"
+			"people": "Ann McEwan, Dept. Head",
+			"quote": "&#8220;Truly one of the best tv shows not just currently on the air, but of all time&#8221; &#8211;<i>E! Online</i>"
 		},{
 			"name": "Ash vs Evil Dead",
 			"safe_name": "aved",
 			"thumbnail" : "img/thumbnails/showtn_aved.jpg",
+			"logo": "img/logos/logo_aved.jpg",
+			"side": "left",
+			"infocolor": "red",
 			"titleart" : "img/titleart/showta_aved.png",
 			"playlistId": " ",
 			"category": "<b>Category</b>: Best Contemporary Hair Styling",
 			"episode": "<b>Episode</b>: 101, &#34;El Jefe&#34;",
 			"people": "Denise Kum, Dept. Head <br> Vanessa Hurley, Key",
-			"extended": "<br> <b>Category</b>: Best Contemporary Hair Styling</p> <p><b>Episode</b>: 106, &#34;The Killer of Killers&#34;</p> <p>Jane O’Kane, Dept. Head <br> Vanessa Hurley, Key</p> <br> <p><b>Category</b>: Best Special Make Up Effects</p> <p><b>Episode</b>: 101, &#34;El Jefe&#34;</p> <p>Jane O'Kane, Dept. Head <br> Vanessa Hurley, Key</p> <br> <p><b>Category</b>: Best Special Make Up Effects</p> <p><b>Episode</b>: 102, &#34;Bait&#34;</p> <p>Jane O'Kane, Dept. Head <br> Vanessa Hurley, Key"
+			"extended": "<br> <b>Category</b>: Best Contemporary Hair Styling</p> <p><b>Episode</b>: 106, &#34;The Killer of Killers&#34;</p> <p>Jane O’Kane, Dept. Head <br> Vanessa Hurley, Key</p> <br> <p><b>Category</b>: Best Special Make Up Effects</p> <p><b>Episode</b>: 101, &#34;El Jefe&#34;</p> <p>Jane O'Kane, Dept. Head <br> Vanessa Hurley, Key</p> <br> <p><b>Category</b>: Best Special Make Up Effects</p> <p><b>Episode</b>: 102, &#34;Bait&#34;</p> <p>Jane O'Kane, Dept. Head <br> Vanessa Hurley, Key",
+			"quote": "&#8220;Ash vs Evil Dead looks fantastic &#8211; funny, gory, and delightfully messed up&#8221; &#8211;<i>io9</i>"
 		},{
 			"name": "POWER",
 			"safe_name": "power",
 			"thumbnail" : "img/thumbnails/showtn_power.jpg",
+			"logo": "img/logos/logo_power.jpg",
+			"side": "right",
+			"infocolor": "brown",
 			"titleart" : "img/titleart/showta_power.png",
 			"playlistId": " ",
 			"category": "<b>Category</b>: Best Contemporary Hair Styling",
 			"episode": "<b>Episode</b>: 203, &#34;Like We're Any Other Couple&#34;",
 			"people": "Brian B Badie, Dept. Head <br> Caprice Greene, Key",
-			"extended": "<br> <b>Category</b>: Best Contemporary Make Up</p> <p><b>Episode</b>: 210, &#34;Ghost is Dead&#34;</p> <p>Anita Gibson, Dept. Head <br> Daniel Green, Key"
+			"extended": "<br> <b>Category</b>: Best Contemporary Make Up</p> <p><b>Episode</b>: 210, &#34;Ghost is Dead&#34;</p> <p>Anita Gibson, Dept. Head <br> Daniel Green, Key",
+			"quote": "&#8220;Fresh&#8221; &#8211;<i>New York Daily News</i>"
 		}
 	]
 }

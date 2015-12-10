@@ -4,29 +4,54 @@
 			"name": "Outlander",
 			"safe_name": "outlander",
 			"thumbnail" : "img/thumbnails/showtn_outlander.jpg",
+			"logo": "img/logos/logo_outlander.jpg",
+			"side": "left",
+			"infocolor": "green",
 			"titleart" : "img/titleart/showta_outlander.png",
 			"playlistId": "4160515668001",
-			"category": "<b>Category</b>: Excellence in Period Television",
-			"episode": " ",
-			"people": "<b>Costume Designer</b>: Terry Dresbach"
+			"category": "<b>Category</b>: Television Series, One Hour",
+			"episode": "<b>Episode</b>: 116, &#34;To Ransom A Man's Soul&#34;",
+			"people": "<b>Production Mixer Name</b>: Brian Milliken <br> <b>Re-recording Mixer #1 Name</b>: Nello Torri <br> <b>Re-recording Mixer #2 Name</b>: Alan Decker <br> <b>ADR Mixer Name</b>: Vince Balunas <br> <b>Foley Mixer Name</b>: Matt Manselle",
+			"quote": "&#8220;Truly one of the best tv shows not just currently on the air, but of all time&#8221; &#8211;<i>E! Online</i>"
+		},{
+			"name": "Ash vs Evil Dead",
+			"safe_name": "aved",
+			"thumbnail" : "img/thumbnails/showtn_aved.jpg",
+			"logo": "img/logos/logo_aved.jpg",
+			"side": "right",
+			"infocolor": "red",
+			"titleart" : "img/titleart/showta_aved.png",
+			"playlistId": " ",
+			"category": "<b>Category</b>: Television Series, Half Hour",
+			"episode": "<b>Episode</b>: 103, &#34;Books From Beyond&#34;",
+			"people": "<b>Production Mixer Name</b>: David Madigan <br> <b>Re-recording Mixer #1 Name</b>: Brent Burge",
+			"quote": "&#8220;Carefully Crafted&#8221; &#8211;<i>Fangoria</i>"
 		},{
 			"name": "Black Sails",
 			"safe_name": "blacksails", 
 			"thumbnail" : "img/thumbnails/showtn_black_sails.jpg",
+			"logo": "img/logos/logo_blacksails.jpg",
+			"side": "left",
+			"infocolor": "blue",
 			"titleart" : "img/titleart/showta_blacksails.png",
 			"playlistId": "4160515667001",
-			"category": "<b>Category</b>: One Hour Period or Fantasy Single-Camera Series",
-			"episode": " ",
-			"people": "<b>Costume Designer</b>: Tim Aslam"
+			"category": "<b>Category</b>: Television Series, One Hour",
+			"episode": "<b>Episode</b>: 201, &#34;IX&#34;",
+			"people": "<b>Production Mixer Name</b>: Conrad Kuhne <br> <b>Re-recording Mixer #1 Name</b>: Onnalee Blank <br> <b>Re-recording Mixer #2 Name</b>: Mathew Waters<br> <b>ADR Mixer Name</b>: Stefan Henrix<br> <b>Foley Mixer Name</b>: Brett Voss",
+			"quote": "&#8220;...grand-scale entertainment, with pounding action sequences and sumptuous special effects...&#8221; &#8211;<i>Newsday</i>"
 		},{
 			"name": "POWER",
 			"safe_name": "power",
 			"thumbnail" : "img/thumbnails/showtn_power.jpg",
+			"logo": "img/logos/logo_power.jpg",
+			"side": "right",
+			"infocolor": "brown",
 			"titleart" : "img/titleart/showta_power.png",
 			"playlistId": " ",
-			"category": "<b>Category</b>: One Hour Period or Fantasy Single-Camera Series",
-			"episode": " ",
-			"people": "<b>Costume Designer</b>: Frank L. Fleming"
+			"category": "<b>Category</b>: Television Series, One Hour",
+			"episode": "<b>Episode</b>: 210, &#34;Ghost is Dead&#34;",
+			"people": "<b>Production Mixer Name</b>: Timothia Sellers-Hogan <br> <b>Re-recording Mixer #1 Name</b>: Dennis Kirk <br> <b>Re-recording Mixer #2 Name</b>: Todd Orr",
+			"quote": "&#8220;Hits on all cylinders&#8221; &#8211;<i>New Your Daily News</i>"
 		}
 	]
 }

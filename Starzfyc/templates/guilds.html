@@ -1,17 +1,21 @@
 <div class="row clearfix">
 
 	{{#shows}}
-	<div class="col-md-4 item">
-			<a href="#/{{safe_name}}" class="homeitem" path="{{safe_name}}">
-				<img src="{{thumbnail}}" />
-				<p class="button">See All Episodes</p>
-			</a><br><br>
+	<div class="item {{infocolor}}">
+			<div class="show-img {{side}}">
+				<a href="#/{{safe_name}}" path="{{safe_name}}">
+					<img src="{{thumbnail}}" />
+					<p class="button">View All Episodes</p>
+				</a>
+			</div>
 
 			<div class="guild-info">
+				<img class="show-logo" src="{{logo}}" />
 				<p>{{{category}}}</p>
 				<p>{{{episode}}}</p>
 				<p>{{{people}}}</p>
 				<p>{{{extended}}}</p>
+				<p class="quote">{{{quote}}}</p>
 			</div>
             <!-- <a href="#/{{safe_name}}" class="homeitem" path="{{safe_name}}">
             	<img src="{{nominations}}" />
