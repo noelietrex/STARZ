@@ -634,6 +634,10 @@ footer p {
 
 /* --- CATEGORIES --- */
 
+.episodes>a.awardslink {
+    display: none!important;
+}
+
 .category {
 	padding: 40px;
 }
