@@ -1,0 +1,61 @@
+{{#shows}}
+	{{#current}}
+		<!-- AWARD POPUP -->
+		<div class="popup">
+			<div class="popupwrapper">
+				<a class="popupclose" href="javascript:void(0);" onclick="$('.popup').hide();"></a>
+				<ul class="category" data-html="{{categories}}"></ul>
+			</div>
+		</div> 
+	
+		<div class="section group currentshow">
+			<div class="videoArea">
+				<div class="theVideo">
+					<div class="videowrapper">
+						<object id="myExperience" class="BrightcoveExperience">
+							<param name="bgcolor" value="#000000" />
+							<param name="width" value="100%" />
+							<param name="height" value="auto" />
+							<param name="playerID" value="3336114681001" />
+							<param name="playerKey" value="AQ~~,AAAAAEaigsI~,YF3XTVmQgAsL3z8opj3WpvvLsf9qzBEE" />
+							<param name="isVid" value="true" />
+							<param name="isUI" value="true" />
+							<param name="dynamicStreaming" value="true" />
+							<param name="includeAPI" value="true" />
+							<param name="templateLoadHandler" value="BC.VideoPlayer.onTemplateLoad" />
+							<param name="templateReadyHandler" value="BC.VideoPlayer.onTemplateReady" />
+							<param name="wmode" value="opaque" />
+						</object>
+					</div>
+				</div>
+			</div>
+			<div class="episodes">
+				<img src="{{titleart}}" class="epLogo" alt="" />
+				<a class="awardslink" href="javascript:void(0);" onclick="$('.popup').show();">Categories</a>
+				<ul class="videolist" pl="{{playlistId}}">
+					<div class="loader"></div>	
+					<p class="listerror">No videos available</p>
+				</ul>
+			</div>
+		</div>
+	
+		<!-- ACCLAIM -->
+			<div class="container">
+				<div class="acclaim" data-html="{{acclaim}}">
+				</div>
+			</div>
+	{{/current}}
+{{/shows}}
+		
+<!--THUMBS FOR OTHER SHOWS -->
+<div class="section group">
+	{{#shows}}
+		{{^current}}
+			<div class="col span_1_of_5 showLogo">
+				<a class="showthumbnail" href="#/{{safe_name}}" path="{{safe_name}}">
+					<img src="{{titleart}}">
+				</a>
+			</div>
+		{{/current}}
+	{{/shows}}
+</div>
